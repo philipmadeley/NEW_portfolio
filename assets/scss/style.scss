@@ -13,6 +13,13 @@
 @import 'modules/fontawesome-anchor-helpers';
 @import 'modules/animate';
 
+// Enter Neat
+section.site-wraper {
+  @include outer-container;
+  aside { @include span-columns(3); }
+  article { @include span-columns(9); }
+}
+
 /*** Delete the following. Disposable styling for the included homepage (layouts/index.html) in Hugo-starter.***/
 
 /*.site-header {
