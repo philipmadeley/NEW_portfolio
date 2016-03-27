@@ -6,24 +6,33 @@
     <description>Recent content in Works on Philip John Madeley Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Mar 2016 12:08:17 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>metaps</title>
-      <link>/work/metaps/</link>
-      <pubDate>Sun, 27 Mar 2016 12:08:17 +0900</pubDate>
+      <title>DirectAd</title>
+      <link>/work/directad/</link>
+      <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/metaps/</guid>
-      <description></description>
+      <guid>/work/directad/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../static/images/me_top_sm@2x.jpg&#34; alt=&#34;This is an image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Showing Nathan how we can use Wercker and an SSG to automate HTML snippet creation for UCM. Here is a &lt;a href=&#34;../my-random-pdf-filename.pdf&#34;&gt;link to a pdf&lt;/a&gt;. Here is some more content after the sentence with the inline pdf link. Here is some more text.&lt;/p&gt;
+
+&lt;h4 id=&#34;sample-content-subheading&#34;&gt;Sample Content Subheading&lt;/h4&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil aut porro laborum maiores earum animi, minus, reprehenderit, quod aliquid aspernatur quia est illum nulla tempora neque incidunt deleniti cupiditate repellendus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, vel placeat accusantium. Tempora magnam nulla aliquid id repudiandae rerum autem, illum ipsam voluptas placeat facere incidunt ipsum architecto, consequuntur sed. &lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34;&gt;Here is a link to an external site&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Sample Content Two</title>
-      <link>/work/sample-content-two/</link>
-      <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Robotics Landing PAge</title>
+      <link>/work/robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/work/sample-content-two/</guid>
+      <guid>/work/robotics/</guid>
       <description>
 
 &lt;h3 id=&#34;sample-content-heading&#34;&gt;Sample Content Heading&lt;/h3&gt;
@@ -33,22 +42,6 @@
 &lt;h4 id=&#34;sample-content-subheading&#34;&gt;Sample Content Subheading&lt;/h4&gt;
 
 &lt;p&gt;One Flew Over the Cuckoo&amp;rsquo;s Nest. Man, when you lose your laugh you lose your footing. All I know is this: nobody&amp;rsquo;s very big in the first place, and it looks to me like everybody spends their whole life tearing everybody else down. But it&amp;rsquo;s the truth even if it didn&amp;rsquo;t happen. He knows that you have to laugh at the things that hurt you just to keep yourself in balance, just to keep the world from running you plumb crazy. If you don&amp;rsquo;t watch it people will force you one way or the other, into doing what they think you should do, or into just being mule-stubborn and doing the opposite out of spite. What do you think you are, for Chrissake, crazy or somethin&amp;rsquo;? Well you&amp;rsquo;re not! You&amp;rsquo;re not! You&amp;rsquo;re no crazier than the average asshole out walkin&amp;rsquo; around on the streets and that&amp;rsquo;s it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sample Content One</title>
-      <link>/work/sample-content-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/work/sample-content-one/</guid>
-      <description>
-
-&lt;p&gt;Showing Nathan how we can use Wercker and an SSG to automate HTML snippet creation for UCM. Here is a &lt;a href=&#34;../my-random-pdf-filename.pdf&#34;&gt;link to a pdf&lt;/a&gt;. Here is some more content after the sentence with the inline pdf link. Here is some more text.&lt;/p&gt;
-
-&lt;h4 id=&#34;sample-content-subheading&#34;&gt;Sample Content Subheading&lt;/h4&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil aut porro laborum maiores earum animi, minus, reprehenderit, quod aliquid aspernatur quia est illum nulla tempora neque incidunt deleniti cupiditate repellendus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, vel placeat accusantium. Tempora magnam nulla aliquid id repudiandae rerum autem, illum ipsam voluptas placeat facere incidunt ipsum architecto, consequuntur sed. &lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34;&gt;Here is a link to an external site&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

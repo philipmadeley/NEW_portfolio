@@ -12,13 +12,69 @@
 @import 'modules/social-media';
 @import 'modules/fontawesome-anchor-helpers';
 @import 'modules/animate';
+@import 'modules/rollovers';
 
-// Enter Neat
-section.site-wraper {
-  @include outer-container;
-  aside { @include span-columns(3); }
-  article { @include span-columns(9); }
+// HEADER HOME
+.site-header {
+  @include pad(32px 16px);
+  background-color: $white;
+  height: 106px;
+  /*box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2);*/
+
+  svg {
+    width: 42px;
+    height: 42px;
+    float:left;
+    margin-right: 10px;
+  }
+  h1, h2 {
+    vertical-align:top;
+    text-transform: uppercase;
+    font-weight: 500;
+
+  }
+  h1 {
+    font-size: 1rem;
+  }
+  h2 {
+    font-size: .8rem;
+    line-height: .8;
+    color: $grey-text;
+  }
+
 }
+
+// MAIN HOME PAGE
+
+.homepage {
+  background-color: $grey-bg;
+  @include outer-container();
+  @include pad(16px);
+
+  .postthumb {
+    @include span-columns(6);
+    @include omega(2n);
+    position:relative;
+    /*position: relative;
+    display: flex;
+    flex-direction: column;*/
+
+    //$projects: me ro an sb ob da ca cs;
+
+    /*a {
+      line-height: 0;
+    }*/
+
+    /*h3 {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }*/
+  }
+
+}
+
 
 /*** Delete the following. Disposable styling for the included homepage (layouts/index.html) in Hugo-starter.***/
 

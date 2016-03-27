@@ -3,13 +3,8 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-03-27T12:08:17+09:00</lastmod>
+    <lastmod>2016-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/work/metaps/</loc>
-    <lastmod>2016-03-27T12:08:17+09:00</lastmod>
   </url>
   
   <url>
@@ -18,7 +13,7 @@
   </url>
   
   <url>
-    <loc>/work/sample-content-two/</loc>
+    <loc>/work/directad/</loc>
     <lastmod>2016-01-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -32,7 +27,7 @@
   </url>
   
   <url>
-    <loc>/work/sample-content-one/</loc>
+    <loc>/work/robotics/</loc>
   </url>
   
 </urlset>

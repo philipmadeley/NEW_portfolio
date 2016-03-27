@@ -2,7 +2,7 @@
 
 Media Queries -
 Colors -
-Typography - 
+Typography -
 
 */
 
@@ -10,17 +10,38 @@ Typography -
 /***************MEDIA QUERIES*****************/
 //https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 // Begin tablet. iPhone 6/6s portrait max width = 375px, landscape max width = 667px; iPhone 6+/6+s portrait max width = 414px, landscape max width = 736px
-$M:668px; 
-// Begin desktop. iPad mini/3/4 portrait width = 768px, landscape width = 1024px; 
+$M:668px;
+// Begin desktop. iPad mini/3/4 portrait width = 768px, landscape width = 1024px;
 $L:1025px;
-// Use this for extra-large screens 
-$XL:1200px; 
+// Use this for extra-large screens
+$XL:1200px;
 
 /****************COLORS***********************/
 //CAP PALETTE
 
 //Site Color Palette
-$brand: #01589B;
+$grey-text: #9B9B9B;
+$brand: #002366;
+$grey-bg: #E9E9E9;
+
+//metaps projects
+$ro:        #5a617e;
+$me:        #F2594B;
+$an:        #7CBFB8;
+$ob:        #F06022;
+$da:        #072C3B;
+$sb:        #55A2E5;
+$ca:        #A0A563;
+$cs:        #e56643;
+
+$orange:    #FFAC07;
+$green:     #00DE8A;
+$blue:      #00CFFF;
+$pink:      #FF838A;
+$purple:    #9777D1;
+$gray:      #696969;
+
+
 $brand-two: #51B3FE;
 $brand-three: #013B68;
 $button-color: $brand;
@@ -38,13 +59,13 @@ $anchor-color:$brand;
 $anchor-weight:bold;
 $anchor-transition:0.3s;
 
-//Body 
+//Body
 $body-background:$white;
 
 /*************TYPOGRAPHY**********************/
 
 // FONT FAMILIES
-// See /gulp/scss/modules/_font-face.scss for conventions  
+// See /gulp/scss/modules/_font-face.scss for conventions
 // Font Options: abrilfatface, josefinsans, lato, leaguegothic, merriweather, montserrat, notoserif, opensans, playfairdisplay, ptsans, raleway, roboto, sourcesanspro, ubuntu
 $use-font-face-module: true; //Set to true to include @font-face declarations for $font
 $include-second-font: false; //Set to true to include @font-face declarations for $second-font
@@ -57,7 +78,7 @@ $base-font-family: $font, 'helvetica Neue', Helvetica, sans-serif;
 // Font Base
 $base-font-size: 18px; //Sets your 1 REM value
 $base-font-weight: 400;
-$base-font-color: #4a4a4a;
+$base-font-color: #4A4A4A;
 $base-line-height: 1.5;
 
 //HEADINGS
