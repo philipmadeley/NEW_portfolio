@@ -1,8 +1,16 @@
-<ul class="site-footer-social">
+<section class="my-social">
+<ul>
 	{{if .Site.Params.Twitter }}
 	<li>
 		<a href="{{.Site.Params.Twitter}}" target="_blank" title="Visit the Twitter account for {{.Site.Title}}">
-			{{ partial "svg_icons/twitter-square-icon.svg"}}
+			{{ partial "svg_icons/twitter-icon.svg"}}
+		</a>
+	</li>
+	{{ end }}
+	{{if .Site.Params.Dribbble }}
+	<li>
+		<a href="{{.Site.Params.Dribbble}}" target="_blank" title="Visit the Dribbble account for {{.Site.Title}}">
+			{{ partial "svg_icons/dribbble-icon.svg"}}
 		</a>
 	</li>
 	{{ end }}
@@ -22,8 +30,8 @@
 	{{ end }}
 	{{ if .Site.Params.Linkedin }}
 	<li>
-		<a href="{{.Site.Params.LinkedIn}}" target="_blank" title="Vist the LinkedIn account for {{.Site.Title}}">
-	{{ partial "svg_icons/linkedin-square-icon.svg"}}
+		<a href="{{.Site.Params.Linkedin}}" target="_blank" title="Vist the LinkedIn account for {{.Site.Title}}">
+	{{ partial "svg_icons/linkedin-icon.svg"}}
 		</a>
 	</li>
 	{{ end }}
@@ -56,3 +64,4 @@
 	</li>
 	{{ end }}
 </ul>
+</section>

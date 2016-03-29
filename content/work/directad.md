@@ -1,30 +1,38 @@
 ---
 title: DirectAd
-subtitle: Sample Subtitle
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quisquam et nostrum."
-author: Ryan Watters
-date: 2016-01-16
-publishDate: 2016-02-01
+description: Dashboard UI + Landing page
+author: Philip John Madeley
+date: 2013-11-01
+publishDate: 2013-11-01
 # categories:
   # - category 1
 # tags:
   # - tag 1
   # - tag 2
-comments: true
+comments: false
 generatePage: false
 published: true
-img_thumbnail: "images/thm_da@2x.jpg"
+img_thumbnail: "images/tm_da@2x.jpg"
 class: da
 
 ---
 
-![This is an image](/images/me_top_sm@2x.jpg)
+![Hero for DirectAd project](/images/me_top_sm@2x.jpg)
 
 
+## Overview
+To design and develop two landing pages which instantly informs the user about key product features whilst providing appropriate call-to-action dialogue. The site must incorporate an integrated brand experience for both advertiser and publisher pages.
 
-Showing Nathan how we can use Wercker and an SSG to automate HTML snippet creation for UCM. Here is a [link to a pdf](/my-random-pdf-filename.pdf). Here is some more content after the sentence with the inline pdf link. Here is some more text.
+## Process & Involvement
+* Wireframe + prototyping
+* Art direction + branding
+* Design + Front-end development
 
+## Focus Point
+Differentiate between the publisher and advertiser pages whilst maintaining a centralised brand experience and layout that is similar in both structure and rhythm.
 
-#### Sample Content Subheading
+## Focus Solution
+Create two swatch palettes — the publisher UI veering towards more monochromatic tones and advertiser incorporating brighter more contrasting colours. Provide cohesion between iconography, typography, background motifs and imagery.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil aut porro laborum maiores earum animi, minus, reprehenderit, quod aliquid aspernatur quia est illum nulla tempora neque incidunt deleniti cupiditate repellendus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, vel placeat accusantium. Tempora magnam nulla aliquid id repudiandae rerum autem, illum ipsam voluptas placeat facere incidunt ipsum architecto, consequuntur sed. [Here is a link to an external site](https://www.google.com).
+## Visit
+Rebranded under www.metaps.com as of June 2015.

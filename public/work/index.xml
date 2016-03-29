@@ -1,47 +1,342 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on Philip John Madeley Designer</title>
+    <title>Works on designer Philip John Madeley</title>
     <link>/work/</link>
-    <description>Recent content in Works on Philip John Madeley Designer</description>
+    <description>Recent content in Works on designer Philip John Madeley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>DirectAd</title>
-      <link>/work/directad/</link>
-      <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Metaps</title>
+      <link>/work/metaps/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/work/directad/</guid>
+      <guid>/work/metaps/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;../static/images/me_top_sm@2x.jpg&#34; alt=&#34;This is an image&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;Showing Nathan how we can use Wercker and an SSG to automate HTML snippet creation for UCM. Here is a &lt;a href=&#34;../my-random-pdf-filename.pdf&#34;&gt;link to a pdf&lt;/a&gt;. Here is some more content after the sentence with the inline pdf link. Here is some more text.&lt;/p&gt;
+&lt;p&gt;Design and develop a rebranded flagship website for Metaps Inc. The site must include key product features and deliver one integrated brand experience, which defines the Metaps marketing strategy. The site must be responsive and multilingual in five different languages.&lt;/p&gt;
 
-&lt;h4 id=&#34;sample-content-subheading&#34;&gt;Sample Content Subheading&lt;/h4&gt;
+&lt;h2 id=&#34;process-involvement&#34;&gt;Process + Involvement&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil aut porro laborum maiores earum animi, minus, reprehenderit, quod aliquid aspernatur quia est illum nulla tempora neque incidunt deleniti cupiditate repellendus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, vel placeat accusantium. Tempora magnam nulla aliquid id repudiandae rerum autem, illum ipsam voluptas placeat facere incidunt ipsum architecto, consequuntur sed. &lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34;&gt;Here is a link to an external site&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wireframe + prototype&lt;/li&gt;
+&lt;li&gt;Art direction + photography&lt;/li&gt;
+&lt;li&gt;UI design + Front-end development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;focus-point&#34;&gt;Focus Point&lt;/h2&gt;
+
+&lt;p&gt;Due to an extensive list of product features, the UX had to provide an intuitive way for users to navigate between product features whilst not polluting the main content space.&lt;/p&gt;
+
+&lt;h2 id=&#34;focus-solution&#34;&gt;Focus Solution&lt;/h2&gt;
+
+&lt;p&gt;Create a detachable sticky navigation menu that will scroll the page to selected features whilst highlighting the user&amp;rsquo;s current location.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;www.metaps.com&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robotics Landing PAge</title>
+      <title>Robotics</title>
       <link>/work/robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>/work/robotics/</guid>
       <description>
 
-&lt;h3 id=&#34;sample-content-heading&#34;&gt;Sample Content Heading&lt;/h3&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil aut porro laborum maiores earum animi, minus, reprehenderit, quod aliquid aspernatur quia est illum nulla tempora neque incidunt deleniti cupiditate repellendus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, vel placeat accusantium. Tempora magnam nulla aliquid id repudiandae rerum autem, illum ipsam voluptas placeat facere incidunt ipsum architecto, consequuntur sed.&lt;/p&gt;
+&lt;p&gt;To design and code a new landing page for Metaps which introduces a business model to monetize robot development. The site must be able to communicate the company&amp;rsquo;s vision through an easy-to-understand narrative.&lt;/p&gt;
 
-&lt;h4 id=&#34;sample-content-subheading&#34;&gt;Sample Content Subheading&lt;/h4&gt;
+&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
 
-&lt;p&gt;One Flew Over the Cuckoo&amp;rsquo;s Nest. Man, when you lose your laugh you lose your footing. All I know is this: nobody&amp;rsquo;s very big in the first place, and it looks to me like everybody spends their whole life tearing everybody else down. But it&amp;rsquo;s the truth even if it didn&amp;rsquo;t happen. He knows that you have to laugh at the things that hurt you just to keep yourself in balance, just to keep the world from running you plumb crazy. If you don&amp;rsquo;t watch it people will force you one way or the other, into doing what they think you should do, or into just being mule-stubborn and doing the opposite out of spite. What do you think you are, for Chrissake, crazy or somethin&amp;rsquo;? Well you&amp;rsquo;re not! You&amp;rsquo;re not! You&amp;rsquo;re no crazier than the average asshole out walkin&amp;rsquo; around on the streets and that&amp;rsquo;s it.&lt;/p&gt;
+&lt;p&gt;See the sketch for stakeholders and the design, maybe a simple user journey and some simple user reseach from Google Analytics.
+&lt;a href=&#34;http://www.beatricelaw.ca/uber-for-regulars/&#34; target=&#34;_blank&#34;&gt;http://www.beatricelaw.ca/uber-for-regulars/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;process-involvement&#34;&gt;Process &amp;amp; Involvement&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wireframe + prototype&lt;/li&gt;
+&lt;li&gt;Art direction + photography&lt;/li&gt;
+&lt;li&gt;UI design + front-end development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sketching&#34;&gt;Sketching&lt;/h2&gt;
+
+&lt;p&gt;As with all projects, I always start on paper and try to generate as many ideas as possible. Unltimately, the ideation and branching off will lead to a springboard for the wireframe.&lt;/p&gt;
+
+&lt;h2 id=&#34;wireframe&#34;&gt;Wireframe&lt;/h2&gt;
+
+&lt;p&gt;[include image of responsive wireframe] Talk about information architecture here (one page or lack of it)&lt;/p&gt;
+
+&lt;h2 id=&#34;branding&#34;&gt;Branding&lt;/h2&gt;
+
+&lt;p&gt;Include the color pallet. Talk about the photograhpy you took&lt;/p&gt;
+
+&lt;h2 id=&#34;interaction&#34;&gt;Interaction&lt;/h2&gt;
+
+&lt;p&gt;A content-light landing page which required an enriched user experience right from the start of interacting with the page.
+Create an on-scroll animation for the top section, which smoothly leads you to the next section of content whilst simultaneously reducing the navigation header in size.&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;Make consistent user research a part of your process.
+There is only so much time in the day, but I always wish there was more time for customer feedback and user research. We have performed lightweight, guerrilla research at Starbucks coffee shops, remote usability sessions, and even in-person workshops with some of our current customers, but it wasn&amp;rsquo;t consistent. I’m always in awe at the gold mine of information and clarity these sessions bring.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;www.robotics.metaps.com
+image of the full design site?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Create Studio</title>
+      <link>/work/creative-studio/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/work/creative-studio/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;To design and develop a highly visual landing page with unique branding to attract app developers and other potential clients. The site must be able to showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
+
+&lt;h2 id=&#34;process-involvement&#34;&gt;Process &amp;amp; Involvement&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ideation + Wireframe&lt;/li&gt;
+&lt;li&gt;Art direction + branding&lt;/li&gt;
+&lt;li&gt;UI design + Front-end development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;focus-point&#34;&gt;Focus Point&lt;/h2&gt;
+
+&lt;p&gt;The conventional method of placing the header at the top of the page would interfere with the grace and beauty of the illustrations.&lt;/p&gt;
+
+&lt;h2 id=&#34;focus-solution&#34;&gt;Focus Solution&lt;/h2&gt;
+
+&lt;p&gt;Place the header at the base of the slider and allow a scroll event to trigger when this element reaches the top of the page. The bulk of the header is also reduced, providing more space for other content.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;www.creative.metaps.com
+Please note — illustrations are by independent artists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metaps Analytics</title>
+      <link>/work/analytics/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/work/analytics/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance.
+This was an on-going project over about 16 months which was split into two parts: the first part was to redesign the landing page – which was not I&amp;rsquo;m not going to cover in this case study.  What will be discussed in more detail, are the UI features for the dashboard.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;I worked with a product manager to figure out the goals, scope, and constraints of each project.
+These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others&amp;rsquo; ideas.
+After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
+Benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.&lt;/p&gt;
+
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
+
+&lt;p&gt;Finally, I started to develop the more viable solutions into wireframe journey maps, which would and take us to another round of discussion.
+To achieve quick results, I used Invision to prototype the wireframes into a clickable user experience.
+Allowing several employees to click through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
+Once the user flow and UI had been fine tuned, I moved to Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI (built by my team mate).&lt;/p&gt;
+
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;The first stage was to leverage the Foundation framework and Rails asset pipeline to build out a static views. Once the layout and sizing were pixel perfect, the focus turned to the user journey and how each action would link to the next task.
+Luckily we had already tested this with our prototype.&lt;/p&gt;
+
+&lt;h2 id=&#34;retropsective&#34;&gt;Retropsective&lt;/h2&gt;
+
+&lt;p&gt;Although this product was in its initial stages of development, having more user data at hand could of helped with some of the decision making.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;The landing page was rebranded under www.metaps.com as of June 2015.
+The dashboard can be accessed with a user account only.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metaps Careers</title>
+      <link>/work/careers-landing-page/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/work/careers-landing-page/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance.
+This was an on-going project over about 16 months which was split into two parts: the first part was to redesign the landing page – which was not I&amp;rsquo;m not going to cover in this case study.  What will be discussed in more detail, are the UI features for the dashboard.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;I worked with a product manager to figure out the goals, scope, and constraints of each project.
+These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others&amp;rsquo; ideas.
+After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
+Benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.&lt;/p&gt;
+
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
+
+&lt;p&gt;Finally, I started to develop the more viable solutions into wireframe journey maps, which would and take us to another round of discussion.
+To achieve quick results, I used Invision to prototype the wireframes into a clickable user experience.
+Allowing several employees to click through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
+Once the user flow and UI had been fine tuned, I moved to Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI (built by my team mate).&lt;/p&gt;
+
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;The first stage was to leverage the Foundation framework and Rails asset pipeline to build out a static views. Once the layout and sizing were pixel perfect, the focus turned to the user journey and how each action would link to the next task.
+Luckily we had already tested this with our prototype.&lt;/p&gt;
+
+&lt;h2 id=&#34;retropsective&#34;&gt;Retropsective&lt;/h2&gt;
+
+&lt;p&gt;Although this product was in its initial stages of development, having more user data at hand could of helped with some of the decision making.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;The landing page was rebranded under www.metaps.com as of June 2015.
+The dashboard can be accessed with a user account only.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metaps Offerboard</title>
+      <link>/work/offerboard/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/work/offerboard/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance.
+This was an on-going project over about 16 months which was split into two parts: the first part was to redesign the landing page – which was not I&amp;rsquo;m not going to cover in this case study.  What will be discussed in more detail, are the UI features for the dashboard.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;I worked with a product manager to figure out the goals, scope, and constraints of each project.
+These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others&amp;rsquo; ideas.
+After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
+Benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.&lt;/p&gt;
+
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
+
+&lt;p&gt;Finally, I started to develop the more viable solutions into wireframe journey maps, which would and take us to another round of discussion.
+To achieve quick results, I used Invision to prototype the wireframes into a clickable user experience.
+Allowing several employees to click through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
+Once the user flow and UI had been fine tuned, I moved to Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI (built by my team mate).&lt;/p&gt;
+
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;The first stage was to leverage the Foundation framework and Rails asset pipeline to build out a static views. Once the layout and sizing were pixel perfect, the focus turned to the user journey and how each action would link to the next task.
+Luckily we had already tested this with our prototype.&lt;/p&gt;
+
+&lt;h2 id=&#34;retropsective&#34;&gt;Retropsective&lt;/h2&gt;
+
+&lt;p&gt;Although this product was in its initial stages of development, having more user data at hand could of helped with some of the decision making.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;The landing page was rebranded under www.metaps.com as of June 2015.
+The dashboard can be accessed with a user account only.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spike Box</title>
+      <link>/work/spikebox-app/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/work/spikebox-app/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance.
+This was an on-going project over about 16 months which was split into two parts: the first part was to redesign the landing page – which was not I&amp;rsquo;m not going to cover in this case study.  What will be discussed in more detail, are the UI features for the dashboard.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;I worked with a product manager to figure out the goals, scope, and constraints of each project.
+These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others&amp;rsquo; ideas.
+After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
+Benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.&lt;/p&gt;
+
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
+
+&lt;p&gt;Finally, I started to develop the more viable solutions into wireframe journey maps, which would and take us to another round of discussion.
+To achieve quick results, I used Invision to prototype the wireframes into a clickable user experience.
+Allowing several employees to click through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
+Once the user flow and UI had been fine tuned, I moved to Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI (built by my team mate).&lt;/p&gt;
+
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;The first stage was to leverage the Foundation framework and Rails asset pipeline to build out a static views. Once the layout and sizing were pixel perfect, the focus turned to the user journey and how each action would link to the next task.
+Luckily we had already tested this with our prototype.&lt;/p&gt;
+
+&lt;h2 id=&#34;retropsective&#34;&gt;Retropsective&lt;/h2&gt;
+
+&lt;p&gt;Although this product was in its initial stages of development, having more user data at hand could of helped with some of the decision making.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;The landing page was rebranded under www.metaps.com as of June 2015.
+The dashboard can be accessed with a user account only.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DirectAd</title>
+      <link>/work/directad/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/work/directad/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../images/me_top_sm@2x.jpg&#34; alt=&#34;Hero for DirectAd project&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;To design and develop two landing pages which instantly informs the user about key product features whilst providing appropriate call-to-action dialogue. The site must incorporate an integrated brand experience for both advertiser and publisher pages.&lt;/p&gt;
+
+&lt;h2 id=&#34;process-involvement&#34;&gt;Process &amp;amp; Involvement&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wireframe + prototyping&lt;/li&gt;
+&lt;li&gt;Art direction + branding&lt;/li&gt;
+&lt;li&gt;Design + Front-end development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;focus-point&#34;&gt;Focus Point&lt;/h2&gt;
+
+&lt;p&gt;Differentiate between the publisher and advertiser pages whilst maintaining a centralised brand experience and layout that is similar in both structure and rhythm.&lt;/p&gt;
+
+&lt;h2 id=&#34;focus-solution&#34;&gt;Focus Solution&lt;/h2&gt;
+
+&lt;p&gt;Create two swatch palettes — the publisher UI veering towards more monochromatic tones and advertiser incorporating brighter more contrasting colours. Provide cohesion between iconography, typography, background motifs and imagery.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;Rebranded under www.metaps.com as of June 2015.&lt;/p&gt;
 </description>
     </item>
     

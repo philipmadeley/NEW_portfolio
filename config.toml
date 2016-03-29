@@ -10,7 +10,7 @@ disableLiveReload= false
 disableRSS = false
 disableSitemap = false
 ignoreFiles = []
-languageCode = "en-us"
+languageCode = "en-gb"
 layoutDir = "layouts"
 log = false
 metaDataFormat = "yaml"
@@ -18,7 +18,7 @@ publishdir = "public"
 pygmentsUseClasses = true
 relativeURLs = true
 source = ""
-title = "Philip John Madeley Designer"
+title = "designer Philip John Madeley"
 uglyURLs = false
 verbose = true
 verboseLog = false
@@ -32,15 +32,14 @@ watch = true
 	SiteAuthor = "Philip John Madeley"
   TwitterHandle = "PhilipMadeley"
   #######BEGIN SOCIAL#######
-  # For each social account, use the full URL that leads to the homepage of your account/profile
 	GitHub = "https://github.com/philipmadeley"
   Twitter = "https://twitter.com/PhilipMadeley"
+  Linkedin = "https://www.linkedin.com/in/pjmadeley"
+  Instagram = "http://instagram.com/philipmadeley"
+  Dribbble = "https://dribbble.com/philipmadeley"
   # Facebook = "https://facebook.com/"
   # YouTube = "https://youtube.com"
   # GooglePlus = "https://plus.google.com/"
-  # For LinkedIn, you'll need to make sure you are using the URL for visitors, rather than the URL once you're signed into your account.
-  LinkedIn = "https://www.linkedin.com/in/pjmadeley"
-  Instagram = "http://instagram.com/philipmadeley"
   # Tumblr = "https://www.tumblr.com/"
   # Pinterest = "https://pinterest.com/"
   # Add your Google Analytics ID here (ie, UA-XXXXXXXX-X). See layouts/partials/google_analytics.html. Dev environment (ie, localhost) is automatically disabled.

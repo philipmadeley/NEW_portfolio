@@ -14,6 +14,7 @@
 @import 'modules/animate';
 @import 'modules/rollovers';
 
+
 // HEADER HOME
 .site-header {
   @include pad(32px 16px);
@@ -47,42 +48,57 @@
 // MAIN HOME PAGE
 
 .homepage {
-  background-color: $grey-bg;
   @include outer-container();
-  @include pad(16px);
 
   .postthumb {
-    @include span-columns(6);
-    @include omega(2n);
+    @include span-columns(12);
+    @include pad(0 16px 16px);
+    background-color: $white;
     position:relative;
-    /*position: relative;
-    display: flex;
-    flex-direction: column;*/
-
-    //$projects: me ro an sb ob da ca cs;
-
-    /*a {
-      line-height: 0;
-    }*/
-
-    /*h3 {
-      position: absolute;
-      left: 50%;
-      top: 50%;
-      transform: translate(-50%, -50%);
-    }*/
   }
+
+}
+
+footer {
+  @include pad(16px);
+
+.my-social {
+  @include row();
+
+  ul {
+    @include fill-parent();
+    @include row(table);
+
+  li {
+    @include reset-display;
+    @include pad(0);
+    @include span-columns(2 of 10);
+    text-align:center;
+
+    a {
+      background:$grey-bg;
+      display:inline-block;
+      @include padding(8px);
+    }
+    svg {
+      width: 32px;
+      height: 32px;
+      fill: blue;
+      transition: fill .5s ease-in 6s;
+      vertical-align:middle;
+    }
+  }
+
+  }
+}
+
 
 }
 
 
 /*** Delete the following. Disposable styling for the included homepage (layouts/index.html) in Hugo-starter.***/
 
-/*.site-header {
-    @include fill-parent;
-    z-index: 1;
-    position: relative;
-}
+/*
 
 .main {
     position: relative;
@@ -102,18 +118,6 @@
     }
 }
 
-.site-footer {
-    position: absolute;
-    width:100%;
-    height: $footer-height;
-    left: 0px;
-    bottom: 0px;
-    ul {
-        li {
-            display: inline;
-        }
-    }
-}
 
 
 span.dropcap {
@@ -128,22 +132,7 @@ span.dropcap {
     font-family: Georgia;
 }
 
-aside.social-share {
-    width:100%;
-    float:right;
-    text-align:center;
-    h5 {
-        font-size:.7em;
-        display:inline;
-        text-align:center;
-        font-weight:100;
-        color:lighten($base-font-color,35%);
-    }
-    ul li {
-        display: inline;
-        margin:5px;
-    }
-}
+
 
 ul.article-tags {
     display:inline;

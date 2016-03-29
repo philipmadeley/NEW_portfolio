@@ -9,11 +9,12 @@
       <a href="{{ .Permalink }}">
         <div class="project {{ with .Params.class }}{{ . }}{{ end }}" >
         <img{{ with .Params.img_thumbnail }} src="{{ . }}" {{ end }} alt="{{ .Title }}">
-      </a>
         <div class="title">
           <h3 class="name">{{ .Title }}</h3>
-          <p>{{ .Param "subtitle" }}</p>
+          <p>{{ .Description }}</p>
         </div>
+      </a>
+
     </section>
     {{ end }} {{ end }}
 
