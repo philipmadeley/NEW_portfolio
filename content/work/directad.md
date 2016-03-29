@@ -13,7 +13,7 @@ publishDate: 2016-02-01
 comments: true
 generatePage: false
 published: true
-img_thumbnail: "images/test.png"
+img_thumbnail: "images/thm_da@2x.jpg"
 class: da
 
 ---

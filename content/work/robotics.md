@@ -10,7 +10,7 @@ categories: [category 1, category 2]
 tags: [tag 1, tag 2]
 comments: true
 generatePage: true
-img_thumbnail: "images/me_tm.jpg"
+img_thumbnail: "images/thm_ro@2x.jpg"
 class: ro
 
 ---
