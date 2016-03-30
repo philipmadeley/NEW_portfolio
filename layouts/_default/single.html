@@ -1,5 +1,7 @@
 {{ partial "site_header.html" . }}
 <!-- Basic starter layout for single content files. Delete if needed.-->
+{{ partial "site_header/site_header_single.html" . }}
+
 <main class="main">
 	<!-- Swiftype attributes will only show if Swiftype = true in config.toml. -->
 	<article class="content"{{if .Site.Params.Swiftype }}data-swiftype-name="body" data-swiftype-type="text" {{ end}}>
@@ -11,7 +13,7 @@
   			{{ end }}
 			</ul>
 		</header>
-		{{ partial "social_share.html" . }}
+		<!-- {{ partial "social_share.html" . }} -->
 		{{ .Content }}
 	</article>
 	<!-- This sample single layout shows how to set up disqus_comments conditionals at both the Site Param and Page Param level.  -->

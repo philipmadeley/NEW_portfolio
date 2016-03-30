@@ -1,3 +1,5 @@
 <div class="site-copyright">
-    <span>&copy; {{ .Site.LastChange.Format "2006"}} {{ if .Site.Params.CopyrightLine }}{{.Site.Params.CopyrightLine}}{{ end }}</span>
+
+    <p>{{ if .Site.Params.MadeBy }}{{.Site.Params.MadeBy}}{{ end }}<br>
+    &copy; {{ .Site.LastChange.Format "2006"}} {{ if .Site.Params.CopyrightLine }}{{.Site.Params.CopyrightLine}}{{ end }}</p>
 </div>

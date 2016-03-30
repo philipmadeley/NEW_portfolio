@@ -1,0 +1,9 @@
+<header class="site-header work {{ with .Params.class }}{{ . }}{{ end }}">
+		<a href="/" id="home-button" class="logo_home">
+			{{ partial "svg_icons/logo-work-header.svg" }}
+				<h1>{{ .Title }} </h1>
+				<h2>{{ .Description }}</h2>
+				</a>
+		{{ partial "site_header/site_navigation.html" . }}
+		<!-- {{ partial "site_header/site_search_form.html" . }}     -->
+</header>

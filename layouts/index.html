@@ -1,8 +1,9 @@
 <!-- Note: global_head includes up to and including the opening <body> tag. -->
 {{ partial "site_header.html" . }}
+{{ partial "site_header/site_header_home.html" . }}
+
 <main class="main">
   <article class="homepage">
-
 
     {{ range .Data.Pages }} {{ if eq .Type "work"}}
     <section class="postthumb">
