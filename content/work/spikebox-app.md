@@ -1,6 +1,6 @@
 ---
 title: Spike Box
-subtitle: App design + marketing
+subtitle: Mobile App design
 author: Philip John Madeley
 date: 2014-05-01
 publishDate: 2014-05-01
@@ -13,10 +13,12 @@ class: sb
 ---
 
 ## Overview
-Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance.
-This was an on-going project over about 16 months which was split into two parts: the first part was to redesign the landing page – which was not I'm not going to cover in this case study.  What will be discussed in more detail, are the UI features for the dashboard.
+Spike Box is a social networking app and similar in concept to Craigslist. 
+The brief was to design a simple and easy-to-understand UI, where users can easily share item photos with friends and followers. The app must stand out from other competitors while still creating a simple yet engaging product which aligns to the Spike branding experience.
 
 ## Ideation
+Developing a native app was a first for Metaps and we didn't have any specific user data to work from. We held several meetings, with a projector to discuss planning and strategy. Once we started to define a direction another round of meetings and checkpoints were setup (it was a lengthy process!).
+
 I worked with a product manager to figure out the goals, scope, and constraints of each project.
 These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others' ideas.
 After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
@@ -38,3 +40,20 @@ Although this product was in its initial stages of development, having more user
 ## Visit
 The landing page was rebranded under www.metaps.com as of June 2015.
 The dashboard can be accessed with a user account only.
+
+Process & Involvement
+Wireframe and prototype creation
+Art direction and branding
+UI design and iconography
+User testing
+Download
+Google Play
+iTunes
+Focus Point
+Design an integrated experience where users can easily label photos under the categories; Sale, Trade, Rent or Giveaway. The UI must provide well-balanced synergy between other elements and not increase cognitive load to the user.
+
+Focus Solution
+Utilize icons for globally recognized signifiers such as Comment, Like and Menu. For less afforded global signifiers (Sale, Trade, Rent, Giveaway) use simple text and colour to distinguish functionality. Group similar functions together and hierarchically order elements according to use-value importance.
+
+Visit
+www.box.spike.cc
