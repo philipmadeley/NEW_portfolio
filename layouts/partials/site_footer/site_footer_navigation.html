@@ -1,4 +1,27 @@
 <nav class="site-footer-navigation">
 	<ul>
+		{{ if .NextInSection }}
+<li>
+	<a rel="next" href="{{ .NextInSection.Permalink }}" id="next">
+		{{ partial "svg_icons/nav-left.svg" }}
+		<!-- <span class="nav-title nav-title-next">{{ with .Site.Params.newer }}{{ . }}{{ end }}</span> -->
+	</a>
+</li>
+		{{ end }}
+		<li>
+			<a href="/" id="home-button" class="logo_home">
+				{{ partial "svg_icons/nav-close.svg" }}
+			</a>
+
+		</li>
+		{{ if .PrevInSection }}
+	<li>
+			<a rel="prev" href="{{ .PrevInSection.Permalink }}" id="prev">
+				{{ partial "svg_icons/nav-right.svg" }}
+			    <!-- <span class="nav-title nav-title-prev">{{ with .Site.Params.older }}{{ . }}{{ end }}</span> -->
+			  </a>
+	</li>
+		{{ end }}
+
 	</ul>
 </nav>

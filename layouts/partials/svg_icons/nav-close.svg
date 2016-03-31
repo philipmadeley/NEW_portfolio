@@ -1,0 +1,16 @@
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Close and go home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="iPhone-6" transform="translate(-333.000000, -1218.000000)">
+            <g id="nav_btns" transform="translate(32.000000, 1218.000000)">
+                <g id="close" transform="translate(301.000000, 0.000000)">
+                    <rect id="Rectangle-325" fill="#FFFFFF" x="0" y="0" width="84" height="84"></rect>
+                    <path d="M16,20.5930809 L19.5930809,17 L41.7034595,39.1103786 L63.8138381,17 L67.4069191,20.5930809 L45.5930809,42.4069191 L67,63.8138381 L63.4069191,67.4069191 L41.7034595,45.7034595 L20,67.4069191 L16.4069191,63.8138381 L37.8138381,42.4069191 L16,20.5930809 Z" id="Combined-Shape" fill="#4A4A4A"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

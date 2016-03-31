@@ -1,6 +1,5 @@
 ---
 title: Metaps
-subtitle: UI Design + Frontend
 description: Brand renewal for flagship landing page
 author: Philip John Madeley
 date: 2015-06-01
@@ -12,6 +11,8 @@ generatePage: false
 img_thumbnail: "images/tm_me@2x.jpg"
 class: me
 ---
+
+![Hero image for Metaps landing page](/images/me_top_sm@2x.jpg)
 
 ## Overview
 Design and develop a rebranded flagship website for Metaps Inc. The site must include key product features and deliver one integrated brand experience, which defines the Metaps marketing strategy. The site must be responsive and multilingual in five different languages.

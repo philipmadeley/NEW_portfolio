@@ -90,7 +90,7 @@ footer {
 
 // CONTENT ON WORK
 article.content {
-  @include padding(0 16px);
+  @include padding(16px);
 
 } //content
 
@@ -103,10 +103,30 @@ article.content {
       text-transform: none;
     }
   }
+  &.an {
+  background: $an;
+  }
   &.me {
   background: $me;
-  color: $white;
-}
+  }
+  &.cs {
+  background: $cs;
+  }
+  &.ro {
+  background: $ro;
+  }
+  &.ca {
+  background: $ca;
+  }
+  &.da {
+  background: $da;
+  }
+  &.ob {
+  background: $ob;
+  }
+  &.sb {
+  background: $sb;
+  }
 
 }
 

@@ -1,6 +1,6 @@
 ---
 title: Metaps Analytics
-subtitle: Dashboard features + landing page
+description: Dashboard features + landing page
 author: Philip John Madeley
 date: 2014-11-01
 publishDate: 2014-11-01

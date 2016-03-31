@@ -1,6 +1,6 @@
 ---
 title: Spike Box
-subtitle: Mobile App design
+description: Mobile App design
 author: Philip John Madeley
 date: 2014-05-01
 publishDate: 2014-05-01
@@ -13,7 +13,7 @@ class: sb
 ---
 
 ## Overview
-Spike Box is a social networking app and similar in concept to Craigslist. 
+Spike Box is a social networking app and similar in concept to Craigslist.
 The brief was to design a simple and easy-to-understand UI, where users can easily share item photos with friends and followers. The app must stand out from other competitors while still creating a simple yet engaging product which aligns to the Spike branding experience.
 
 ## Ideation

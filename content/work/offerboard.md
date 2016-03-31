@@ -1,6 +1,6 @@
 ---
 title: Metaps Offerboard
-subtitle: Landing page design
+description: Landing page design
 author: Philip John Madeley
 date: 2014-07-01
 publishDate: 2014-07-01

@@ -1,6 +1,6 @@
 ---
 title: Metaps Careers
-subtitle: Landing page design
+description: Landing page design
 author: Philip John Madeley
 date: 2014-10-01
 publishDate: 2014-10-01
@@ -26,7 +26,7 @@ After benchmarking some other career sites, I sketched out variations on the blu
 Viable sketches were turned into wireframes and some basic user flow prototypes were test driven. Iterating on the various designs, I solicited feedback from the team, CEO and other stakeholders. To personalize the experience, we interviewed employees and did a mini photoshoot, with each employee bringing in a characterising item.  Final design selection was tough going with conflicting opinions. Say no more.
 
 ## Implementation
-Deceiving in nature, this single page site would actually harbour most of its data in job specification partials. I turned to AngularJS to leverage and automate the application process and created a slider for the employee interviews.  I used Gulp to enhance the workflow and generate the production build. 
+Deceiving in nature, this single page site would actually harbour most of its data in job specification partials. I turned to AngularJS to leverage and automate the application process and created a slider for the employee interviews.  I used Gulp to enhance the workflow and generate the production build.
 
 ## Retropsective
 Decisions made outside my jurisdiction evolved the site away from the initial goal to mix personal attachment with career opportunity.  The top hero image veered on a minimal 'cool', and IMHO should have been more inviting. On the execution site, I wrote the site in AngularJS, which was overkill for a simple site. That said, using partials to pull in job descriptions was extremely convenient.
