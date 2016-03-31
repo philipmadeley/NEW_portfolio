@@ -13,27 +13,23 @@ class: ca
 ---
 
 ## Overview
-Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance.
-This was an on-going project over about 16 months which was split into two parts: the first part was to redesign the landing page – which was not I'm not going to cover in this case study.  What will be discussed in more detail, are the UI features for the dashboard.
+A careers site for Metaps to continue its growth and recruitment of tech industry professionals.
+The new page had to attract potential talent, focus on Metaps roadmap for success and highlight its industry credentials.
 
 ## Ideation
-I worked with a product manager to figure out the goals, scope, and constraints of each project.
-These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others' ideas.
-After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
-Benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.
+Our kickoff meeting started with whiteboard sketches and discussing the CEO's vision and strategy for setting the right message. We brainstormed various ideas and worked out a stakeholders map of touchpoints of how each group could engage with Metaps on a deeper level. We identified the site should mix personal attachment and present clear opportunities for career development.
 
 ## Iteration
-Finally, I started to develop the more viable solutions into wireframe journey maps, which would and take us to another round of discussion.
-To achieve quick results, I used Invision to prototype the wireframes into a clickable user experience.
-Allowing several employees to click through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
-Once the user flow and UI had been fine tuned, I moved to Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI (built by my team mate).
+After benchmarking some other career sites, I sketched out variations on the blueprint we formulated in the ideation phase. Our conversion goal was to get the user to apply for open positions, so we decided on a single page, which could immerse the user in a linear start-to-finish experience. Referencing user research (from [37signals](https://signalvnoise.com/posts/2977-behind-the-scenes-highrise-marketing-site-ab-testing-part-1
+ "User testing from 37signals")) also told us that single-page sites have a conversion increase of 37.5%.
+
+Viable sketches were turned into wireframes and some basic user flow prototypes were test driven. Iterating on the various designs, I solicited feedback from the team, CEO and other stakeholders. To personalize the experience, we interviewed employees and did a mini photoshoot, with each employee bringing in a characterising item.  Final design selection was tough going with conflicting opinions. Say no more.
 
 ## Implementation
-The first stage was to leverage the Foundation framework and Rails asset pipeline to build out a static views. Once the layout and sizing were pixel perfect, the focus turned to the user journey and how each action would link to the next task.
-Luckily we had already tested this with our prototype.
+Deceiving in nature, this single page site would actually harbour most of its data in job specification partials. I turned to AngularJS to leverage and automate the application process and created a slider for the employee interviews.  I used Gulp to enhance the workflow and generate the production build. 
 
 ## Retropsective
-Although this product was in its initial stages of development, having more user data at hand could of helped with some of the decision making.
+Decisions made outside my jurisdiction evolved the site away from the initial goal to mix personal attachment with career opportunity.  The top hero image veered on a minimal 'cool', and IMHO should have been more inviting. On the execution site, I wrote the site in AngularJS, which was overkill for a simple site. That said, using partials to pull in job descriptions was extremely convenient.
 
 ## Visit
 The landing page was rebranded under www.metaps.com as of June 2015.
