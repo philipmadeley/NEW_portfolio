@@ -1,6 +1,6 @@
 {{ partial "site_header.html" . }}
 <!-- Basic starter layout for single content files. Delete if needed.-->
-{{ partial "site_header/site_header_single.html" . }}
+{{ partial "site_header/site_header_single.html" $ }}
 
 <main class="main">
 	<!-- Swiftype attributes will only show if Swiftype = true in config.toml. -->
@@ -20,5 +20,8 @@
 		{{ partial "disqus_comments.html" . }}
 	{{ end }}
 </main>
-<!-- {{ partial "social_share.html" . }} -->
-{{ partial "site_footer.html" . }}
+{{ partial "social_share.html" . }}
+{{ partial "site_footer/site_footer_navigation.html" . }}
+{{ partial "site_footer/site_copyright.html" . }}
+
+<!-- {{ partial "site_footer.html" . }} -->

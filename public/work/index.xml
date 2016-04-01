@@ -17,29 +17,27 @@
       <guid>/work/metaps/</guid>
       <description>
 
+&lt;p&gt;&lt;img src=&#34;../images/me_top_sm@2x.jpg&#34; alt=&#34;Hero image for Metaps&#34; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;Design and develop a rebranded flagship website for Metaps Inc. The site must include key product features and deliver one integrated brand experience, which defines the Metaps marketing strategy. The site must be responsive and multilingual in five different languages.&lt;/p&gt;
+&lt;p&gt;Metaps was preparing for its IPO and required a rebranding overhaul of its flagship site. The brief was to create a multilingual, responsive site which highlighted key product features and deliver one integrated brand experience.&lt;/p&gt;
 
-&lt;h2 id=&#34;process-involvement&#34;&gt;Process + Involvement&lt;/h2&gt;
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Wireframe + prototype&lt;/li&gt;
-&lt;li&gt;Art direction + photography&lt;/li&gt;
-&lt;li&gt;UI design + Front-end development&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Our kickoff meeting looked at the metrics from the dashboard to surface popular pages and help plan out a site map. Mapping out the site on a whiteboard made it easy to visualize the basic structure and navigation required across the site. We also carried out a heuristic analysis of the current site to identify what needed to change and why. Our KPI was to use the site to springboard marketing campaigns before the IPO and drive business leads through a contact page.&lt;/p&gt;
 
-&lt;h2 id=&#34;focus-point&#34;&gt;Focus Point&lt;/h2&gt;
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
 
-&lt;p&gt;Due to an extensive list of product features, the UX had to provide an intuitive way for users to navigate between product features whilst not polluting the main content space.&lt;/p&gt;
+&lt;p&gt;Using a content audit and site map, I started to sketch out the five main pages: home, analytics, promotion, engagement and revenue. I took a mobile-first approach to put focus on content structure over element positioning. Wireframes were developed into simple clickable prototypes. I kept the visuals light and unobtrusive to match the dashboard&amp;rsquo;s style guide and other sites which I&amp;rsquo;d made previously. To bring a unique level of branding to the project I did a photoshoot which the dashboard on mobile devices and laptops. High level mocks were test driven with InVision and solicited for feedback.&lt;/p&gt;
 
-&lt;h2 id=&#34;focus-solution&#34;&gt;Focus Solution&lt;/h2&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
-&lt;p&gt;Create a detachable sticky navigation menu that will scroll the page to selected features whilst highlighting the user&amp;rsquo;s current location.&lt;/p&gt;
+&lt;p&gt;To scale and rapidly produce the site, php partials were used for repeatable elements and Zurb&amp;rsquo;s Foundation to do the heavy lifting. A sub nav was implemented that became fixed on scrolling to highlight your current position and provide a more intuitive user experience.&lt;/p&gt;
 
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
 
-&lt;p&gt;www.metaps.com&lt;/p&gt;
+&lt;p&gt;A/B test and try to identify if there is a statistical significance between designs.&lt;/p&gt;
 </description>
     </item>
     
@@ -107,23 +105,23 @@ image of the full design site?&lt;/p&gt;
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;To design and develop a highly visual landing page with unique branding to attract app developers and other potential clients. The site must be able to showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
+&lt;p&gt;To design and develop a single page site with unique branding to attract app developers and other potential clients. The site had to be able to showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
 
-&lt;h2 id=&#34;process-involvement&#34;&gt;Process &amp;amp; Involvement&lt;/h2&gt;
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Ideation + Wireframe&lt;/li&gt;
-&lt;li&gt;Art direction + branding&lt;/li&gt;
-&lt;li&gt;UI design + Front-end development&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;For this project I was working with a new project leader. We sat down and discussed the site&amp;rsquo;s value proposition and map out key aspects of: what the site is, who are the users, and how the site will be used. We narrowed down our blueprint and created a consensus that this site should focus on unique branding to attract app developers and other potential clients. The site must be able to showcase a variety of illustrations and communicate key features and clear service flow.  Our primary KPI was to drive inquires and business leads.&lt;/p&gt;
 
-&lt;h2 id=&#34;focus-point&#34;&gt;Focus Point&lt;/h2&gt;
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
 
-&lt;p&gt;The conventional method of placing the header at the top of the page would interfere with the grace and beauty of the illustrations.&lt;/p&gt;
+&lt;p&gt;Most of the site assets were already in our possession, so I decided to quickly mark up some moodboards and get an overall sense and direction. The project leader has some ideas and we bounced these around and came up with two distinct designs. We tested our wireframe prototypes and moved forward with two viable designs for a high fidelity mock.&lt;/p&gt;
 
-&lt;h2 id=&#34;focus-solution&#34;&gt;Focus Solution&lt;/h2&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
-&lt;p&gt;Place the header at the base of the slider and allow a scroll event to trigger when this element reaches the top of the page. The bulk of the header is also reduced, providing more space for other content.&lt;/p&gt;
+&lt;p&gt;I leveraged Gulp with the Foundation framework and implemented the sticky nav component to achieve maximum exposure for the header on first view. I exported my custom icons from Sketch and used Icomoon to read these in with CSS.&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;Aim for the most unique experience you can through custom elements and hand drawn illustration. This was one of the rare projects where original artwork was sourced and custom icons were implemented.&lt;/p&gt;
 
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
@@ -185,31 +183,26 @@ The dashboard can be accessed with a user account only.&lt;/p&gt;
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance.
-This was an on-going project over about 16 months which was split into two parts: the first part was to redesign the landing page – which was not I&amp;rsquo;m not going to cover in this case study.  What will be discussed in more detail, are the UI features for the dashboard.&lt;/p&gt;
+&lt;p&gt;A careers site for Metaps to continue its growth and recruitment of tech industry professionals.
+The new page had to attract potential talent, focus on Metaps roadmap for success and highlight its industry credentials.&lt;/p&gt;
 
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 
-&lt;p&gt;I worked with a product manager to figure out the goals, scope, and constraints of each project.
-These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others&amp;rsquo; ideas.
-After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
-Benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.&lt;/p&gt;
+&lt;p&gt;Our kickoff meeting started with whiteboard sketches and discussing the CEO&amp;rsquo;s vision and strategy for setting the right message. We brainstormed various ideas and worked out a stakeholders map of touchpoints of how each group could engage with Metaps on a deeper level. We identified the site should mix personal attachment and present clear opportunities for career development.&lt;/p&gt;
 
 &lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
 
-&lt;p&gt;Finally, I started to develop the more viable solutions into wireframe journey maps, which would and take us to another round of discussion.
-To achieve quick results, I used Invision to prototype the wireframes into a clickable user experience.
-Allowing several employees to click through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
-Once the user flow and UI had been fine tuned, I moved to Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI (built by my team mate).&lt;/p&gt;
+&lt;p&gt;After benchmarking some other career sites, I sketched out variations on the blueprint we formulated in the ideation phase. Our conversion goal was to get the user to apply for open positions, so we decided on a single page, which could immerse the user in a linear start-to-finish experience. Referencing user research (from &lt;a href=&#34;https://signalvnoise.com/posts/2977-behind-the-scenes-highrise-marketing-site-ab-testing-part-1&#34; title=&#34;User testing from 37signals&#34; target=&#34;_blank&#34;&gt;37signals&lt;/a&gt;) also told us that single-page sites have a conversion increase of 37.5%.&lt;/p&gt;
+
+&lt;p&gt;Viable sketches were turned into wireframes and some basic user flow prototypes were test driven. Iterating on the various designs, I solicited feedback from the team, CEO and other stakeholders. To personalize the experience, we interviewed employees and did a mini photoshoot, with each employee bringing in a characterising item.  Final design selection was tough going with conflicting opinions. Say no more.&lt;/p&gt;
 
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
-&lt;p&gt;The first stage was to leverage the Foundation framework and Rails asset pipeline to build out a static views. Once the layout and sizing were pixel perfect, the focus turned to the user journey and how each action would link to the next task.
-Luckily we had already tested this with our prototype.&lt;/p&gt;
+&lt;p&gt;Deceiving in nature, this single page site would actually harbour most of its data in job specification partials. I turned to AngularJS to leverage and automate the application process and created a slider for the employee interviews.  I used Gulp to enhance the workflow and generate the production build.&lt;/p&gt;
 
 &lt;h2 id=&#34;retropsective&#34;&gt;Retropsective&lt;/h2&gt;
 
-&lt;p&gt;Although this product was in its initial stages of development, having more user data at hand could of helped with some of the decision making.&lt;/p&gt;
+&lt;p&gt;Decisions made outside my jurisdiction evolved the site away from the initial goal to mix personal attachment with career opportunity.  The top hero image veered on a minimal &amp;lsquo;cool&amp;rsquo;, and IMHO should have been more inviting. On the execution site, I wrote the site in AngularJS, which was overkill for a simple site. That said, using partials to pull in job descriptions was extremely convenient.&lt;/p&gt;
 
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
@@ -335,15 +328,7 @@ www.box.spike.cc&lt;/p&gt;
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;To design and develop two landing pages which instantly informs the user about key product features whilst providing appropriate call-to-action dialogue. The site must incorporate an integrated brand experience for both advertiser and publisher pages.&lt;/p&gt;
-
-&lt;h2 id=&#34;process-involvement&#34;&gt;Process &amp;amp; Involvement&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wireframe + prototyping&lt;/li&gt;
-&lt;li&gt;Art direction + branding&lt;/li&gt;
-&lt;li&gt;Design + Front-end development&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;DirectAd was an extension of the Metaps ad platform, offering zero commission CPC. The project brief was to design and develop two separate landing pages which highlights key product features and provides appropriate call-to-action dialogue. The site must incorporate an integrated brand experience for both advertiser and publisher pages.&lt;/p&gt;
 
 &lt;h2 id=&#34;focus-point&#34;&gt;Focus Point&lt;/h2&gt;
 
@@ -356,6 +341,26 @@ www.box.spike.cc&lt;/p&gt;
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
 &lt;p&gt;Rebranded under www.metaps.com as of June 2015.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-1&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;To design and develop a single page site with unique branding to attract app developers and other potential clients. The site had to be able to showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;For this project I was working with a new project leader. We sat down and discussed the site&amp;rsquo;s value proposition and map out key aspects of: what the site is, who are the users, and how the site will be used. We narrowed down our blueprint and created a consensus that this site should focus on unique branding to attract app developers and other potential clients. The site must be able to showcase a variety of illustrations and communicate key features and clear service flow.  Our primary KPI was to drive inquires and business leads.&lt;/p&gt;
+
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
+
+&lt;p&gt;Most of the site assets were already in our possession, so I decided to quickly mark up some moodboards and get an overall sense and direction. The project leader has some ideas and we bounced these around and came up with two distinct designs. We tested our wireframe prototypes and moved forward with two viable designs for a high fidelity mock.&lt;/p&gt;
+
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;I leveraged Gulp with the Foundation framework and implemented the sticky nav component to achieve maximum exposure for the header on first view. I exported my custom icons from Sketch and used Icomoon to read these in with CSS.&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;Aim for the most unique experience you can through custom elements and hand drawn illustration. This was one of the rare projects where original artwork was sourced and custom icons were implemented.&lt;/p&gt;
 </description>
     </item>
     

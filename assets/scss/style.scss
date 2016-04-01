@@ -13,6 +13,9 @@
 @import 'modules/fontawesome-anchor-helpers';
 @import 'modules/animate';
 @import 'modules/rollovers';
+
+$border-box-sizing: true !default;
+
 // HEADER HOME
 .site-header {
   @include pad(32px 16px);
@@ -53,40 +56,42 @@
 }
 footer {
   @include pad(16px);
-  .my-social {
-    @include row();
-    ul {
-      @include fill-parent();
-      @include row(table);
-      li {
-        @include reset-display;
-        @include pad(0);
-        @include span-columns(2 of 10);
-        text-align: center;
-        a {
-          background: darken($grey-bg, 10);
-          display: inline-block;
-          @include padding(8px);
-        }
-        svg {
-          width: 32px;
-          height: 32px;
-          transition: fill 0.5s ease-in 6s;
-          vertical-align: middle;
-        }
-      }
-    }
-  }
-
-  .site-copyright {
-    @include pad(48px 0 0 0);
-    text-align:center;
-    p {
-      font-size: .8rem;
-    }
-  }
-
 } //footer
+
+.site-copyright {
+  @include pad(48px 0 0 0);
+  text-align:center;
+  p {
+    font-size: .8rem;
+  }
+}
+
+.my-social {
+  @include outer-container;
+
+    div {
+      @include span-columns(2.4);
+      display:block;
+      text-align:center;
+      a {
+        background: darken($grey-bg, 10);
+        display: inline-block;
+        @include padding(8px);
+      }
+      svg {
+        width: 32px;
+        height: 32px;
+        transition: fill 0.5s ease-in 6s;
+        vertical-align: middle;
+      }
+  }
+  &.share {
+    @include pad(16px 0);
+    div {
+      @include span-columns(3);
+    }
+  }
+}
 
 // CONTENT ON WORK
 article.content {
@@ -127,7 +132,47 @@ article.content {
   &.sb {
   background: $sb;
   }
+}
 
+.share p {
+    border-bottom: 1px solid $grey-bg;
+    margin-bottom: 24px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: .9rem;
+
+    span {
+       background:  $white;
+       padding: 0 15px;
+       position: relative;
+       top: 13px;
+   }
+}
+
+.site-footer-navigation {
+  @include row();
+  position: fixed;
+  bottom: 40px;
+  width: 100%;
+
+  ul {
+    display: flex;
+    list-style-type: none;
+
+    li {
+      flex: 1;
+      text-align: center;
+      a {
+        display: block;
+      }
+      svg {
+        height: 50px;
+        width: 50px;
+      }
+    }
+
+  }
 }
 
 
