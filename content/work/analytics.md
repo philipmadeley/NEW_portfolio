@@ -10,31 +10,40 @@ comments: false
 generatePage: false
 img_thumbnail: "images/tm_an@2x.jpg"
 class: an
+draft: false
 ---
 
+![Hero image](/images/an_top_sm@2x.jpg)
+
 ## Overview
-Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance.
-This was an on-going project over about 16 months which was split into two parts: the first part was to redesign the landing page – which was not I'm not going to cover in this case study.  What will be discussed in more detail, are the UI features for the dashboard.
+Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance. This was an on-going project over about 16 months which was split into two parts
+
+1. Design and implement modular components for the preexisting  dashboard
+2. Redesign the landing page
+
+I'm going to gloss over the landing page and discuss the dashboard components in this case study.
 
 ## Ideation
-I worked with a product manager to figure out the goals, scope, and constraints of each project.
-These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others' ideas.
-After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
-Benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.
+Kickoff meetings were held with a product manager to figure out the goals, scope, and constraints of each project.  These meetings were conducted around a whiteboard, followed up with a round of discussion and, more importantly, a comprehension check of each others' ideas.
+After that, I used mind-mapping to uncover and explore possible solutions.  For research, benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.  In the example,  I created user flows for a funnel to track dropoff and conversion rates.  
+
+![Ideation user flow](/images/an_ideation_userflow.jpg)
 
 ## Iteration
-Finally, I started to develop the more viable solutions into wireframe journey maps, which would and take us to another round of discussion.
-To achieve quick results, I used Invision to prototype the wireframes into a clickable user experience.
-Allowing several employees to click through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
-Once the user flow and UI had been fine tuned, I moved to Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI (built by my team mate).
+To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
+Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.
+
+![Dashboard funnels user flow](/images/an_ui_dash.jpg)
+
 
 ## Implementation
-The first stage was to leverage the Foundation framework and Rails asset pipeline to build out a static views. Once the layout and sizing were pixel perfect, the focus turned to the user journey and how each action would link to the next task.
-Luckily we had already tested this with our prototype.
+The first stage was to leverage the Foundation framework and Rails asset pipeline to build out static views. Once the layout and sizing were pixel perfect, the focus turned to integrating the motion and how each action would link to the next task. Although the user flow was tested in the out prototype, implementing animations and responders in the UI with jQuery were important for project success.
 
-## Retropsective
-Although this product was in its initial stages of development, having more user data at hand could of helped with some of the decision making.
+## Retrospective
+Although this product was in its initial stages of development, having more user data prior to the ideation phase would have solved some early decision making.
+
+![Landing page on mobile](/images/an_mobile.jpg)
+
 
 ## Visit
-The landing page was rebranded under www.metaps.com as of June 2015.
-The dashboard can be accessed with a user account only.
+The landing page was rebranded under www.metaps.com as of June 2015. The dashboard can only be accessed with a user account.

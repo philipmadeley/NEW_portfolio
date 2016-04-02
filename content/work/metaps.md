@@ -1,6 +1,6 @@
 ---
 title: Metaps
-description: Brand renewal for flagship landing page
+description: Landing page design + frontend
 author: Philip John Madeley
 date: 2015-06-01
 publishDate: 2015-06-01
@@ -12,19 +12,36 @@ img_thumbnail: "images/tm_me@2x.jpg"
 class: me
 ---
 
-![Hero image for Metaps](/images/me_top_sm@2x.jpg)
+![Hero image](/images/me_top_sm@2x.jpg)
 
 ## Overview
-Metaps was preparing for its IPO and required a rebranding overhaul of its flagship site. The brief was to create a multilingual, responsive site which highlighted key product features and deliver one integrated brand experience.
+Metaps was preparing for its IPO and required a rebranding overhaul of its flagship site. The brief was to create a multilingual, responsive site which highlighted key product features and delivers one integrated brand experience.
 
 ## Ideation
-Our kickoff meeting looked at the metrics from the dashboard to surface popular pages and help plan out a site map. Mapping out the site on a whiteboard made it easy to visualize the basic structure and navigation required across the site. We also carried out a heuristic analysis of the current site to identify what needed to change and why. Our KPI was to use the site to springboard marketing campaigns before the IPO and drive business leads through a contact page.
+Our kickoff meeting looked at the metrics from the dashboard to surface popular pages and help plan out a site map. Mapping out the site on a whiteboard made it easy to visualize the basic structure and navigation required across the site. We also carried out a heuristic analysis of the current site to identify what needed to change and why. Our KPI was to springboard a new marketing campaign before the IPO and drive business leads through a contact page.
+
+![Design process](/images/me_ideation_wb.jpg)
 
 ## Iteration
-Using a content audit and site map, I started to sketch out the five main pages: home, analytics, promotion, engagement and revenue. I took a mobile-first approach to put focus on content structure over element positioning. Wireframes were developed into simple clickable prototypes. I kept the visuals light and unobtrusive to match the dashboard's style guide and other sites which I'd made previously. To bring a unique level of branding to the project I did a photoshoot which the dashboard on mobile devices and laptops. High level mocks were test driven with InVision and solicited for feedback.
+Doing a content audit we came up with a site map and good starting point for sketching.  There would be five pages: home, analytics, promotion, engagement, and revenue. I took a mobile-first approach to focus on content structure over element positioning.
+
+![Design process](/images/me_ideation_sketch.jpg)
+
+Wireframes were developed into clickable prototypes. I kept the visuals light and unobtrusive to match the dashboard's style guide and other products which I'd made previously. To bring a unique level of branding to the project I did a photo shoot focusing on displaying the product on laptops and mobile. High-level mocks were test driven with InVision and solicited for group feedback.
+
+![Mobile site](/images/me_mobile@2x.jpg)
 
 ## Implementation
-To scale and rapidly produce the site, php partials were used for repeatable elements and Zurb's Foundation to do the heavy lifting. A sub nav was implemented that became fixed on scrolling to highlight your current position and provide a more intuitive user experience.
+To scale and rapidly produce the site, PHP partials were used for repeatable header, footer, and nav elements, then using Zurb's Foundation to do the heavy lifting. A sub nav was implemented that became fixed on scrolling to highlight your current position and provide a more intuitive user experience.
+
+![UI design](/images/me_ui.jpg)
+
 
 ## Retrospective
-A/B test and try to identify if there is a statistical significance between designs. 
+A/B test and try and identify if there is a statistical significance between designs. A design sprint involving all the stakeholders may have created a more diverse and interesting outcome.
+
+## Visit
+[www.metaps.com](http://metaps.com "Visit Metaps")<br>
+<i class="small">Designs are subject to change since leaving Metaps.</i>
+
+![Dashboard image](/images/me_dash@2x.jpg)

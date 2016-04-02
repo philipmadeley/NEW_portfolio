@@ -10,7 +10,7 @@
 @import 'modules/open-iconic';
 @import 'modules/typography';
 @import 'modules/social-media';
-@import 'modules/fontawesome-anchor-helpers';
+//@import 'modules/fontawesome-anchor-helpers';
 @import 'modules/animate';
 @import 'modules/rollovers';
 
@@ -25,14 +25,14 @@ $border-box-sizing: true !default;
   svg {
     width: 42px;
     height: 42px;
-    float: left;
-    margin-right: 10px;
+    position: absolute;
   }
   h1,
   h2 {
     vertical-align: top;
     text-transform: uppercase;
     font-weight: 500;
+    margin-left: 52px;
   }
   h1 {
     font-size: 1rem;
@@ -44,63 +44,11 @@ $border-box-sizing: true !default;
   }
 }
 
-// MAIN HOME PAGE
-.homepage {
-  @include outer-container();
-  .postthumb {
-    @include span-columns(12);
-    @include pad(0 16px 16px);
-    background-color: $white;
-    position: relative;
-  }
-}
-footer {
-  @include pad(16px);
-} //footer
-
-.site-copyright {
-  @include pad(48px 0 0 0);
-  text-align:center;
-  p {
-    font-size: .8rem;
-  }
-}
-
-.my-social {
-  @include outer-container;
-
-    div {
-      @include span-columns(2.4);
-      display:block;
-      text-align:center;
-      a {
-        background: darken($grey-bg, 10);
-        display: inline-block;
-        @include padding(8px);
-      }
-      svg {
-        width: 32px;
-        height: 32px;
-        transition: fill 0.5s ease-in 6s;
-        vertical-align: middle;
-      }
-  }
-  &.share {
-    @include pad(16px 0);
-    div {
-      @include span-columns(3);
-    }
-  }
-}
-
-// CONTENT ON WORK
-article.content {
-  @include padding(16px);
-
-} //content
-
 .site-header {
   &.work {
+    @include pad(16px);
+    height: 74px;
+
     h1, h2 {
       color: $white;
     }
@@ -132,7 +80,103 @@ article.content {
   &.sb {
   background: $sb;
   }
+} // header
+
+
+// MAIN HOME PAGE
+.homepage {
+  @include outer-container();
+  .postthumb {
+    @include span-columns(12);
+    @include pad(0 16px 16px);
+    background-color: $white;
+    position: relative;
+    @include MQ(M) {
+      @include span-columns(6);
+      @include omega(2n);
+      @include pad(0 0 16px);
+    }
+  }
+  @include MQ(M) {
+    @include pad(0 16px);
+  }
 }
+
+.dribbble {
+  @include outer-container(12);
+  header {
+    @include fill-parent();
+  }
+  div, header {
+  @include span-columns(12);
+  @include pad(0 16px 16px);
+  a {
+    //display:block;
+    //line-height: 0;
+  }
+  }
+  div:last-child{
+    margin-bottom: 32px;
+  }
+  @include MQ(M) {
+    @include pad(0 16px);
+    div {
+    @include span-columns(6);
+    @include omega(2n);
+    @include pad(0 0 16px);
+    }
+    header {
+      @include row();
+    }
+  }
+}
+
+footer {
+  @include pad(16px);
+} //footer
+
+.site-copyright {
+  @include pad(32px 0 0 0);
+  text-align:center;
+  p {
+    font-size: .8rem;
+  }
+}
+
+.my-social {
+  @include outer-container;
+    div {
+      @include span-columns(2.4);
+      display:block;
+      text-align:center;
+      a {
+        background: darken($grey-bg, 10);
+        display: inline-block;
+        @include padding(8px);
+      }
+      svg {
+        width: 32px;
+        height: 32px;
+        transition: fill 0.5s ease-in 6s;
+        vertical-align: middle;
+      }
+  }
+  &.share {
+    margin-bottom: 92px;
+    div {
+      @include span-columns(3);
+    }
+  }
+}
+
+// CONTENT ON WORK
+article.content {
+  @include padding(16px);
+
+  p:last-child {
+    margin-bottom:0;
+  }
+} //content
 
 .share p {
     border-bottom: 1px solid $grey-bg;
@@ -151,9 +195,8 @@ article.content {
 }
 
 .site-footer-navigation {
-  @include row();
   position: fixed;
-  bottom: 40px;
+  bottom: 16px;
   width: 100%;
 
   ul {
@@ -174,7 +217,6 @@ article.content {
 
   }
 }
-
 
 /*** Delete the following. Disposable styling for the included homepage (layouts/index.html) in Hugo-starter.***/
 /*

@@ -10,7 +10,7 @@ Typography -
 /***************MEDIA QUERIES*****************/
 //https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 // Begin tablet. iPhone 6/6s portrait max width = 375px, landscape max width = 667px; iPhone 6+/6+s portrait max width = 414px, landscape max width = 736px
-$M:668px;
+$M:600px;
 // Begin desktop. iPad mini/3/4 portrait width = 768px, landscape width = 1024px;
 $L:1025px;
 // Use this for extra-large screens
@@ -56,7 +56,7 @@ $word: #2A5699; // Microsoft Word Blue
 
 //ANCHORS
 $anchor-color:$brand;
-$anchor-weight:bold;
+$anchor-weight:400;
 $anchor-transition:0.3s;
 
 //Body
@@ -71,8 +71,8 @@ $use-font-face-module: true; //Set to true to include @font-face declarations fo
 $include-second-font: false; //Set to true to include @font-face declarations for $second-font
 $include-font-awesome: true; //Set to true to include @font-face declarations for FontAwesome
 $include-open-iconic: true; //Set to true to include @font-face declarations for Open-Iconic icons
-$font: "pnov";
-$second-font: "abrilfatface";
+$font: "avenir";
+$second-font: "ptsans";
 $base-font-family: $font, 'helvetica Neue', Helvetica, sans-serif;
 
 // Font Base

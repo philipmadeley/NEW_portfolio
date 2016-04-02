@@ -58,7 +58,7 @@ watch = true
   disqusShortname = ""
   SitePublishDate = "2016-01-01"
   # Setting this to true will include Swiftype Metadata in <head> and the default single.html <article> in layouts/_default
-  Swiftype = true
+  Swiftype = false
   primary = "indigo"
   secondary = "amber"
 

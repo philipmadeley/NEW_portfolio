@@ -1,10 +1,8 @@
 {{ partial "site_header.html" . }}
-<!-- Basic starter layout for single content files. Delete if needed.-->
 {{ partial "site_header/site_header_single.html" $ }}
-
 <main class="main">
 	<!-- Swiftype attributes will only show if Swiftype = true in config.toml. -->
-	<article class="content"{{if .Site.Params.Swiftype }}data-swiftype-name="body" data-swiftype-type="text" {{ end}}>
+	<article class="content"{{if .Site.Params.Swiftype }}data-swiftype-name="body" data-swiftype-type="text" {{ end }}>
 		<header>
 			<!-- <h1>{{ .Title }} - {{ .Section | upper }}</h1> -->
 			<ul class="article-tags">
@@ -15,13 +13,11 @@
 		</header>
 		{{ .Content }}
 	</article>
-	<!-- This sample single layout shows how to set up disqus_comments conditionals at both the Site Param and Page Param level.  -->
-	{{if and .Params.comments .Site.Params.UseDisqus }}
-		{{ partial "disqus_comments.html" . }}
-	{{ end }}
 </main>
-{{ partial "social_share.html" . }}
 {{ partial "site_footer/site_footer_navigation.html" . }}
-{{ partial "site_footer/site_copyright.html" . }}
+{{ partial "site_footer_single.html" . }}
 
-<!-- {{ partial "site_footer.html" . }} -->
+<!-- This sample single layout shows how to set up disqus_comments conditionals at both the Site Param and Page Param level.  -->
+<!-- {{if and .Params.comments .Site.Params.UseDisqus }}
+	{{ partial "disqus_comments.html" . }}
+{{ end }} -->

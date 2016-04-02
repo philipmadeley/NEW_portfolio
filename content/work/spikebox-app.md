@@ -12,48 +12,33 @@ img_thumbnail: "images/tm_sb@2x.jpg"
 class: sb
 ---
 
+![Spike box](/images/sb_top_sm@2x.jpg)
+
 ## Overview
-Spike Box is a social networking app and similar in concept to Craigslist.
-The brief was to design a simple and easy-to-understand UI, where users can easily share item photos with friends and followers. The app must stand out from other competitors while still creating a simple yet engaging product which aligns to the Spike branding experience.
+Spike Box is a social networking app and similar in concept to Craigslist but with followers. The brief was to design a simple and easy-to-understand UI, where users can easily share item photos with friends and followers. The app must stand out from other competitors and create value for the user by being easy-to-use, yet engaging.
 
 ## Ideation
-Developing a native app was a first for Metaps and we didn't have any specific user data to work from. We held several meetings, with a projector to discuss planning and strategy. Once we started to define a direction another round of meetings and checkpoints were setup (it was a lengthy process!).
-
-I worked with a product manager to figure out the goals, scope, and constraints of each project.
-These kickoff meetings were focused on whiteboard sketches, followed up with a round of discussion and more importantly comprehension of each others' ideas.
-After that, I would brainstorm and use other ideation techniques to evolve a series of possible solutions.
-Benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.
+Developing a native app was a first for Metaps and we didn't have any firsthand user data to work from. We held several meetings, with a projector to discuss planning and strategy. Once we started to define a direction another round of meetings and checkpoints were setup. I used personas to help understand demographics, behaviors, needs and motivations of the user.
 
 ## Iteration
-Finally, I started to develop the more viable solutions into wireframe journey maps, which would and take us to another round of discussion.
-To achieve quick results, I used Invision to prototype the wireframes into a clickable user experience.
-Allowing several employees to click through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
-Once the user flow and UI had been fine tuned, I moved to Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI (built by my team mate).
+Researching the competition helped benchmark industry standards and identify opportunities to innovate upon. I used Balsamiq to quickly create designs for soliciting feedback with the team. I made paper prototypes to quickly test out user flows and then iterate improvements.
+
+![Initial paper prototypes](/images/sb_wf.jpg)
+
+The biggest challenge was information architecture and simplifying the UI just enough to provide clarity and direction. I decided to utilize icons for globally recognized signifiers such as Comment, Like, and Menu. For less afforded global signifiers (Sale, Trade, Rent, Giveaway) use simple text and colour to distinguish functionality. Group similar functions together and hierarchically order elements according to use-value importance.
+
+![Mock UI designs](/images/sb_ui@2x.png)
+
 
 ## Implementation
-The first stage was to leverage the Foundation framework and Rails asset pipeline to build out a static views. Once the layout and sizing were pixel perfect, the focus turned to the user journey and how each action would link to the next task.
-Luckily we had already tested this with our prototype.
+Design assets were exported and handed off to the engineer until both iOS and Android apps were ready for review. We used an agile scrum process to cycle through each stage of development.
 
-## Retropsective
-Although this product was in its initial stages of development, having more user data at hand could of helped with some of the decision making.
+## Retrospective
+Swipe and fade in/out interactions were deployed throughout the app, however, animating the individual elements (Like, Comment and Menu) would delight and provide a more intuitive UX.
+
+![Spike Box on iPhone](/images/sb_top@2x.jpg)
 
 ## Visit
-The landing page was rebranded under www.metaps.com as of June 2015.
-The dashboard can be accessed with a user account only.
-
-Process & Involvement
-Wireframe and prototype creation
-Art direction and branding
-UI design and iconography
-User testing
-Download
-Google Play
-iTunes
-Focus Point
-Design an integrated experience where users can easily label photos under the categories; Sale, Trade, Rent or Giveaway. The UI must provide well-balanced synergy between other elements and not increase cognitive load to the user.
-
-Focus Solution
-Utilize icons for globally recognized signifiers such as Comment, Like and Menu. For less afforded global signifiers (Sale, Trade, Rent, Giveaway) use simple text and colour to distinguish functionality. Group similar functions together and hierarchically order elements according to use-value importance.
-
-Visit
-www.box.spike.cc
+[www.box.spike.cc](www.box.spike.cc) <br>
+[Google Play](https://play.google.com/store/apps/details?id=com.spike.spikebox)  <br>
+[App Store](https://itunes.apple.com/app/spike-box-you-dato-chichi/id892702113?mt=8)

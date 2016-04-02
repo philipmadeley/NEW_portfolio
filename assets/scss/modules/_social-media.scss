@@ -23,20 +23,3 @@ $socialcolor in $socials {
         color: $socialcolor;
     }
 }
-
-aside.social-share {
-    width:100%;
-    float:right;
-    text-align:center;
-    h5 {
-        font-size:.7em;
-        display:inline;
-        text-align:center;
-        font-weight:100;
-        color:lighten($base-font-color,35%);
-    }
-    ul li {
-        display: inline;
-        margin:5px;
-    }
-}

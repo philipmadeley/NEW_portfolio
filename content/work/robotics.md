@@ -12,35 +12,31 @@ img_thumbnail: "images/tm_ro@2x.jpg"
 class: ro
 ---
 
+![Hero image](/images/ro_top_sm@2x.jpg)
+
 ## Overview
 To design and code a new landing page for Metaps which introduces a business model to monetize robot development. The site must be able to communicate the company's vision through an easy-to-understand narrative.
 
-## Design Process
-See the sketch for stakeholders and the design, maybe a simple user journey and some simple user reseach from Google Analytics.
-http://www.beatricelaw.ca/uber-for-regulars/
+## Ideation
+Robot monetization was an off-tangent business for Metaps, and blue-sky thinking was required to move the project forward. A Stakeholder map and some basic storyboarding  were used to identify use-case scenarios and how the page could relate to different user groups.
 
-## Process & Involvement
-* Wireframe + prototype
-* Art direction + photography
-* UI design + front-end development
+![Design process](/images/ro_ideation.jpg)
 
-## Sketching
-As with all projects, I always start on paper and try to generate as many ideas as possible. Unltimately, the ideation and branching off will lead to a springboard for the wireframe.
+## Iteration
+The stakeholder map  revealed a connection between Metaps and the developer in much the same way the app monetization business model works.  Using the storyboard, I sketched out ideas which incorporated the same narrative and then iterated on these designs to solicit feedback. Luckily we had a cool robot in the office which became a pivotal character for telling this story.
 
-## Wireframe
-[include image of responsive wireframe] Talk about information architecture here (one page or lack of it)
+![UI design](/images/ro_ui@2x.jpg)
 
-## Branding
-Include the color pallet. Talk about the photograhpy you took
+## Implementation
+The site was developed with Foundation and to enrich the user experience, the hero image scaled on page scroll with a slight parallax effect on the intro block.
 
-## Interaction
-A content-light landing page which required an enriched user experience right from the start of interacting with the page.
-Create an on-scroll animation for the top section, which smoothly leads you to the next section of content whilst simultaneously reducing the navigation header in size.
+![mobile image](/images/ro_mobile@2x.jpg)
+
 
 ## Retrospective
-Make consistent user research a part of your process.
-There is only so much time in the day, but I always wish there was more time for customer feedback and user research. We have performed lightweight, guerrilla research at Starbucks coffee shops, remote usability sessions, and even in-person workshops with some of our current customers, but it wasn't consistent. I’m always in awe at the gold mine of information and clarity these sessions bring.
+Content is king. The site is slightly vague and would benefit from having a service workflow diagram.
 
 ## Visit
-www.robotics.metaps.com
-image of the full design site?
+[www.robotics.metaps.com](http://www.robotics.metaps.com "Visit Robotics")
+
+![laptop image](/images/ro_laptop@2x.jpg)
