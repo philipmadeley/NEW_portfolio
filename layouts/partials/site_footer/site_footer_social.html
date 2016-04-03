@@ -1,5 +1,6 @@
 <section class="my-social">
-	{{if .Site.Params.Dribbble }}
+	<section class="social-wrap">
+		{{if .Site.Params.Dribbble }}
 	<div>
 		<a href="{{.Site.Params.Dribbble}}" target="_blank" title="Visit the Dribbble account for {{.Site.Title}}">
 			{{ partial "svg_icons/dribbble-icon.svg"}}
@@ -62,4 +63,5 @@
 		</a>
 	</div>
 	{{ end }}
+	</section>
 </section>

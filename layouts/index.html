@@ -1,7 +1,7 @@
 {{ partial "site_header.html" . }}
 {{ partial "site_header/site_header_home.html" . }}
 <main class="main">
-  <article class="homepage">
+    <div class="content-wrap">
     {{ range .Data.Pages }} {{ if eq .Type "work" }}
     <section class="postthumb">
       <a href="{{ .Permalink }}">
@@ -11,13 +11,29 @@
           <h3 class="name">{{ .Title }}</h3>
           <p>{{ .Description }}</p>
         </div>
+        </div>
       </a>
     </section>
     {{ end }}
     {{ end }}
-  </article>
-  <section class="dribbble">
-    {{ partial "dribbble_work.html" . }}
+    <header class="section">
+      <h4>Latest Dribbble work</h4>
+    </header>
+    <div class="content-wrap">
+    {{ range sort .Site.Params.dribbble }}
+    <section class="postthumb dribbble">
+    <a href="{{ .href }}">
+      <div class="project">
+      <img src="{{ .src }} " alt="{{ .alt}}">
+      <div class="title">
+        <h3 class="name">{{ .Title }}</h3>
+        <p>{{ .Description }}</p>
+      </div>
+    </div>
+    </a>
   </section>
+    {{ end }}
+  </div>
+
 </main>
 {{ partial "site_footer.html" . }}

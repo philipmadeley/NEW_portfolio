@@ -1,65 +1,77 @@
+/* Sass Placeholder for animation timing */
+%default-transition {@include transition(all .25s ease-out);}
 
-.postthumb {
-  margin: 0;
+.postthumb{
+  vertical-align: top;
+  display: inline-block;
   overflow: hidden;
   position: relative;
-  text-align: center;
-  cursor: pointer;
-  background: rgba(0, 0, 0, 0.8);
-}
-.postthumb .title {
-  position: absolute;
-  overflow: hidden;
-  width: 100%;
-  top: 0;
-  left: 0;
-  @include transition(all 0.3s ease-in-out);
-  opacity:0;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  text-align:center;
-  color: #fff;
+  line-height: 0;
+  a{
+    display: block;
+    overflow: hidden;
+    position: relative;
+    .project{
+      @extend %default-transition;
+      &:after{
+        @extend %default-transition;
+        bottom: 0;
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 2;
+      }
+    }
+    .title{
+      @extend %default-transition;
+      text-align: center;
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      z-index: 2;
+      opacity: 0;
 
-}
-.postthumb img {
-  display: block;
-  position: relative;
-  object-fit: cover;
-  @include transform(ScaleY(1));
-  @include transition(all 0.2s ease-in-out);
-}
-.postthumb h3 {
-  text-transform: uppercase;
-  position: relative;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  margin: 16px 16px 4px;
-  @include transform(scale(0));
-  @include transition(all 0.3s ease-in-out);
-  opacity:0;
-}
-.postthumb p {
-  font-family: sans-serif;
-  position: relative;
-  font-weight: normal;
-  @include transform(scale(0));
-  @include transition(all 0.3s ease-in-out);
-  opacity:0;
-}
-.postthumb:hover img {
-  @include transform(scale(1.5));
-  opacity:.2;
-}
-.postthumb:hover .title {
-  opacity:1;
-  cursor: pointer;
-}
-.postthumb:hover h3 {
-  @include transform(scale(1));
-  opacity:1;
-  cursor: pointer;
-}
-.postthumb:hover p {
-  @include transform(scale(1));
-  opacity:1;
+      h3{
+        @extend %default-transition;
+        @include transform(translateY(-50%));
+        margin: 0;
+        position: relative;
+        font-size: 1.4rem;
+        @include MQ(L) {
+          font-size: 1.6rem;
+        }
+      }
+      p{
+        @include transition(all .35s ease-out .1s);
+        @include transform(translateY(-45%));
+        font-weight: 300;
+        position: relative;
+        font-size: .8rem;
+        @include MQ(L) {
+          font-size: 1rem;
+        }
+      }
+    }
+    &:hover{
+      .project:after {
+        background: rgba($black,.6);
+      }
+      .title{
+        opacity: 1;
+        line-height: .5;
+        z-index: 5;
+        transform: translateY(0%);
+        h3{
+          color: $white;
+          margin-bottom: 1rem;
+        }
+        p {
+          color: $white;
+        }
+      }
+    }
+  }
 }

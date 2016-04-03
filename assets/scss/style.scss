@@ -15,6 +15,7 @@
 @import 'modules/rollovers';
 
 $border-box-sizing: true !default;
+$max-width: em(1000) !global;
 
 // HEADER HOME
 .site-header {
@@ -82,57 +83,54 @@ $border-box-sizing: true !default;
   }
 } // header
 
+.header-wrap {
+  @include MQ(M) {
+    @include outer-container(900px);
+  }
+}
+
+.main {
+  @include pad(0 16px 0 16px);
+  header.section {
+    @include row();
+    @include pad(32px 0 8px);
+    }
+}
+
+.content-wrap {
+  @include outer-container();
+}
 
 // MAIN HOME PAGE
-.homepage {
-  @include outer-container();
   .postthumb {
     @include span-columns(12);
-    @include pad(0 16px 16px);
+    @include pad(0 0 16px);
     background-color: $white;
     position: relative;
     @include MQ(M) {
       @include span-columns(6);
       @include omega(2n);
-      @include pad(0 0 16px);
+      //@include pad(0 0 16px);
     }
-  }
-  @include MQ(M) {
-    @include pad(0 16px);
-  }
-}
-
-.dribbble {
-  @include outer-container(12);
-  header {
-    @include fill-parent();
-  }
-  div, header {
-  @include span-columns(12);
-  @include pad(0 16px 16px);
-  a {
-    //display:block;
-    //line-height: 0;
-  }
-  }
-  div:last-child{
-    margin-bottom: 32px;
-  }
-  @include MQ(M) {
-    @include pad(0 16px);
-    div {
-    @include span-columns(6);
-    @include omega(2n);
-    @include pad(0 0 16px);
+    @include MQ(L) {
+      @include omega-reset(2n);
+      @include span-columns(4);
+      @include omega(3n);
+      //@include pad(0 0 16px);
     }
-    header {
-      @include row();
+    &.dribbble {
+      @include MQ(L) {
+        @include omega-reset(3n);
+        @include span-columns(3);
+        @include omega(4n);
+        //@include pad(0 0 16px);
+      }
     }
-  }
-}
+  } //posthumb
 
 footer {
   @include pad(16px);
+  @include row();
 } //footer
 
 .site-copyright {
@@ -143,23 +141,36 @@ footer {
   }
 }
 
+@mixin icon($bg) {
+  a {
+    background: $bg;
+    display: inline-block;
+    @include padding(8px);
+    &:hover {
+      $scale-hover: 1.15;
+      @include transform( scale($scale-hover) );
+      border-radius: 100%;
+      background: $black;
+      svg {
+        $scale-hover: 0.8;
+        @include transform( scale($scale-hover) );
+      }
+    }
+  }
+  svg {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+  }
+}
+
 .my-social {
   @include outer-container;
     div {
       @include span-columns(2.4);
       display:block;
       text-align:center;
-      a {
-        background: darken($grey-bg, 10);
-        display: inline-block;
-        @include padding(8px);
-      }
-      svg {
-        width: 32px;
-        height: 32px;
-        transition: fill 0.5s ease-in 6s;
-        vertical-align: middle;
-      }
+      @include icon(darken($grey-bg, 10));
   }
   &.share {
     margin-bottom: 92px;
@@ -168,11 +179,21 @@ footer {
     }
   }
 }
+.social-wrap {
+  @include MQ(M) {
+    @include outer-container(70%);
+  }
+  @include MQ(L) {
+    @include outer-container(50%);
+  }
+}
 
 // CONTENT ON WORK
 article.content {
-  @include padding(16px);
-
+  @include padding(16px 0 0);
+  @include MQ(M) {
+    @include outer-container(900px);
+  }
   p:last-child {
     margin-bottom:0;
   }
@@ -206,12 +227,9 @@ article.content {
     li {
       flex: 1;
       text-align: center;
-      a {
-        display: block;
-      }
-      svg {
-        height: 50px;
-        width: 50px;
+      @include icon(rgba($white, .5));
+      a:hover .icon-nav {
+        fill: $white;
       }
     }
 

@@ -1,5 +1,6 @@
 <section class="my-social share">
 	<p><span>Share</span></p>
+	<section class="social-wrap">
 		<div>
 			<a class="share-button" title="Share {{.Title}} on Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{.Permalink}}">{{partial "svg_icons/facebook-icon.svg"}}</a>
 		</div>
@@ -12,4 +13,5 @@
 		<div>
 			<a class="share-button" title="Share {{.Title }} via email." href="mailto:?subject={{.Title}}%20from%20{{.Site.Title}}&body=Check%20out%20what%20I%20found%20on%20{{.Site.Title}}:%20{{.Permalink}}">{{partial "svg_icons/email-icon.svg"}}</a>
 		</div>
+	</section>
 </section>
