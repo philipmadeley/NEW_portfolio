@@ -11,6 +11,7 @@
     display: block;
     overflow: hidden;
     position: relative;
+    color: $white;
     .project{
       @extend %default-transition;
       &:after{

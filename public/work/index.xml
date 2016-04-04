@@ -21,7 +21,7 @@
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;Metaps was preparing for its IPO and required a rebranding overhaul of its flagship site. The brief was to create a multilingual, responsive site which highlighted key product features and delivers one integrated brand experience.&lt;/p&gt;
+&lt;p&gt;Metaps was preparing for its IPO and required a rebranding overhaul of its flagship site. The brief was to create a multilingual, responsive site which highlighted key product features and delivered one integrated brand experience.&lt;/p&gt;
 
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 
@@ -37,13 +37,15 @@
 
 &lt;p&gt;Wireframes were developed into clickable prototypes. I kept the visuals light and unobtrusive to match the dashboard&amp;rsquo;s style guide and other products which I&amp;rsquo;d made previously. To bring a unique level of branding to the project I did a photo shoot focusing on displaying the product on laptops and mobile. High-level mocks were test driven with InVision and solicited for group feedback.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/me_mobile@2x.jpg&#34; alt=&#34;Mobile site&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/me_ui.jpg&#34; alt=&#34;UI design&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
 &lt;p&gt;To scale and rapidly produce the site, PHP partials were used for repeatable header, footer, and nav elements, then using Zurb&amp;rsquo;s Foundation to do the heavy lifting. A sub nav was implemented that became fixed on scrolling to highlight your current position and provide a more intuitive user experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/me_ui.jpg&#34; alt=&#34;UI design&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;responsive-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/161452668?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;495&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
 
@@ -54,7 +56,57 @@
 &lt;p&gt;&lt;a href=&#34;http://metaps.com&#34; title=&#34;Visit Metaps&#34; target=&#34;_blank&#34;&gt;www.metaps.com&lt;/a&gt;&lt;br&gt;
 &lt;i class=&#34;small&#34;&gt;Designs are subject to change since leaving Metaps.&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/me_dash@2x.jpg&#34; alt=&#34;Dashboard image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/me_mobile@2x.jpg&#34; alt=&#34;Mobile site&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spike Box</title>
+      <link>/work/spikebox-app/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/work/spikebox-app/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../images/sb_top_sm@2x.jpg&#34; alt=&#34;Spike box&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Spike Box is a social networking app and similar in concept to Craigslist but with followers. The brief was to design a simple and easy-to-understand UI, where users can easily share stuff that they don&amp;rsquo;t want anymore. The app must stand out from other competitors and create value for the user by being easy-to-use, yet engaging.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;Developing a native app was a first for Metaps and we didn&amp;rsquo;t have any firsthand user data to work from. We held several meetings, with a projector to discuss planning and strategy. Once we started to define a direction another round of meetings and checkpoints were setup. I used personas to help understand demographics, behaviors, needs and motivations of the user.&lt;/p&gt;
+
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
+
+&lt;p&gt;Researching the competition helped benchmark industry standards and identify opportunities to innovate upon. I used Balsamiq to quickly create designs for soliciting feedback with the team. I made paper prototypes to quickly test out user flows and then iterate improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/sb_wf.jpg&#34; alt=&#34;Initial paper prototypes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The biggest challenge was information architecture and simplifying the UI just enough to provide clarity and direction. I decided to utilize icons for globally recognized signifiers such as Comment, Like, and Menu. For less afforded global signifiers (Sale, Trade, Rent, Giveaway) use simple text and colour to distinguish functionality. Group similar functions together and hierarchically order elements according to use-value importance.&lt;/p&gt;
+
+&lt;div class=&#34;responsive-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/161461099?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;300&#34; height=&#34;533&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;Design assets were exported and handed off to the engineer until both iOS and Android apps were ready for review. We used an agile scrum process to cycle through each stage of development.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/sb_ui@2x.png&#34; alt=&#34;Mock UI designs&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;Swipe and fade in/out interactions were deployed throughout the app, however, animating the individual elements (Like, Comment and Menu) would delight and provide a more intuitive UX.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/sb_top@2x.jpg&#34; alt=&#34;Spike Box on iPhone&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;www.box.spike.cc&#34; target=&#34;_blank&#34;&gt;www.box.spike.cc&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.spike.spikebox&#34; target=&#34;_blank&#34;&gt;Google Play&lt;/a&gt;  &lt;br&gt;
+&lt;a href=&#34;https://itunes.apple.com/app/spike-box-you-dato-chichi/id892702113?mt=8&#34; target=&#34;_blank&#34;&gt;App Store&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -82,11 +134,13 @@
 
 &lt;p&gt;The stakeholder map  revealed a connection between Metaps and the developer in much the same way the app monetization business model works.  Using the storyboard, I sketched out ideas which incorporated the same narrative and then iterated on these designs to solicit feedback. Luckily we had a cool robot in the office which became a pivotal character for telling this story.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/ro_ui@2x.jpg&#34; alt=&#34;UI design&#34; /&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
 &lt;p&gt;The site was developed with Foundation and to enrich the user experience, the hero image scaled on page scroll with a slight parallax effect on the intro block.&lt;/p&gt;
+
+&lt;div class=&#34;responsive-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/161463740?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;498&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&#34;../images/ro_mobile@2x.jpg&#34; alt=&#34;mobile image&#34; /&gt;&lt;/p&gt;
 
@@ -96,59 +150,9 @@
 
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.robotics.metaps.com&#34; title=&#34;Visit Robotics&#34; target=&#34;_blank&#34;&gt;www.robotics.metaps.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://robotics.metaps.com/&#34; title=&#34;Visit Robotics&#34; target=&#34;_blank&#34;&gt;www.robotics.metaps.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/ro_laptop@2x.jpg&#34; alt=&#34;laptop image&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Creative Studio</title>
-      <link>/work/creative-studio/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/work/creative-studio/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;../images/cs_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;To design and develop a single page site with unique branding to attract app developers and other potential clients. The site must showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
-
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-
-&lt;p&gt;For this project, I was working with a new project leader. We sat down and discussed the site&amp;rsquo;s value proposition and map out key aspects:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;what the site is&lt;/li&gt;
-&lt;li&gt;who is the user&lt;/li&gt;
-&lt;li&gt;how will the site be used&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;We narrowed down our blueprint and created a consensus — the visual impact and creativity of the site would be pivotal in engaging with our main user group: game developers.  Our primary KPI was to drive inquiries and business leads.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/cs_ideation_wb.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
-
-&lt;p&gt;Most of the site assets were already in our possession, so I decided to quickly mark up some mood boards and get an overall sense and direction. The project leader has some ideas and we bounced these around and came up with two distinct designs. We tested our wireframe prototypes and moved forward with two viable designs for a high fidelity mock.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/cs_ui@2x.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;I leveraged Gulp with the Foundation framework and implemented the sticky nav component to achieve maximum exposure for the header on first view. I exported custom icons from Sketch and used Icomoon to read these in with CSS.&lt;/p&gt;
-
-&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;Move out of your comfort zone and experiment. On this occasion, my initial design was very clean and not what the project lead and our target user could relate to.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/cs_iteration.jpg&#34; alt=&#34;Design iteration&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
-
-&lt;p&gt;The site is no longer hosted.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/ro_ui@2x.jpg&#34; alt=&#34;UI design&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -167,29 +171,36 @@
 &lt;p&gt;Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance. This was an on-going project over about 16 months which was split into two parts&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Design and implement modular components for the preexisting  dashboard&lt;/li&gt;
+&lt;li&gt;Design and implement modular components for the preexisting dashboard&lt;/li&gt;
 &lt;li&gt;Redesign the landing page&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;I&amp;rsquo;m going to gloss over the landing page and discuss the dashboard components in this case study.&lt;/p&gt;
+&lt;p&gt;In this case study I will only discuss the dashboard funnel and segment analytics tools.&lt;/p&gt;
 
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 
-&lt;p&gt;Kickoff meetings were held with a product manager to figure out the goals, scope, and constraints of each project.  These meetings were conducted around a whiteboard, followed up with a round of discussion and, more importantly, a comprehension check of each others&amp;rsquo; ideas.
-After that, I used mind-mapping to uncover and explore possible solutions.  For research, benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.  In the example,  I created user flows for a funnel to track dropoff and conversion rates.&lt;/p&gt;
+&lt;p&gt;Kickoff meetings were held with a product manager to figure out the goals, scope, and constraints of each project.  These meetings were conducted around a whiteboard, followed up with a round of discussion and, more importantly, a comprehension check of each other&amp;rsquo;s ideas.
+After that, I used mind mapping to uncover and explore possible solutions.  For research, benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.  In the example,  I created user flows for a funnel to track dropoff and conversion rates.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../images/an_ideation_userflow.jpg&#34; alt=&#34;Ideation user flow&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
 
-&lt;p&gt;To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.
-Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.&lt;/p&gt;
+&lt;p&gt;To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.  In the example, I use rapid wireframing to test a user flow for saving out a segment.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/an_ui_dash.jpg&#34; alt=&#34;Dashboard funnels user flow&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;responsive-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/161468167?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;607&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.&lt;/p&gt;
 
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
 &lt;p&gt;The first stage was to leverage the Foundation framework and Rails asset pipeline to build out static views. Once the layout and sizing were pixel perfect, the focus turned to integrating the motion and how each action would link to the next task. Although the user flow was tested in the out prototype, implementing animations and responders in the UI with jQuery were important for project success.&lt;/p&gt;
+
+&lt;div class=&#34;responsive-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/161471190?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;499&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
 
@@ -250,48 +261,56 @@ Once the user flows and UI had been signed off, I used Sketch to create high fid
     </item>
     
     <item>
-      <title>Spike Box</title>
-      <link>/work/spikebox-app/</link>
-      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <title>Creative Studio</title>
+      <link>/work/creative-studio/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>/work/spikebox-app/</guid>
+      <guid>/work/creative-studio/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;../images/sb_top_sm@2x.jpg&#34; alt=&#34;Spike box&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/cs_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;Spike Box is a social networking app and similar in concept to Craigslist but with followers. The brief was to design a simple and easy-to-understand UI, where users can easily share item photos with friends and followers. The app must stand out from other competitors and create value for the user by being easy-to-use, yet engaging.&lt;/p&gt;
+&lt;p&gt;To design and develop a single page site with unique branding to attract app developers and other potential clients. The site must showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
 
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 
-&lt;p&gt;Developing a native app was a first for Metaps and we didn&amp;rsquo;t have any firsthand user data to work from. We held several meetings, with a projector to discuss planning and strategy. Once we started to define a direction another round of meetings and checkpoints were setup. I used personas to help understand demographics, behaviors, needs and motivations of the user.&lt;/p&gt;
+&lt;p&gt;For this project, I was working with a new project leader. We sat down and discussed the site&amp;rsquo;s value proposition and map out key aspects:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;what the site is&lt;/li&gt;
+&lt;li&gt;who is the user&lt;/li&gt;
+&lt;li&gt;how will the site be used&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We narrowed down our blueprint and created a consensus — the visual impact and creativity of the site would be pivotal in engaging with our main user group: game developers.  Our primary KPI was to drive inquiries and business leads.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/cs_ideation_wb.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
 
-&lt;p&gt;Researching the competition helped benchmark industry standards and identify opportunities to innovate upon. I used Balsamiq to quickly create designs for soliciting feedback with the team. I made paper prototypes to quickly test out user flows and then iterate improvements.&lt;/p&gt;
+&lt;p&gt;Most of the site assets were already in our possession, so I decided to quickly mark up some mood boards and get an overall sense and direction. The project leader has some ideas and we bounced these around and came up with two distinct designs. We tested our wireframe prototypes and moved forward with two viable designs for a high fidelity mock.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/sb_wf.jpg&#34; alt=&#34;Initial paper prototypes&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The biggest challenge was information architecture and simplifying the UI just enough to provide clarity and direction. I decided to utilize icons for globally recognized signifiers such as Comment, Like, and Menu. For less afforded global signifiers (Sale, Trade, Rent, Giveaway) use simple text and colour to distinguish functionality. Group similar functions together and hierarchically order elements according to use-value importance.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/sb_ui@2x.png&#34; alt=&#34;Mock UI designs&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/cs_iteration.jpg&#34; alt=&#34;Design iteration&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
-&lt;p&gt;Design assets were exported and handed off to the engineer until both iOS and Android apps were ready for review. We used an agile scrum process to cycle through each stage of development.&lt;/p&gt;
+&lt;p&gt;I leveraged Gulp with the Foundation framework and implemented the sticky nav component to achieve maximum exposure for the header on first view. I exported custom icons from Sketch and used Icomoon to read these in with CSS.&lt;/p&gt;
+
+&lt;div class=&#34;responsive-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/161472547?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;634&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
 
-&lt;p&gt;Swipe and fade in/out interactions were deployed throughout the app, however, animating the individual elements (Like, Comment and Menu) would delight and provide a more intuitive UX.&lt;/p&gt;
+&lt;p&gt;Move out of your comfort zone and experiment. On this occasion, my initial design was very clean and not what the project lead and our target user could relate to.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/sb_top@2x.jpg&#34; alt=&#34;Spike Box on iPhone&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/cs_ui@2x.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;www.box.spike.cc&#34; target=&#34;_blank&#34;&gt;www.box.spike.cc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.spike.spikebox&#34; target=&#34;_blank&#34;&gt;Google Play&lt;/a&gt;  &lt;br&gt;
-&lt;a href=&#34;https://itunes.apple.com/app/spike-box-you-dato-chichi/id892702113?mt=8&#34; target=&#34;_blank&#34;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The site is no longer hosted.&lt;/p&gt;
 </description>
     </item>
     

@@ -25,18 +25,20 @@ Robot monetization was an off-tangent business for Metaps, and blue-sky thinking
 ## Iteration
 The stakeholder map  revealed a connection between Metaps and the developer in much the same way the app monetization business model works.  Using the storyboard, I sketched out ideas which incorporated the same narrative and then iterated on these designs to solicit feedback. Luckily we had a cool robot in the office which became a pivotal character for telling this story.
 
-![UI design](/images/ro_ui@2x.jpg)
 
 ## Implementation
 The site was developed with Foundation and to enrich the user experience, the hero image scaled on page scroll with a slight parallax effect on the intro block.
 
-![mobile image](/images/ro_mobile@2x.jpg)
+<div class="responsive-container">
+<iframe src="https://player.vimeo.com/video/161463740?title=0&byline=0&portrait=0" width="900" height="498" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
+![mobile image](/images/ro_mobile@2x.jpg)
 
 ## Retrospective
 Content is king. The site is slightly vague and would benefit from having a service workflow diagram.
 
 ## Visit
-[www.robotics.metaps.com](http://www.robotics.metaps.com "Visit Robotics")
+[www.robotics.metaps.com](http://robotics.metaps.com/ "Visit Robotics")
 
-![laptop image](/images/ro_laptop@2x.jpg)
+![UI design](/images/ro_ui@2x.jpg)

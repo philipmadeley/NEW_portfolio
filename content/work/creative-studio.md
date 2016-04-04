@@ -2,8 +2,8 @@
 title: Creative Studio
 description: Landing page design
 author: Philip John Madeley
-date: 2015-02-01
-publishDate: 2015-02-01
+date: 2014-02-01
+publishDate: 2014-02-01
 # categories: [category 1, category 2]
 # tags: [tag 1, tag 2]
 comments: false
@@ -32,15 +32,20 @@ We narrowed down our blueprint and created a consensus — the visual impact and
 ## Iteration
 Most of the site assets were already in our possession, so I decided to quickly mark up some mood boards and get an overall sense and direction. The project leader has some ideas and we bounced these around and came up with two distinct designs. We tested our wireframe prototypes and moved forward with two viable designs for a high fidelity mock.
 
-![Design process](/images/cs_ui@2x.jpg)
+![Design iteration](/images/cs_iteration.jpg)
 
 ## Implementation
 I leveraged Gulp with the Foundation framework and implemented the sticky nav component to achieve maximum exposure for the header on first view. I exported custom icons from Sketch and used Icomoon to read these in with CSS.
 
+<div class="responsive-container">
+<iframe src="https://player.vimeo.com/video/161472547?title=0&byline=0&portrait=0" width="900" height="634" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 ## Retrospective
 Move out of your comfort zone and experiment. On this occasion, my initial design was very clean and not what the project lead and our target user could relate to.
 
-![Design iteration](/images/cs_iteration.jpg)
+![Design process](/images/cs_ui@2x.jpg)
+
 
 ## Visit
 The site is no longer hosted.
