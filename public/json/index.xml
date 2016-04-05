@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jsons on The featured design work of Philip John Madeley</title>
-    <link>http://www.philipmadeley.com/json/</link>
+    <link>/json/</link>
     <description>Recent content in Jsons on The featured design work of Philip John Madeley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="http://www.philipmadeley.com/json/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/json/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://www.philipmadeley.com/json/site-index/</link>
+      <link>/json/site-index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.philipmadeley.com/json/site-index/</guid>
+      <guid>/json/site-index/</guid>
       <description></description>
     </item>
     
