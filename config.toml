@@ -1,6 +1,6 @@
 # Only one archetype (posts) is included in Hugo Starter
 archetypedir = "archetypes"
-baseurl = ""
+baseurl = "http://www.philipmadeley.com/"
 buildDrafts = true
 buildFuture = false
 canonifyurls = true
@@ -72,28 +72,28 @@ watch = true
   tag = "tags"
   categories = "categories"
 
-# [params.dribbble]
-#   [params.dribbble.1gopro]
-#     "href" = "https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust"
-#     "alt" = "Visit Dribbble"
-#     "src" = "https://d13yacurqjgara.cloudfront.net/users/386409/screenshots/2593094/watch_gopro_app.gif"
-#     "title" = "Angle adjust"
-#     "description" = "Go Pro"
-#   [params.dribbble.2quora]
-#     "href" = "https://dribbble.com/shots/2538962-Responsive-scrolling-nav"
-#     "alt" = "Visit Dribbble"
-#     "src" = "https://d13yacurqjgara.cloudfront.net/users/386409/screenshots/2538962/sandbox_quora.gif"
-#     "title" = "Responsive scrolling"
-#     "description" = "Quora"
-#   [params.dribbble.3carousel]
-#     "href" = "https://dribbble.com/shots/2528869-Module-carousel-in-Framer"
-#     "alt" = "Visit Dribbble"
-#     "src" = "https://d13yacurqjgara.cloudfront.net/users/386409/screenshots/2528869/carousel.gif"
-#     "title" = "Modular Carousel"
-#     "description" = "Framer JS"
-#   [params.dribbble.4instagram]
-#     "href" = "https://dribbble.com/shots/2484865-slideshow-prototype-for-Instagram"
-#     "alt" = "Visit Dribbble"
-#     "src" = "https://d13yacurqjgara.cloudfront.net/users/386409/screenshots/2484865/instagram_slideshow.gif"
-#     "title" = "Modal slider"
-#     "description" = "Instagram"
+[params.dribbble]
+  [params.dribbble.1gopro]
+    "href" = "https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust"
+    "alt" = "Visit Dribbble"
+    "src" = "https://d13yacurqjgara.cloudfront.net/users/386409/screenshots/2593094/watch_gopro_app.gif"
+    "title" = "Angle adjust"
+    "description" = "Go Pro"
+  [params.dribbble.2quora]
+    "href" = "https://dribbble.com/shots/2538962-Responsive-scrolling-nav"
+    "alt" = "Visit Dribbble"
+    "src" = "https://d13yacurqjgara.cloudfront.net/users/386409/screenshots/2538962/sandbox_quora.gif"
+    "title" = "Responsive scrolling"
+    "description" = "Quora"
+  [params.dribbble.3carousel]
+    "href" = "https://dribbble.com/shots/2528869-Module-carousel-in-Framer"
+    "alt" = "Visit Dribbble"
+    "src" = "https://d13yacurqjgara.cloudfront.net/users/386409/screenshots/2528869/carousel.gif"
+    "title" = "Modular Carousel"
+    "description" = "Framer JS"
+  [params.dribbble.4instagram]
+    "href" = "https://dribbble.com/shots/2484865-slideshow-prototype-for-Instagram"
+    "alt" = "Visit Dribbble"
+    "src" = "https://d13yacurqjgara.cloudfront.net/users/386409/screenshots/2484865/instagram_slideshow.gif"
+    "title" = "Modal slider"
+    "description" = "Instagram"
