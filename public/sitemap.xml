@@ -2,53 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-01-16T00:00:00+00:00</lastmod>
+    <loc>http://www.philipmadeley.com/</loc>
+    <lastmod>2016-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://www.philipmadeley.com/personal-projects/angle-adjust/</loc>
+    <lastmod>2016-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/personal-projects/responsive-nav-scrolling/</loc>
+    <lastmod>2016-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/personal-projects/modular-carousel/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/personal-projects/modal-slider/</loc>
+    <lastmod>2016-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/about/</loc>
     <lastmod>2016-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/sample-singleton/</loc>
+    <loc>http://www.philipmadeley.com/sample-singleton/</loc>
     <lastmod>2016-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/metaps/</loc>
+    <loc>http://www.philipmadeley.com/work/metaps/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/spikebox-app/</loc>
+    <loc>http://www.philipmadeley.com/work/spikebox-app/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/robotics/</loc>
+    <loc>http://www.philipmadeley.com/work/robotics/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/analytics/</loc>
+    <loc>http://www.philipmadeley.com/work/analytics/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/careers-landing-page/</loc>
+    <loc>http://www.philipmadeley.com/work/careers-landing-page/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/creative-studio/</loc>
+    <loc>http://www.philipmadeley.com/work/creative-studio/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/json/site-index/</loc>
+    <loc>http://www.philipmadeley.com/json/site-index/</loc>
   </url>
   
 </urlset>

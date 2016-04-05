@@ -2,19 +2,142 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The featured design work of Philip John Madeley</title>
-    <link>/</link>
+    <link>http://www.philipmadeley.com/</link>
     <description>Recent content on The featured design work of Philip John Madeley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 16 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.philipmadeley.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Angle Adjust</title>
+      <link>http://www.philipmadeley.com/personal-projects/angle-adjust/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/angle-adjust/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;./images/dr_watch_gopro_app.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
+
+&lt;p&gt;I love snowboarding and wanted to capture the best footage from a day in the mountains. However, after challenging the limits of my ability, I eventually wipe out, knocking my Go Pro off angle. I decided to create a smartwatch app which enables the user to quickly check what they&amp;rsquo;re shooting and change the angle without having to pull out a phone or guess.&lt;/p&gt;
+
+&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Get firsthand experience of the problem&lt;/li&gt;
+&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
+&lt;li&gt;Move into Sketch&lt;/li&gt;
+&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
+&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
+&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
+&lt;li&gt;Test on device (if possible)&lt;/li&gt;
+&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This project is also on &lt;a href=&#34;https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust&#34; target=&#34;_blank&#34;&gt;Dribble&lt;/a&gt; and you can check the code out on &lt;a href=&#34;http://codepen.io/pjmtokyo/pen/xVReaR&#34; target=&#34;_blank&#34;&gt;Codepen&lt;/a&gt; (Share.Framer refused a video upload).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Responsive nav scroll</title>
+      <link>http://www.philipmadeley.com/personal-projects/responsive-nav-scrolling/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/responsive-nav-scrolling/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;./images/dr_sandbox_quora.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
+
+&lt;p&gt;I sometimes find the &lt;a href=&#34;https://www.quora.com/&#34; target=&#34;_blank&#34;&gt;Quora&lt;/a&gt; app quite useful for looking up specific questions.  I noticed both the header/footer nav were always present and reduced screen real estate when quickly browsing long pages. My solution was to prototype a retractable header/footer nav when an on scroll event is detected. Once the user finds something of interest and stops the page scroll, the header/footer nav reappear.&lt;/p&gt;
+
+&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Pick an app you like and want to improve&lt;/li&gt;
+&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
+&lt;li&gt;Take screenshots and recreate what you need in Sketch&lt;/li&gt;
+&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
+&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
+&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
+&lt;li&gt;Test on device (you need to get firsthand experience of your design)&lt;/li&gt;
+&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This project is also on &lt;a href=&#34;https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust&#34; target=&#34;_blank&#34;&gt;Dribble&lt;/a&gt; and you can check the code out on &lt;a href=&#34;http://share.framerjs.com/p4cvogxxlk1n/&#34; target=&#34;_blank&#34;&gt;Share.Framer&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modular carousel</title>
+      <link>http://www.philipmadeley.com/personal-projects/modular-carousel/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/modular-carousel/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;./images/dr_modular_carousel.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
+
+&lt;p&gt;Framer has been my go-to tool for interactive prototypes, however, sometimes it takes a crazy amount of code to put together an experience consisting of just a few components.  My solution was to create a modular JS carousel component which could be easily reused across different projects and customized with a few variables.&lt;/p&gt;
+
+&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Think of a component you often use&lt;/li&gt;
+&lt;li&gt;Write out what the component should do (Pseudocode if you prefer)&lt;/li&gt;
+&lt;li&gt;Write your component straight into Framer (it&amp;rsquo;s much faster this way)&lt;/li&gt;
+&lt;li&gt;Once your code is working, move it to a .js file and place inside your  module folder&lt;/li&gt;
+&lt;li&gt;In the empty Framer file import the module and test&lt;/li&gt;
+&lt;li&gt;Test on device and tweak the code if necessary&lt;/li&gt;
+&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This project is also on &lt;a href=&#34;https://dribbble.com/shots/2528869-Module-carousel-in-Framer&#34; target=&#34;_blank&#34;&gt;Dribble&lt;/a&gt; and you can check the code out on &lt;a href=&#34;http://share.framerjs.com/g2ttla0meqct/&#34; target=&#34;_blank&#34;&gt;Share.Framer&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modal slider</title>
+      <link>http://www.philipmadeley.com/personal-projects/modal-slider/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/modal-slider/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;./images/dr_instagram_slideshow.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
+
+&lt;p&gt;I enjoy using &lt;a href=&#34;https://www.instagram.com&#34; target=&#34;_blank&#34;&gt;Instagram&lt;/a&gt;, but one of my pet peeves is that you can&amp;rsquo;t (at the time of writing 2016/4/5) quickly swipe through full-screen photos. My solution was to quickly prototype a lightbox modal which chronological queues up photos so the user can swipe through each photo and return by swiping up.&lt;/p&gt;
+
+&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Pick an app you like and want to improve (one you know well helps)&lt;/li&gt;
+&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
+&lt;li&gt;Take screenshots and recreate what you need in Sketch&lt;/li&gt;
+&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
+&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
+&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
+&lt;li&gt;Test on device (you need to get firsthand experience of your design)&lt;/li&gt;
+&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This project is also on &lt;a href=&#34;https://dribbble.com/shots/2484865-slideshow-prototype-for-Instagram&#34; target=&#34;_blank&#34;&gt;Dribble&lt;/a&gt; and you can check the code out on &lt;a href=&#34;http://share.framerjs.com/qd15h57pzzyk/&#34; target=&#34;_blank&#34;&gt;Share.FramerJS&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://www.philipmadeley.com/about/</link>
       <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://www.philipmadeley.com/about/</guid>
       <description>
 
 &lt;h1 id=&#34;temp-folder-example-page&#34;&gt;Temp Folder Example Page&lt;/h1&gt;
@@ -25,10 +148,10 @@
     
     <item>
       <title>Sample Singleton</title>
-      <link>/sample-singleton/</link>
+      <link>http://www.philipmadeley.com/sample-singleton/</link>
       <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/sample-singleton/</guid>
+      <guid>http://www.philipmadeley.com/sample-singleton/</guid>
       <description>
 
 &lt;h1 id=&#34;temp-folder-example-page&#34;&gt;Temp Folder Example Page&lt;/h1&gt;
@@ -39,10 +162,10 @@
     
     <item>
       <title>Metaps</title>
-      <link>/work/metaps/</link>
+      <link>http://www.philipmadeley.com/work/metaps/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/work/metaps/</guid>
+      <guid>http://www.philipmadeley.com/work/metaps/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;./images/me_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
@@ -90,10 +213,10 @@
     
     <item>
       <title>Spike Box</title>
-      <link>/work/spikebox-app/</link>
+      <link>http://www.philipmadeley.com/work/spikebox-app/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/work/spikebox-app/</guid>
+      <guid>http://www.philipmadeley.com/work/spikebox-app/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;./images/sb_top_sm@2x.jpg&#34; alt=&#34;Spike box&#34; /&gt;&lt;/p&gt;
@@ -140,10 +263,10 @@
     
     <item>
       <title>Robotics</title>
-      <link>/work/robotics/</link>
+      <link>http://www.philipmadeley.com/work/robotics/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>/work/robotics/</guid>
+      <guid>http://www.philipmadeley.com/work/robotics/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;./images/ro_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
@@ -186,10 +309,10 @@
     
     <item>
       <title>Metaps Analytics</title>
-      <link>/work/analytics/</link>
+      <link>http://www.philipmadeley.com/work/analytics/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>/work/analytics/</guid>
+      <guid>http://www.philipmadeley.com/work/analytics/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;./images/an_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
@@ -244,10 +367,10 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
     
     <item>
       <title>Metaps Careers</title>
-      <link>/work/careers-landing-page/</link>
+      <link>http://www.philipmadeley.com/work/careers-landing-page/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/work/careers-landing-page/</guid>
+      <guid>http://www.philipmadeley.com/work/careers-landing-page/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;./images/ca_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
@@ -290,10 +413,10 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
     
     <item>
       <title>Creative Studio</title>
-      <link>/work/creative-studio/</link>
+      <link>http://www.philipmadeley.com/work/creative-studio/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>/work/creative-studio/</guid>
+      <guid>http://www.philipmadeley.com/work/creative-studio/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;./images/cs_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
@@ -344,10 +467,10 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
     
     <item>
       <title></title>
-      <link>/json/site-index/</link>
+      <link>http://www.philipmadeley.com/json/site-index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/json/site-index/</guid>
+      <guid>http://www.philipmadeley.com/json/site-index/</guid>
       <description></description>
     </item>
     

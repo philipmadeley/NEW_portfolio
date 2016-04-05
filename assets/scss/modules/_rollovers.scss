@@ -76,3 +76,14 @@
     }
   }
 }
+
+.dribbble a .title{
+  @include MQ(L) {
+    h3 {
+      font-size: 1.4rem;
+    }
+    p {
+      font-size: .8rem;
+    }
+  }
+}

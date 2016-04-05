@@ -1,6 +1,6 @@
 {{ partial "site_header.html" . }}
 {{ partial "site_header/site_header_single.html" $ }}
-<main class="main">
+<main class="main {{ with .Params.class }}{{ . }}{{ end }}">
 	<!-- Swiftype attributes will only show if Swiftype = true in config.toml. -->
 	<article class="content"{{if .Site.Params.Swiftype }}data-swiftype-name="body" data-swiftype-type="text" {{ end }}>
 		<header>
