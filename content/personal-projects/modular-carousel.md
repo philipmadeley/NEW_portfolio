@@ -27,4 +27,8 @@ Framer has been my go-to tool for interactive prototypes, however, sometimes it 
 7. Test on device and tweak the code if necessary
 8. Solicit feedback from community and friends
 
-This project is also on [Dribble](https://dribbble.com/shots/2528869-Module-carousel-in-Framer) and you can check the code out on [Share.Framer](http://share.framerjs.com/g2ttla0meqct/)
+<a href="http://share.framerjs.com/g2ttla0meqct/" target="_blank">
+<button>Play on Framer</button>
+</a>
+
+This project is also on <a class="link" href="https://dribbble.com/shots/2528869-Module-carousel-in-Framer" target="_blank">Dribbble</a>

@@ -28,4 +28,8 @@ I love snowboarding and wanted to capture the best footage from a day in the mou
 7. Test on device (if possible)
 8. Solicit feedback from community and friends
 
-This project is also on [Dribble](https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust) and you can check the code out on [Codepen](http://codepen.io/pjmtokyo/pen/xVReaR) (Share.Framer refused a video upload).
+<a href="http://codepen.io/pjmtokyo/pen/xVReaR" target="_blank">
+<button>See the code on Codepen</button>
+</a>
+
+This project is also on <a class="link" href="https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust" target="_blank">Dribbble</a>

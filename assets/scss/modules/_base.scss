@@ -25,6 +25,17 @@ a {
     transition: $anchor-transition;
 }
 
+a.link {
+  border-bottom: 1px solid $brand;
+  -webkit-transition: $anchor-transition;
+  -moz-transition: $anchor-transition;
+  transition: $anchor-transition;
+
+  &:hover {
+    padding-bottom: 0.1rem;
+  }
+}
+
 em,i {
     font-style:italic;
     font-weight:inherit;

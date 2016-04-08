@@ -28,4 +28,8 @@ I sometimes find the [Quora](https://www.quora.com/) app quite useful for lookin
 7. Test on device (you need to get firsthand experience of your design)
 8. Solicit feedback from community and friends
 
-This project is also on [Dribble](https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust) and you can check the code out on [Share.Framer](http://share.framerjs.com/p4cvogxxlk1n/)
+<a href="http://share.framerjs.com/p4cvogxxlk1n/" target="_blank">
+<button>Play on Framer</button>
+</a>
+
+This project is also on <a class="link" href="https://dribbble.com/shots/2538962-Responsive-scrolling-nav" target="_blank">Dribbble</a>

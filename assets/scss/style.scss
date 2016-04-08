@@ -12,7 +12,8 @@
 @import 'modules/social-media';
 //@import 'modules/fontawesome-anchor-helpers';
 @import 'modules/animate';
-@import 'modules/rollovers';
+@import 'modules/hovereffect';
+@import 'modules/button';
 
 $border-box-sizing: true !default;
 $max-width: em(1000) !global;
@@ -109,44 +110,28 @@ main.main[class*="dr_"] .content p{
   }
 }
 
+.homepage {
+  background-color: $bg;
+  //box-shadow: 0 -1px 1px darken($bg, 10);
+  box-shadow: inset  0  8px 8px -8px darken($bg, 10), inset  0 -8px 8px -8px darken($bg, 10);
+
+  .last.content-wrap{
+    @include pad(0 0 32px);
+  }
+}
+
 .main {
   @include pad(0 16px 0 16px);
   header.section {
     @include row();
     @include pad(32px 0 8px);
+    @include outer-container();
     }
 }
 
 .content-wrap {
   @include outer-container();
 }
-
-// MAIN HOME PAGE
-  .postthumb {
-    @include span-columns(12);
-    @include pad(0 0 16px);
-    background-color: $white;
-    position: relative;
-    @include MQ(M) {
-      @include span-columns(6);
-      @include omega(2n);
-      //@include pad(0 0 16px);
-    }
-    @include MQ(L) {
-      @include omega-reset(2n);
-      @include span-columns(4);
-      @include omega(3n);
-      //@include pad(0 0 16px);
-    }
-    &.dribbble {
-      @include MQ(L) {
-        @include omega-reset(3n);
-        @include span-columns(3);
-        @include omega(4n);
-        //@include pad(0 0 16px);
-      }
-    }
-  } //posthumb
 
 footer {
   @include pad(16px);
@@ -161,6 +146,7 @@ footer {
   }
 }
 
+//all icons footer and nav
 @mixin icon($bg) {
   a {
     background: $bg;
@@ -186,6 +172,7 @@ footer {
 
 .my-social {
   @include outer-container;
+  @include pad(32px 0 0 0);
     div {
       @include span-columns(2.4);
       display:block;

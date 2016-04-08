@@ -28,4 +28,8 @@ I enjoy using [Instagram](https://www.instagram.com), but one of my pet peeves i
 7. Test on device (you need to get firsthand experience of your design)
 8. Solicit feedback from community and friends
 
-This project is also on [Dribble](https://dribbble.com/shots/2484865-slideshow-prototype-for-Instagram) and you can check the code out on [Share.FramerJS](http://share.framerjs.com/qd15h57pzzyk/)
+<a href="http://share.framerjs.com/qd15h57pzzyk/" target="_blank">
+<button>Play on Framer</button>
+</a>
+
+This project is also on <a class="link" href="https://dribbble.com/shots/2484865-slideshow-prototype-for-Instagram" target="_blank">Dribbble</a>
