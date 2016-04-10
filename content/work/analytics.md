@@ -2,8 +2,8 @@
 title: Metaps Analytics
 description: Dashboard UX + landing page
 author: Philip John Madeley
-date: 2014-11-01
-publishDate: 2014-11-01
+date: 2015-03-01
+publishDate: 2015-03-01
 # categories: [category 1, category 2]
 # tags: [tag 1, tag 2]
 comments: false
@@ -30,16 +30,16 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 ![Ideation user flow](/images/an_ideation_userflow.jpg)
 
 ## Iteration
-To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.  In the example, I use rapid wireframing to test a user flow for saving out a segment.
+To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments proved invaluable to quickly iterate on designs.  In the example, I use rapid wireframing to test a user flow for saving out a segment.
 
 <div class="responsive-container">
 <iframe src="https://player.vimeo.com/video/161468167?title=0&byline=0&portrait=0" width="900" height="607" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.
+Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and surface any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.
 
 ## Implementation
-The first stage was to leverage the Foundation framework and Rails asset pipeline to build out static views. Once the layout and sizing were pixel perfect, the focus turned to integrating the motion and how each action would link to the next task. Although the user flow was tested in the out prototype, implementing animations and responders in the UI with jQuery were important for project success.
+The initial stage leveraged the Foundation framework and Rails asset pipeline to build out static views. Once the layout and sizing were pixel perfect, the focus turned to integrating the motion and how each action would link to the next task. Although the user flows were tested in the  prototype, implementing animations and responders in the UI with jQuery were important for user experience.
 
 <div class="responsive-container">
 <iframe src="https://player.vimeo.com/video/161471190?title=0&byline=0&portrait=0" width="900" height="499" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

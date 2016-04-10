@@ -36,12 +36,14 @@ The biggest challenge was information architecture and simplifying the UI just e
 ## Implementation
 Design assets were exported and handed off to the engineer until both iOS and Android apps were ready for review. We used an agile scrum process to cycle through each stage of development.
 
-![Mock UI designs](/images/sb_ui@2x.png)
+<div class="framed">
+<img src="/images/sb_ui@2x.png">
+</div>
 
 ## Retrospective
 Swipe and fade in/out interactions were deployed throughout the app, however, animating the individual elements (Like, Comment and Menu) would delight and provide a more intuitive UX.
 
-![Spike Box on iPhone](/images/sb_top@2x.jpg)
+![Spike Box on iPhone](/images/sb_laptop@2x.jpg)
 
 ## Visit
 [www.box.spike.cc](www.box.spike.cc) <br>
