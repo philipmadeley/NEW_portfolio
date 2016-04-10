@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on The featured design work of Philip John Madeley</title>
+    <title>Works on Philip John Madeley | Interaction Designer</title>
     <link>http://www.philipmadeley.com/work/</link>
-    <description>Recent content in Works on The featured design work of Philip John Madeley</description>
+    <description>Recent content in Works on Philip John Madeley | Interaction Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
@@ -18,6 +18,8 @@
       <description>
 
 &lt;p&gt;&lt;img src=&#34;../images/me_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
+
+&lt;!-- &lt;img src=&#34;../images/me_top@2x.jpg&#34; class=&#34;hero&#34;/&gt; --&gt;
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
@@ -35,13 +37,11 @@
 
 &lt;p&gt;&lt;img src=&#34;../images/me_ideation_sketch.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Wireframes were developed into clickable prototypes. I kept the visuals light and unobtrusive to match the dashboard&amp;rsquo;s style guide and other products which I&amp;rsquo;d made previously. To bring a unique level of branding to the project I did a photo shoot focusing on displaying the product on laptops and mobile. High-level mocks were test driven with InVision and solicited for group feedback.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/me_ui.jpg&#34; alt=&#34;UI design&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Wireframes were developed into clickable prototypes. I kept the visuals light and unobtrusive to match the dashboard&amp;rsquo;s style guide and other products which I&amp;rsquo;d previously designed. To bring a unique level of branding to the project I did a photo shoot focusing on displaying the product on laptops and mobile. High-level mocks were test driven with InVision and solicited for group feedback.&lt;/p&gt;
 
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
-&lt;p&gt;To scale and rapidly produce the site, PHP partials were used for repeatable header, footer, and nav elements, then using Zurb&amp;rsquo;s Foundation to do the heavy lifting. A sub nav was implemented that became fixed on scrolling to highlight your current position and provide a more intuitive user experience.&lt;/p&gt;
+&lt;p&gt;To scale and rapidly code the site, PHP partials were used for repeatable header, footer, and nav elements, then implement Zurb&amp;rsquo;s Foundation to do the heavy lifting. A sub nav was implemented that became fixed on scrolling to highlight your current position and provide a more intuitive user experience.&lt;/p&gt;
 
 &lt;div class=&#34;responsive-container&#34;&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/161452668?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;495&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -49,14 +49,18 @@
 
 &lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
 
-&lt;p&gt;A/B test and try and identify if there is a statistical significance between designs. A design sprint involving all the stakeholders may have created a more diverse and interesting outcome.&lt;/p&gt;
+&lt;p&gt;A/B test and try and identify if there&amp;rsquo;s a statistical significance between designs. A design sprint involving all the stakeholders may have created a more diverse and interesting outcome.&lt;/p&gt;
 
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://metaps.com&#34; title=&#34;Visit Metaps&#34; target=&#34;_blank&#34;&gt;www.metaps.com&lt;/a&gt;&lt;br&gt;
 &lt;i class=&#34;small&#34;&gt;Designs are subject to change since leaving Metaps.&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/me_mobile@2x.jpg&#34; alt=&#34;Mobile site&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The final UI design:&lt;/p&gt;
+
+&lt;div class=&#34;framed&#34;&gt;
+&lt;img src=&#34;../images/me_ui@2x.png&#34;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -94,13 +98,15 @@
 
 &lt;p&gt;Design assets were exported and handed off to the engineer until both iOS and Android apps were ready for review. We used an agile scrum process to cycle through each stage of development.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/sb_ui@2x.png&#34; alt=&#34;Mock UI designs&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;framed&#34;&gt;
+&lt;img src=&#34;../images/sb_ui@2x.png&#34;&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
 
 &lt;p&gt;Swipe and fade in/out interactions were deployed throughout the app, however, animating the individual elements (Like, Comment and Menu) would delight and provide a more intuitive UX.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/sb_top@2x.jpg&#34; alt=&#34;Spike Box on iPhone&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/sb_laptop@2x.jpg&#34; alt=&#34;Spike Box on iPhone&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
@@ -111,55 +117,9 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>http://www.philipmadeley.com/work/robotics/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.philipmadeley.com/work/robotics/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;../images/ro_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;To design and code a new landing page for Metaps which introduces a business model to monetize robot development. The site must be able to communicate the company&amp;rsquo;s vision through an easy-to-understand narrative.&lt;/p&gt;
-
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-
-&lt;p&gt;Robot monetization was an off-tangent business for Metaps, and blue-sky thinking was required to move the project forward. A Stakeholder map and some basic storyboarding  were used to identify use-case scenarios and how the page could relate to different user groups.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/ro_ideation.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
-
-&lt;p&gt;The stakeholder map  revealed a connection between Metaps and the developer in much the same way the app monetization business model works.  Using the storyboard, I sketched out ideas which incorporated the same narrative and then iterated on these designs to solicit feedback. Luckily we had a cool robot in the office which became a pivotal character for telling this story.&lt;/p&gt;
-
-&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;The site was developed with Foundation and to enrich the user experience, the hero image scaled on page scroll with a slight parallax effect on the intro block.&lt;/p&gt;
-
-&lt;div class=&#34;responsive-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/161463740?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;498&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/ro_mobile@2x.jpg&#34; alt=&#34;mobile image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;Content is king. The site is slightly vague and would benefit from having a service workflow diagram.&lt;/p&gt;
-
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://robotics.metaps.com/&#34; title=&#34;Visit Robotics&#34; target=&#34;_blank&#34;&gt;www.robotics.metaps.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/ro_ui@2x.jpg&#34; alt=&#34;UI design&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Metaps Analytics</title>
       <link>http://www.philipmadeley.com/work/analytics/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/work/analytics/</guid>
       <description>
@@ -186,17 +146,17 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 
 &lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
 
-&lt;p&gt;To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments was invaluable to quickly iterating the design towards a final viable solution.  In the example, I use rapid wireframing to test a user flow for saving out a segment.&lt;/p&gt;
+&lt;p&gt;To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments proved invaluable to quickly iterate on designs.  In the example, I use rapid wireframing to test a user flow for saving out a segment.&lt;/p&gt;
 
 &lt;div class=&#34;responsive-container&#34;&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/161468167?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;607&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and iron out any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.&lt;/p&gt;
+&lt;p&gt;Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and surface any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.&lt;/p&gt;
 
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
-&lt;p&gt;The first stage was to leverage the Foundation framework and Rails asset pipeline to build out static views. Once the layout and sizing were pixel perfect, the focus turned to integrating the motion and how each action would link to the next task. Although the user flow was tested in the out prototype, implementing animations and responders in the UI with jQuery were important for project success.&lt;/p&gt;
+&lt;p&gt;The initial stage leveraged the Foundation framework and Rails asset pipeline to build out static views. Once the layout and sizing were pixel perfect, the focus turned to integrating the motion and how each action would link to the next task. Although the user flows were tested in the  prototype, implementing animations and responders in the UI with jQuery were important for user experience.&lt;/p&gt;
 
 &lt;div class=&#34;responsive-container&#34;&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/161471190?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;499&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -215,6 +175,54 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
     </item>
     
     <item>
+      <title>Robotics</title>
+      <link>http://www.philipmadeley.com/work/robotics/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/work/robotics/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../images/ro_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;To design and code a new landing page for Metaps which introduces a business model to monetize robot development. The site must be able to communicate the company&amp;rsquo;s vision through an easy-to-understand narrative.&lt;/p&gt;
+
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+
+&lt;p&gt;Robot monetization was an off-tangent business for Metaps, and blue-sky thinking was required to move the project forward. A Stakeholder map and some basic storyboarding identified use-case scenarios and how the product could relate to different user groups.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/ro_ideation.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
+
+&lt;p&gt;The stakeholder map  revealed a connection between Metaps and the developer in much the same way the app monetization business model works.  Using the storyboard, I sketched out ideas which incorporated the same narrative and then iterated on these designs to solicit feedback. Luckily we had a cool robot in the office which became a pivotal character for telling our story.&lt;/p&gt;
+
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;The site utilized Zurb&amp;rsquo;s Foundation and to enrich the UX the hero image scaled on page scroll with a slight parallax effect. See the demo below.&lt;/p&gt;
+
+&lt;div class=&#34;responsive-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/161463740?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;498&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/ro_mobile@2x.jpg&#34; alt=&#34;mobile image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;Content is king. The site is slightly vague and would benefit from having a service workflow diagram.&lt;/p&gt;
+
+&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://robotics.metaps.com/&#34; title=&#34;Visit Robotics&#34; target=&#34;_blank&#34;&gt;www.robotics.metaps.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;framed&#34;&gt;
+&lt;img src=&#34;../images/ro_ui@2x.jpg&#34;&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Metaps Careers</title>
       <link>http://www.philipmadeley.com/work/careers-landing-page/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
@@ -226,37 +234,39 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;A careers site for Metaps to continue its growth and recruitment of tech industry professionals. The new page had to attract potential talent, focus on Metaps roadmap for success and highlight its industry credentials.&lt;/p&gt;
+&lt;p&gt;A careers landing page to spearhead Metap&amp;rsquo;s continued growth and recruitment of tech industry professionals. The experience had to attract potential talent, focus on Metaps roadmap for success and highlight its industry credentials.&lt;/p&gt;
 
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 
-&lt;p&gt;Our kickoff meeting started with whiteboard sketches and discussing the CEO&amp;rsquo;s vision and strategy for setting the right message. We brainstormed various ideas and worked out a stakeholders map of touchpoints of how each user group could engage with Metaps on a deeper level. We identified the site should mix personal attachment and present clear opportunities for career development.&lt;/p&gt;
+&lt;p&gt;Our kickoff meeting started with whiteboard sketches and discussed the CEO&amp;rsquo;s vision and strategy for setting the right message. We brainstormed various ideas and identified stakeholders with touchpoints of how each user group could engage with Metaps on a deeper level. We identified the experience should mix personal attachment and present clear opportunities for career development.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../images/ca_ideation_sketch.jpg&#34; alt=&#34;ideation sketch&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
 
-&lt;p&gt;After benchmarking some other career sites, variations on the blueprint were sketched out and formulated from the ideation phase. Our conversion goal was to get the user to apply for open positions, so we decided on a single page, which could immerse the user in a linear start-to-finish experience. Referencing user research from &lt;a href=&#34;https://signalvnoise.com/posts/2977-behind-the-scenes-highrise-marketing-site-ab-testing-part-1&#34; title=&#34;User testing from 37signals&#34; target=&#34;_blank&#34;&gt;37signals&lt;/a&gt; also told us that single-page sites have a conversion increase of 37.5%.&lt;/p&gt;
+&lt;p&gt;We benchmarked other career sites, looking at what worked well and things to avoid. This process helped formulate our design strategy blueprint. We set our KPI to increase online application conversions by 50%, which lead to a decision to build a single page, which could immerse the user in a linear start-to-finish experience. Referencing user research from &lt;a href=&#34;https://signalvnoise.com/posts/2977-behind-the-scenes-highrise-marketing-site-ab-testing-part-1&#34; title=&#34;User testing from 37signals&#34; target=&#34;_blank&#34;&gt;37signals&lt;/a&gt; also told us that single-page sites have a conversion increase of 37.5%.&lt;/p&gt;
 
-&lt;p&gt;Viable sketches were turned into wireframes and some basic prototypes were test driven. Designs were iterated on and solicited for feedback from the team, CEO, and other stakeholders. To personalize the experience, we interviewed employees and did a mini photoshoot, with each employee bringing in a characterising item.  Final design selection was tough going with conflicting opinions on what the hero image should be.&lt;/p&gt;
+&lt;p&gt;Viable sketches were turned into wireframes and some basic prototypes were test driven. These leading designs were iterated and solicited for feedback from the team, CEO, and other stakeholders. To personalize the experience, we interviewed employees and did a mini photoshoot, with each employee bringing in a characterising item.   Final design selection was tough going with conflicting opinions on what the hero image should represent.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/ca_ui.jpg&#34; alt=&#34;employee interview slider&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/ca_laptop.jpg&#34; alt=&#34;employee interview slider&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
-&lt;p&gt;This single page site would harbour most of its data in job specification partials, so I turned to AngularJS to leverage and automate the application process and created a slider for the employee interviews.  I used Gulp to enhance the workflow and generate the production build.&lt;/p&gt;
+&lt;p&gt;This single page site would harbour most of its data in hidden job specification partials, so I implemented AngularJS to leverage and modularize the applications and employee carousel.  I used Gulp to enhance the workflow and generate the production build.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../images/ca_mobile.jpg&#34; alt=&#34;site viewed on mobile&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
 
-&lt;p&gt;Decisions made outside my jurisdiction evolved the site away from the initial goal to mix personal attachment with career opportunity.  The top hero image veered on a minimal &amp;lsquo;cool&amp;rsquo;, and IMHO should have been more inviting. On the execution site, I wrote the site in AngularJS, which was overkill for a simple site. That said, using partials to pull in job descriptions was extremely convenient.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/ca_laptop.jpg&#34; alt=&#34;laptop site&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Decisions made outside my jurisdiction evolved the site away from the initial goal to mix personal attachment with career opportunity.  The top hero image veered on a minimal &amp;lsquo;cool&amp;rsquo;, and IMHO should have been more inviting. On the execution site, I wrote the site in AngularJS, which was overkill for a simple site. That said, using partials to pull in JSON proved extremely important for future projects.&lt;/p&gt;
 
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
 &lt;p&gt;The landing page was rebranded under www.metaps.com as of June 2015.&lt;/p&gt;
+
+&lt;div class=&#34;framed&#34;&gt;
+&lt;img src=&#34;../images/ca_ui@2x.jpg&#34;&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -272,11 +282,11 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;To design and develop a single page site with unique branding to attract app developers and other potential clients. The site must showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
+&lt;p&gt;To design and develop a single page experience with unique branding to attract app developers and other potential clients. The site must showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
 
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 
-&lt;p&gt;For this project, I was working with a new project leader. We sat down and discussed the site&amp;rsquo;s value proposition and map out key aspects:&lt;/p&gt;
+&lt;p&gt;For this project, I started working with a new project leader (a crazy but very nice guy). We sat down and discussed the site&amp;rsquo;s value proposition and map out key aspects:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;what the site is&lt;/li&gt;
@@ -284,19 +294,19 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 &lt;li&gt;how will the site be used&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;We narrowed down our blueprint and created a consensus — the visual impact and creativity of the site would be pivotal in engaging with our main user group: game developers.  Our primary KPI was to drive inquiries and business leads.&lt;/p&gt;
+&lt;p&gt;We narrowed down our blueprint and created a consensus — the visual impact and creativity of the site would be pivotal in engaging with our main user group – the game developer.  Our primary KPI was to drive inquiries and business leads.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../images/cs_ideation_wb.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
 
-&lt;p&gt;Most of the site assets were already in our possession, so I decided to quickly mark up some mood boards and get an overall sense and direction. The project leader has some ideas and we bounced these around and came up with two distinct designs. We tested our wireframe prototypes and moved forward with two viable designs for a high fidelity mock.&lt;/p&gt;
+&lt;p&gt;Most of the site assets were already in our possession, so I decided to quickly mark up some mood boards and get an overall sense of direction. The project leader has some ideas and we bounced these around and came up with two distinct designs. We tested our wireframe prototypes and moved forward with two viable designs for a high fidelity mock.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../images/cs_iteration.jpg&#34; alt=&#34;Design iteration&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 
-&lt;p&gt;I leveraged Gulp with the Foundation framework and implemented the sticky nav component to achieve maximum exposure for the header on first view. I exported custom icons from Sketch and used Icomoon to read these in with CSS.&lt;/p&gt;
+&lt;p&gt;I leveraged Gulp with Zurb&amp;rsquo;s Foundation framework and implemented the sticky nav component to achieve maximum exposure for the header on first view. I exported custom icons from Sketch and used Icomoon to read these in with CSS.&lt;/p&gt;
 
 &lt;div class=&#34;responsive-container&#34;&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/161472547?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;634&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -304,13 +314,15 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 
 &lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
 
-&lt;p&gt;Move out of your comfort zone and experiment. On this occasion, my initial design was very clean and not what the project lead and our target user could relate to.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/cs_ui@2x.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Move out of your comfort zone and experiment. On this occasion, my initial minimal, clean design was not what the project lead and our target user could relate to.&lt;/p&gt;
 
 &lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
 
 &lt;p&gt;The site is no longer hosted.&lt;/p&gt;
+
+&lt;div class=&#34;framed&#34;&gt;
+&lt;img src=&#34;../images/cs_ui@2x.jpg&#34;&gt;
+&lt;/div&gt;
 </description>
     </item>
     
