@@ -94,6 +94,9 @@ $max-width: em(1000) !global;
   &.dr_in {
     background: $dr_in;
   }
+  &.dr_gm {
+    background: $dr_gm;
+  }
 } // header
 
 main.main[class*="dr_"] .content p{
