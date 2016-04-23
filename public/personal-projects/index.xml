@@ -6,8 +6,36 @@
     <description>Recent content in Personal-projects on Philip John Madeley | Interaction Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 16 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.philipmadeley.com/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>User Rating</title>
+      <link>http://www.philipmadeley.com/personal-projects/google-maps-ugc-review/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/google-maps-ugc-review/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../images/gmaps_ugc_rating.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
+
+&lt;p&gt;UGC (user-generated content) is enriching Google Maps from just a route planner before, now the app can be your guide to doing things. On the surface, looking at the rating and reading reviews can often be enough to make a yes-no decision about eating in a restaurant, drinking in a bar or entering a venue. I decided to focus on restaurants for this challenge and make the UGC more granular by quickly showing a succession of rating categories for food, service and value in addition to the overall rating. This would bring a few immediate benefits:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;allows busy people who don&amp;rsquo;t have the time to write a review for quick input&lt;/li&gt;
+&lt;li&gt;helps structure a review if they decide to write one (food, service, value)&lt;/li&gt;
+&lt;li&gt;helps other users understand a more in-depth rating per venue&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/j5nmqffx5el8/&#34; target=&#34;_blank&#34;&gt;
+&lt;button&gt;Play on Framer&lt;/button&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2670146-Google-Maps-restaurant-rating&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Angle Adjust</title>
