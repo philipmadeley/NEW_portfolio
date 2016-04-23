@@ -26,4 +26,4 @@ UGC (user-generated content) is enriching Google Maps from just a route planner 
 <button>Play on Framer</button>
 </a>
 
-On Dribbble soon!
+This project is also on <a class="link" href="https://dribbble.com/shots/2670146-Google-Maps-restaurant-rating" target="_blank">Dribbble</a>
