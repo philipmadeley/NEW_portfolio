@@ -1,5 +1,5 @@
 ---
-title: Angle Adjust
+title: Angle adjust
 description: GoPro App
 author: Philip John Madeley
 date: 2016-03-16

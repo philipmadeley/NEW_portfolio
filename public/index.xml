@@ -6,11 +6,48 @@
     <description>Recent content on Philip John Madeley | Interaction Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 10 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 May 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.philipmadeley.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>User Rating</title>
+      <title>Photo editing</title>
+      <link>http://www.philipmadeley.com/personal-projects/google-maps-ugc-image-rotate/</link>
+      <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/google-maps-ugc-image-rotate/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;./images/gmaps_ugc_photo_rotate.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo; m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)&lt;/p&gt;
+
+&lt;p&gt;When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.  My prototype addresses the issue of photo editing right inside Google Maps, without having to leave the app.  As a starting point, I mapped out the experience in Google Photos and then incorporated this in Maps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./images/gmaps_ugc_photo_process.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As usual, the Framer share is available below, however, the UI elements are screenshots so I was unable to implement Material Design touch ripple animations because these happen between the icon and their base layer. That said, there were many useful components used in making this project:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Layer animation functions&lt;/li&gt;
+&lt;li&gt;Button Classes&lt;/li&gt;
+&lt;li&gt;Image rotation&lt;/li&gt;
+&lt;li&gt;States&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have any feedback or ways to improve this prototype, please get in touch through any of the social networks on my home page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/5q3je16uy8z4/&#34; target=&#34;_blank&#34;&gt;
+&lt;button&gt;Play on Framer&lt;/button&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2743862-Photo-editing-inside-Google-Maps&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User rating</title>
       <link>http://www.philipmadeley.com/personal-projects/google-maps-ugc-review/</link>
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -29,6 +66,8 @@
 &lt;li&gt;helps other users understand a more in-depth rating per venue&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p&gt;If you have any feedback or ways to improve this prototype, I&amp;rsquo;d be happy to chat through any of the social channels below.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/j5nmqffx5el8/&#34; target=&#34;_blank&#34;&gt;
 &lt;button&gt;Play on Framer&lt;/button&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -38,7 +77,7 @@
     </item>
     
     <item>
-      <title>Angle Adjust</title>
+      <title>Angle adjust</title>
       <link>http://www.philipmadeley.com/personal-projects/angle-adjust/</link>
       <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
       

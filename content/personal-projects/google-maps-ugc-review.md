@@ -1,5 +1,5 @@
 ---
-title: User Rating
+title: User rating
 description: Google Maps
 author: Philip John Madeley
 date: 2016-04-10
@@ -21,6 +21,8 @@ UGC (user-generated content) is enriching Google Maps from just a route planner 
 1. allows busy people who don't have the time to write a review for quick input
 2. helps structure a review if they decide to write one (food, service, value)
 3. helps other users understand a more in-depth rating per venue
+
+If you have any feedback or ways to improve this prototype, I'd be happy to chat through any of the social channels below.
 
 <a href="http://share.framerjs.com/j5nmqffx5el8/" target="_blank">
 <button>Play on Framer</button>

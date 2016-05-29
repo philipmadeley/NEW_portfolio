@@ -97,6 +97,9 @@ $max-width: em(1000) !global;
   &.dr_gm {
     background: $dr_gm;
   }
+  &.dr_gm2 {
+    background: $dr_gm2;
+  }
 } // header
 
 main.main[class*="dr_"] .content p{
@@ -105,6 +108,7 @@ main.main[class*="dr_"] .content p{
     display:block;
     margin:auto;
   }
+
 }
 
 .header-wrap {
@@ -219,6 +223,13 @@ article.content {
   }
   p:last-child {
     margin-bottom:0;
+  }
+  ul {
+    margin: 20px;
+    li {
+    display: list-item;
+    list-style-type: disc;
+    }
   }
 } //content
 
