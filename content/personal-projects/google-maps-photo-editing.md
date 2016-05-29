@@ -8,12 +8,12 @@ publishDate: 2016-05-29
 # tags: [tag 1, tag 2]
 comments: false
 generatePage: false
-img_thumbnail: "images/gmaps_ugc_photo_rotate.gif"
+img_thumbnail: "images/google-maps-photo-editing.gif"
 class: dr_gm2
 draft: false
 ---
 
-![Hero image](/images/gmaps_ugc_photo_rotate.gif)
+![Hero image](/images/google-maps-photo-editing.gif)
 
 ## Design Challenge
 I'm a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it's a great app :)  

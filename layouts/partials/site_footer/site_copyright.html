@@ -1,5 +1,5 @@
 <div class="site-copyright">
 
     <p>{{ if .Site.Params.MadeBy }}{{.Site.Params.MadeBy}}{{ end }}<br>
-    &copy; {{ .Site.LastChange.Format "2006"}} {{ if .Site.Params.CopyrightLine }}{{.Site.Params.CopyrightLine}}{{ end }}</p>
+    &copy; {{ .Now.Year }} {{ if .Site.Params.CopyrightLine }}{{.Site.Params.CopyrightLine}}{{ end }}</p>
 </div>
