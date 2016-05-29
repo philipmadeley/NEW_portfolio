@@ -2,30 +2,27 @@
 <html lang="en">
 <head>
 	
-<title>Metaps Analytics | Philip John Madeley | Interaction Designer</title>
+<title>Photo editing | Philip John Madeley | Interaction Designer</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <meta property="og:locale" content="en_GB">
-<meta property="og:title" content="Metaps Analytics">
+<meta property="og:title" content="Photo editing">
 <meta property="og:image" content="http://www.philipmadeley.com//images/site-logo.png">
-<meta property="og:description" content="Dashboard UX &#43; landing page">
+<meta property="og:description" content="Google Maps">
 <meta property="og:site_name" content="Philip John Madeley | Interaction Designer">
 
 <link rel="preconnect" href="http://www.philipmadeley.com/">
-<link rel="canonical" href="http://www.philipmadeley.com/work/analytics/">
+<link rel="canonical" href="http://www.philipmadeley.com/personal-projects/google-maps-photo-editing/">
 <link href="" rel="alternate" type="application/rss+xml" title="Philip John Madeley | Interaction Designer" />
 
 
 	
-	<link rel="prefetch" href="http://www.philipmadeley.com/work/spikebox-app/">
-	<link rel="prerender" href="http://www.philipmadeley.com/work/spikebox-app/">
 	
-	
-	<link rel="prefetch" href="http://www.philipmadeley.com/work/robotics/">
-	<link rel="prerender" href="http://www.philipmadeley.com/work/robotics/">
+	<link rel="prefetch" href="http://www.philipmadeley.com/personal-projects/google-maps-ugc-review/">
+	<link rel="prerender" href="http://www.philipmadeley.com/personal-projects/google-maps-ugc-review/">
 	
 
 
@@ -58,7 +55,7 @@
 </head>
 <body>
 
-<header class="site-header work an">
+<header class="site-header work dr_gm2">
 		<div class="header-wrap">
 		<a href="../../" id="home-button" class="logo_home">
 			<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -95,15 +92,15 @@
     </g>
 </svg>
 
-				<h1>Metaps Analytics</h1>
-				<h2>Dashboard UX &#43; landing page</h2>
+				<h1>Photo editing</h1>
+				<h2>Google Maps</h2>
 				</a>
 		
 		</div>
 		
 </header>
 
-<main class="main an">
+<main class="main dr_gm2">
 	
 	<article class="content">
 		<header>
@@ -114,80 +111,37 @@
 		</header>
 		
 
-<p><img src="../../images/an_top_sm@2x.jpg" alt="Hero image" /></p>
+<p><img src="../../images/gmaps_ugc_photo_rotate.gif" alt="Hero image" /></p>
 
-<h2 id="overview">Overview</h2>
+<h2 id="design-challenge">Design Challenge</h2>
 
-<p>Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance. This was an on-going project over about 16 months which was split into two parts</p>
+<p>I&rsquo;m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&rsquo;s a great app :)</p>
 
-<ol>
-<li>Design and implement modular components for the preexisting dashboard</li>
-<li>Redesign the landing page</li>
-</ol>
+<p>When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.  My prototype addresses the issue of photo editing right inside Google Maps, without having to leave the app.  As a starting point, I mapped out the experience in Google Photos and then incorporated this in Maps.</p>
 
-<p>In this case study I will only discuss the dashboard funnel and segment analytics tools.</p>
+<p><img src="../../images/gmaps_ugc_photo_process.png" alt="image" /></p>
 
-<h2 id="ideation">Ideation</h2>
+<p>As usual, the Framer share is available below, however, the UI elements are screenshots so I was unable to implement Material Design touch ripple animations because these happen between the icon and their base layer. That said, there were many useful components used in making this project:</p>
 
-<p>Kickoff meetings were held with a product manager to figure out the goals, scope, and constraints of each project.  These meetings were conducted around a whiteboard, followed up with a round of discussion and, more importantly, a comprehension check of each other&rsquo;s ideas.
-After that, I used mind mapping to uncover and explore possible solutions.  For research, benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.  In the example,  I created user flows for a funnel to track dropoff and conversion rates.</p>
+<ul>
+<li>Layer animation functions</li>
+<li>Button Classes</li>
+<li>Image rotation</li>
+<li>States</li>
+</ul>
 
-<p><img src="../../images/an_ideation_userflow.jpg" alt="Ideation user flow" /></p>
+<p>If you have any feedback or ways to improve this prototype, please get in touch through any of the social networks on my home page.</p>
 
-<h2 id="iteration">Iteration</h2>
+<p><a href="http://share.framerjs.com/5q3je16uy8z4/" target="_blank">
+<button>Play on Framer</button>
+</a></p>
 
-<p>To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments proved invaluable to quickly iterate on designs.  In the example, I use rapid wireframing to test a user flow for saving out a segment.</p>
-
-<div class="responsive-container">
-<iframe src="https://player.vimeo.com/video/161468167?title=0&byline=0&portrait=0" width="900" height="607" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
-<p>Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and surface any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.</p>
-
-<h2 id="implementation">Implementation</h2>
-
-<p>The initial stage leveraged the Foundation framework and Rails asset pipeline to build out static views. Once the layout and sizing were pixel perfect, the focus turned to integrating the motion and how each action would link to the next task. Although the user flows were tested in the  prototype, implementing animations and responders in the UI with jQuery were important for user experience.</p>
-
-<div class="responsive-container">
-<iframe src="https://player.vimeo.com/video/161471190?title=0&byline=0&portrait=0" width="900" height="499" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
-<h2 id="retrospective">Retrospective</h2>
-
-<p>Although this product was in its initial stages of development, having more user data prior to the ideation phase would have solved some early decision making.</p>
-
-<p><img src="../../images/an_mobile.jpg" alt="Landing page on mobile" /></p>
-
-<h2 id="visit">Visit</h2>
-
-<p>The landing page was rebranded under www.metaps.com as of June 2015. The dashboard can only be accessed with a user account.</p>
+<p>This project is also on <a class="link" href="https://dribbble.com/shots/2743862-Photo-editing-inside-Google-Maps" target="_blank">Dribbble</a></p>
 
 	</article>
 </main>
 <nav class="site-footer-navigation">
 	<ul>
-		
-<li>
-	<a rel="next" href="http://www.philipmadeley.com/work/spikebox-app/" id="next">
-		<svg width="29px" height="50px" viewBox="0 0 29 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    
-    <title>Nav left</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
-        <g id="iPhone-6" transform="translate(-60.000000, -1235.000000)" fill="#4A4A4A">
-            <g id="nav_btns" transform="translate(32.000000, 1218.000000)">
-                <g id="left" class="icon-nav">
-                    <path d="M28.2034595,63.6103786 L31.7965405,67.2034595 L56.7965405,42.2034595 L31.3896214,16.7965405 L27.7965405,20.3896214 L49.6103786,42.2034595 L28.2034595,63.6103786 Z" id="Combined-Shape" transform="translate(42.500000, 42.000000) scale(-1, 1) translate(-42.500000, -42.000000) "></path>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
-
-		
-	</a>
-</li>
 		
 		<li>
 			<a href="../../" id="home-button" class="logo_home">
@@ -212,7 +166,7 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 		</li>
 		
 	<li>
-			<a rel="prev" href="http://www.philipmadeley.com/work/robotics/" id="prev">
+			<a rel="prev" href="http://www.philipmadeley.com/personal-projects/google-maps-ugc-review/" id="prev">
 				<svg width="29px" height="50px" viewBox="0 0 29 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     
     <title>Nav right</title>
@@ -242,7 +196,7 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 	<p><span>Share</span></p>
 	<section class="social-wrap">
 		<div>
-			<a class="share-button" title="Share Metaps Analytics on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.philipmadeley.com%2fwork%2fanalytics%2f"><svg width="22px" height="50px" viewBox="0 0 22 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<a class="share-button" title="Share Photo editing on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.philipmadeley.com%2fpersonal-projects%2fgoogle-maps-photo-editing%2f"><svg width="22px" height="50px" viewBox="0 0 22 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     
     <title>Facebook icon</title>
     <desc>Created with Sketch.</desc>
@@ -260,7 +214,7 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 </a>
 		</div>
 		<div>
-			<a class="share-button" title="Tweet Metaps Analytics on Twitter" href="https://twitter.com/share?text=Metaps%20Analytics%20by%20@PhilipMadeley%20via%20Philip%20John%20Madeley%20%7c%20Interaction%20Designer"><svg width="50px" id="twitter-icon" height="41px" viewBox="0 0 50 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<a class="share-button" title="Tweet Photo editing on Twitter" href="https://twitter.com/share?text=Photo%20editing%20by%20@PhilipMadeley%20via%20Philip%20John%20Madeley%20%7c%20Interaction%20Designer"><svg width="50px" id="twitter-icon" height="41px" viewBox="0 0 50 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     
     <title>Twitter icon</title>
     <desc>Created with Sketch.</desc>
@@ -278,7 +232,7 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 </a>
 		</div>
 		<div>
-			<a class="share-button" title="Share Metaps Analytics on Google Plus" href="https://plus.google.com/share?url=http%3a%2f%2fwww.philipmadeley.com%2fwork%2fanalytics%2f"><svg width="50px" height="33px" viewBox="0 0 50 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<a class="share-button" title="Share Photo editing on Google Plus" href="https://plus.google.com/share?url=http%3a%2f%2fwww.philipmadeley.com%2fpersonal-projects%2fgoogle-maps-photo-editing%2f"><svg width="50px" height="33px" viewBox="0 0 50 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     
     <title>Google+ icon</title>
     <desc>Created with Sketch.</desc>
@@ -299,7 +253,7 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
 </a>
 		</div>
 		<div>
-			<a class="share-button" title="Share Metaps Analytics via email." href="mailto:?subject=Metaps%20Analytics%20from%20Philip%20John%20Madeley%20%7c%20Interaction%20Designer&body=Check%20out%20what%20I%20found%20on%20Philip%20John%20Madeley%20%7c%20Interaction%20Designer:%20http%3a%2f%2fwww.philipmadeley.com%2fwork%2fanalytics%2f"><svg width="50px" height="41px" viewBox="0 0 50 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<a class="share-button" title="Share Photo editing via email." href="mailto:?subject=Photo%20editing%20from%20Philip%20John%20Madeley%20%7c%20Interaction%20Designer&body=Check%20out%20what%20I%20found%20on%20Philip%20John%20Madeley%20%7c%20Interaction%20Designer:%20http%3a%2f%2fwww.philipmadeley.com%2fpersonal-projects%2fgoogle-maps-photo-editing%2f"><svg width="50px" height="41px" viewBox="0 0 50 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     
     <title>Email icon</title>
     <desc>Created with Sketch.</desc>

@@ -11,17 +11,17 @@
     
     <item>
       <title>Photo editing</title>
-      <link>http://www.philipmadeley.com/personal-projects/google-maps-ugc-image-rotate/</link>
+      <link>http://www.philipmadeley.com/personal-projects/google-maps-photo-editing/</link>
       <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.philipmadeley.com/personal-projects/google-maps-ugc-image-rotate/</guid>
+      <guid>http://www.philipmadeley.com/personal-projects/google-maps-photo-editing/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;../images/gmaps_ugc_photo_rotate.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
 
-&lt;p&gt;I&amp;rsquo; m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)&lt;/p&gt;
 
 &lt;p&gt;When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.  My prototype addresses the issue of photo editing right inside Google Maps, without having to leave the app.  As a starting point, I mapped out the experience in Google Photos and then incorporated this in Maps.&lt;/p&gt;
 
