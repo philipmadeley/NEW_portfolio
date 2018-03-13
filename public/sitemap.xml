@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://www.philipmadeley.com/</loc>
-    <lastmod>2016-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://www.philipmadeley.com/personal-projects/google-maps-photo-editing/</loc>
@@ -20,6 +15,11 @@
   <url>
     <loc>http://www.philipmadeley.com/personal-projects/angle-adjust/</loc>
     <lastmod>2016-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/work/amazon-kao/</loc>
+    <lastmod>2016-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,6 +45,16 @@
   <url>
     <loc>http://www.philipmadeley.com/sample-singleton/</loc>
     <lastmod>2016-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/work/amazon-yokai/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/work/amazon-kirin/</loc>
+    <lastmod>2015-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,6 +89,45 @@
   
   <url>
     <loc>http://www.philipmadeley.com/json/site-index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/json/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/personal-projects/</loc>
+    <lastmod>2016-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/</loc>
+    <lastmod>2016-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/singletons/</loc>
+    <lastmod>2016-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.philipmadeley.com/work/</loc>
+    <lastmod>2016-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

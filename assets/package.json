@@ -1,28 +1,25 @@
 {
-  "name": "hugo-starter-gulp-setup",
-  "version": "0.0.1",
-  "description": "Basic set up for front-end development with Hugo as an SSG",
-  "main": "Gulpfile.js",
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "> **NOTE:** Install all NPM packages before running `gulp`. From within `hugo-starter/`, type `cd assets/ && npm install`.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ryan D Watters",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "babel-preset-es2015": "^6.1.18",
-    "es6-promise": "^3.1.2",
-    "es6-require": "^0.2.1",
-    "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^3.1.0",
-    "gulp-babel": "^6.1.0",
-    "gulp-concat": "^2.6.0",
-    "gulp-markdown-to-json": "^0.2.1",
-    "gulp-notify": "^2.2.0",
-    "gulp-plumber": "^1.0.1",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "es6-promise": "^4.2.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.1.0",
-    "gulp-uglify": "^1.5.1",
-    "gulp-util": "^3.0.7",
-    "lazy": "^1.0.11"
+    "gulp-sass": "^3.2.0",
+    "gulp-uglify": "^3.0.0"
   }
 }

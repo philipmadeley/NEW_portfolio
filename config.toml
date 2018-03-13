@@ -1,4 +1,5 @@
 # Only one archetype (posts) is included in Hugo Starter
+DefaultContentLanguage = "en"
 archetypedir = "archetypes"
 baseurl = "http://www.philipmadeley.com/"
 buildDrafts = true
