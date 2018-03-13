@@ -9,14 +9,14 @@ var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 var plumber = require('gulp-plumber');
 var autoprefixer = require('gulp-autoprefixer');
-var gutil = require('gulp-util');
+// var gutil = require('gulp-util');
 
 //Markdown to json task
 // var markdown = require('gulp-markdown-to-json');
 
 
 // Compile Sass; note sass options to prevent server from breaking when you fudge a css rule
-gulp.task('sass', function() {
+gulp.task('scss', function() {
   return gulp.src('scss/style.scss')
     .pipe(plumber())
     .pipe(sass({
@@ -34,7 +34,7 @@ gulp.task('sass', function() {
 });
 
 // Concatenate & Minify JS
-gulp.task('scripts', function() {
+gulp.task('js', function() {
   return gulp.src('js/modules/*.js')
     .pipe(concat('main.js'))
     .pipe(babel({
@@ -54,12 +54,26 @@ gulp.task('scripts', function() {
 // });
 
 //the default "compile" task for sass and js
-gulp.task('compile', ['sass', 'scripts'], function() {
-  gulp.watch(['scss/*.scss', 'scss/modules/*scss'], ['sass']);
-  gulp.watch("scss/partials/*.scss", ['sass']);
-  gulp.watch("js/modules/*.js", ['scripts']);
-  // gulp.watch("../content/**/*.md", ['markdown']);
-});
+
+// gulp.task('compile', ['sass', 'scripts'], function() {
+//   gulp.watch(['scss/*.scss', 'scss/modules/*scss'], ['sass']);
+//   gulp.watch("scss/partials/*.scss", ['sass']);
+//   gulp.watch("js/modules/*.js", ['scripts']);
+//   // gulp.watch("../content/**/*.md", ['markdown']);
+// });
+
 
 // Default Task
-gulp.task('default', ['compile']);
+//gulp.task('default', ['compile']);
+
+// Watch asset folder for changes
+gulp.task("watch", [
+  "scss", "js"
+], function() {
+  gulp.watch("scss/**/*", ["scss"])
+  gulp.watch("images/**/*", ["images"])
+  gulp.watch("js/**/*", ["js"])
+})
+
+// Set watch as default task
+gulp.task("default", ["watch"])

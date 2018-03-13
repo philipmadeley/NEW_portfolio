@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 29 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.philipmadeley.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.philipmadeley.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Photo editing</title>
@@ -15,35 +17,8 @@
       <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/google-maps-photo-editing/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/google-maps-photo-editing.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)&lt;/p&gt;
-
-&lt;p&gt;When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.  My prototype addresses the issue of photo editing right inside Google Maps, without having to leave the app.  As a starting point, I mapped out the experience in Google Photos and then incorporated this in Maps.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/gmaps_ugc_photo_process.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As usual, the Framer share is available below, however, the UI elements are screenshots so I was unable to implement Material Design touch ripple animations because these happen between the icon and their base layer. That said, there were many useful components used in making this project:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Layer animation functions&lt;/li&gt;
-&lt;li&gt;Button Classes&lt;/li&gt;
-&lt;li&gt;Image rotation&lt;/li&gt;
-&lt;li&gt;States&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you have any feedback or ways to improve this prototype, please get in touch through any of the social networks on my home page.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/5q3je16uy8z4/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2743862-Photo-editing-inside-Google-Maps&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge I&amp;rsquo;m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)
+When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.</description>
     </item>
     
     <item>
@@ -52,28 +27,7 @@
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/google-maps-ugc-review/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/gmaps_ugc_rating.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;UGC (user-generated content) is enriching Google Maps from just a route planner before, now the app can be your guide to doing things. On the surface, looking at the rating and reading reviews can often be enough to make a yes-no decision about eating in a restaurant, drinking in a bar or entering a venue. I decided to focus on restaurants for this challenge and make the UGC more granular by quickly showing a succession of rating categories for food, service and value in addition to the overall rating. This would bring a few immediate benefits:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;allows busy people who don&amp;rsquo;t have the time to write a review for quick input&lt;/li&gt;
-&lt;li&gt;helps structure a review if they decide to write one (food, service, value)&lt;/li&gt;
-&lt;li&gt;helps other users understand a more in-depth rating per venue&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If you have any feedback or ways to improve this prototype, I&amp;rsquo;d be happy to chat through any of the social channels below.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/j5nmqffx5el8/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2670146-Google-Maps-restaurant-rating&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge UGC (user-generated content) is enriching Google Maps from just a route planner before, now the app can be your guide to doing things. On the surface, looking at the rating and reading reviews can often be enough to make a yes-no decision about eating in a restaurant, drinking in a bar or entering a venue. I decided to focus on restaurants for this challenge and make the UGC more granular by quickly showing a succession of rating categories for food, service and value in addition to the overall rating.</description>
     </item>
     
     <item>
@@ -82,33 +36,19 @@
       <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/angle-adjust/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/dr_watch_gopro_app.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;I love snowboarding and wanted to capture the best footage from a day in the mountains. However, after challenging the limits of my ability, I eventually wipe out, knocking my Go Pro off angle. I decided to create a smartwatch app which enables the user to quickly check what they&amp;rsquo;re shooting and change the angle without having to pull out a phone or guess.&lt;/p&gt;
-
-&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Get firsthand experience of the problem&lt;/li&gt;
-&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
-&lt;li&gt;Move into Sketch&lt;/li&gt;
-&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
-&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
-&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
-&lt;li&gt;Test on device (if possible)&lt;/li&gt;
-&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codepen.io/pjmtokyo/pen/xVReaR&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;See the code on Codepen&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge I love snowboarding and wanted to capture the best footage from a day in the mountains. However, after challenging the limits of my ability, I eventually wipe out, knocking my Go Pro off angle. I decided to create a smartwatch app which enables the user to quickly check what they&amp;rsquo;re shooting and change the angle without having to pull out a phone or guess.
+Design Process  Get firsthand experience of the problem Sketch out ideas and iterate on the design Move into Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (if possible) Solicit feedback from community and friends  See the code on Codepen</description>
+    </item>
+    
+    <item>
+      <title>Amazon x Kao</title>
+      <link>http://www.philipmadeley.com/work/amazon-kao/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/work/amazon-kao/</guid>
+      <description>Overview I worked with a small cross-functional team to craft custom advertising solutions for top-tier clients in Tokyo. Kao, a major cosmetics company, wanted to increase awareness of a new fabric softener (Dress and Airy), through a custom landing page experience.
+Goals Since the product was new to the market, Kao wanted to focus on two goals:
+ Create brand awareness and lift Motivate the customer to buy the product  Concept We ran a design sprint and created a concept around the idea of synergy; two different products that interlinked in the middle.</description>
     </item>
     
     <item>
@@ -117,33 +57,8 @@
       <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/responsive-nav-scrolling/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/dr_sandbox_quora.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;I sometimes find the &lt;a href=&#34;https://www.quora.com/&#34; target=&#34;_blank&#34;&gt;Quora&lt;/a&gt; app quite useful for looking up specific questions.  I noticed both the header/footer nav were always present and reduced screen real estate when quickly browsing long pages. My solution was to prototype a retractable header/footer nav when an on scroll event is detected. Once the user finds something of interest and stops the page scroll, the header/footer nav reappear.&lt;/p&gt;
-
-&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Pick an app you like and want to improve&lt;/li&gt;
-&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
-&lt;li&gt;Take screenshots and recreate what you need in Sketch&lt;/li&gt;
-&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
-&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
-&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
-&lt;li&gt;Test on device (you need to get firsthand experience of your design)&lt;/li&gt;
-&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/p4cvogxxlk1n/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2538962-Responsive-scrolling-nav&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge I sometimes find the Quora app quite useful for looking up specific questions. I noticed both the header/footer nav were always present and reduced screen real estate when quickly browsing long pages. My solution was to prototype a retractable header/footer nav when an on scroll event is detected. Once the user finds something of interest and stops the page scroll, the header/footer nav reappear.
+Design Process  Pick an app you like and want to improve Sketch out ideas and iterate on the design Take screenshots and recreate what you need in Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (you need to get firsthand experience of your design) Solicit feedback from community and friends  Play on Framer</description>
     </item>
     
     <item>
@@ -152,32 +67,8 @@
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/modular-carousel/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/dr_modular_carousel.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;Framer has been my go-to tool for interactive prototypes, however, sometimes it takes a crazy amount of code to put together an experience consisting of just a few components.  My solution was to create a modular JS carousel component which could be easily reused across different projects and customized with a few variables.&lt;/p&gt;
-
-&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Think of a component you often use&lt;/li&gt;
-&lt;li&gt;Write out what the component should do (Pseudocode if you prefer)&lt;/li&gt;
-&lt;li&gt;Write your component straight into Framer (it&amp;rsquo;s much faster this way)&lt;/li&gt;
-&lt;li&gt;Once your code is working, move it to a .js file and place inside your  module folder&lt;/li&gt;
-&lt;li&gt;In the empty Framer file import the module and test&lt;/li&gt;
-&lt;li&gt;Test on device and tweak the code if necessary&lt;/li&gt;
-&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/g2ttla0meqct/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2528869-Module-carousel-in-Framer&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge Framer has been my go-to tool for interactive prototypes, however, sometimes it takes a crazy amount of code to put together an experience consisting of just a few components. My solution was to create a modular JS carousel component which could be easily reused across different projects and customized with a few variables.
+Design Process  Think of a component you often use Write out what the component should do (Pseudocode if you prefer) Write your component straight into Framer (it&amp;rsquo;s much faster this way) Once your code is working, move it to a .</description>
     </item>
     
     <item>
@@ -186,33 +77,8 @@
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/modal-slider/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/dr_instagram_slideshow.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;I enjoy using &lt;a href=&#34;https://www.instagram.com&#34; target=&#34;_blank&#34;&gt;Instagram&lt;/a&gt;, but one of my pet peeves is that you can&amp;rsquo;t (at the time of writing 2016/4/5) quickly swipe through full-screen photos. My solution was to quickly prototype a lightbox modal which chronological queues up photos so the user can swipe through each photo and return by swiping up.&lt;/p&gt;
-
-&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Pick an app you like and want to improve (one you know well helps)&lt;/li&gt;
-&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
-&lt;li&gt;Take screenshots and recreate what you need in Sketch&lt;/li&gt;
-&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
-&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
-&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
-&lt;li&gt;Test on device (you need to get firsthand experience of your design)&lt;/li&gt;
-&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/qd15h57pzzyk/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2484865-slideshow-prototype-for-Instagram&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge I enjoy using Instagram, but one of my pet peeves is that you can&amp;rsquo;t (at the time of writing 2016/4/5) quickly swipe through full-screen photos. My solution was to quickly prototype a lightbox modal which chronological queues up photos so the user can swipe through each photo and return by swiping up.
+Design Process  Pick an app you like and want to improve (one you know well helps) Sketch out ideas and iterate on the design Take screenshots and recreate what you need in Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (you need to get firsthand experience of your design) Solicit feedback from community and friends  Play on Framer</description>
     </item>
     
     <item>
@@ -221,12 +87,7 @@
       <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;temp-folder-example-page&#34;&gt;Temp Folder Example Page&lt;/h1&gt;
-
-&lt;p&gt;This is a sample &amp;ldquo;singleton&amp;rdquo; page. The URL is decided by the title in the front matter of the markdown file. The &lt;code&gt;singleton_stylesheet:&lt;/code&gt; in the front matter points to a corresponding file with the same name in &lt;code&gt;static/css/singletons-stylesheets&lt;/code&gt;, which will pipe the appropriate stylesheet in &lt;em&gt;after&lt;/em&gt; the site-wild stylesheet in cases where you make want to create one-off pages with URLs at the root of your site. To see why this page is styled differently, refer to &lt;code&gt;static/css/temp-stylesheets/temp-style-example.css&lt;/code&gt;.&lt;/p&gt;
-</description>
+      <description>Temp Folder Example Page This is a sample &amp;ldquo;singleton&amp;rdquo; page. The URL is decided by the title in the front matter of the markdown file. The singleton_stylesheet: in the front matter points to a corresponding file with the same name in static/css/singletons-stylesheets, which will pipe the appropriate stylesheet in after the site-wild stylesheet in cases where you make want to create one-off pages with URLs at the root of your site.</description>
     </item>
     
     <item>
@@ -235,12 +96,28 @@
       <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/sample-singleton/</guid>
-      <description>
-
-&lt;h1 id=&#34;temp-folder-example-page&#34;&gt;Temp Folder Example Page&lt;/h1&gt;
-
-&lt;p&gt;This is a sample &amp;ldquo;singleton&amp;rdquo; page. The URL is decided by the title in the front matter of the markdown file. The &lt;code&gt;singleton_stylesheet:&lt;/code&gt; in the front matter points to a corresponding file with the same name in &lt;code&gt;static/css/singletons-stylesheets&lt;/code&gt;, which will pipe the appropriate stylesheet in &lt;em&gt;after&lt;/em&gt; the site-wild stylesheet in cases where you make want to create one-off pages with URLs at the root of your site. To see why this page is styled differently, refer to &lt;code&gt;static/css/temp-stylesheets/temp-style-example.css&lt;/code&gt;.&lt;/p&gt;
-</description>
+      <description>Temp Folder Example Page This is a sample &amp;ldquo;singleton&amp;rdquo; page. The URL is decided by the title in the front matter of the markdown file. The singleton_stylesheet: in the front matter points to a corresponding file with the same name in static/css/singletons-stylesheets, which will pipe the appropriate stylesheet in after the site-wild stylesheet in cases where you make want to create one-off pages with URLs at the root of your site.</description>
+    </item>
+    
+    <item>
+      <title>Amazon x Level-5</title>
+      <link>http://www.philipmadeley.com/work/amazon-yokai/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/work/amazon-yokai/</guid>
+      <description>Overview Yo-Kai Watch, the number-one rated cartoon sensation from creators Level-5 and media giant Dentsu, wanted to increase awareness of the upcoming movie through a custom landing page. This was a massive effort spanning numerous teams, a tie-up with Amazon Prime Video and multiple vendors of branded goods.
+Goals  Increase awareness of the upcoming movie Promote Amazon Prime Video&amp;rsquo;s tie-up  Final Campaign We leveraged the two main characters for the first-view screen and focused a call-to-action button under the movie trailer.</description>
+    </item>
+    
+    <item>
+      <title>Amazon x Kirin</title>
+      <link>http://www.philipmadeley.com/work/amazon-kirin/</link>
+      <pubDate>Sun, 15 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/work/amazon-kirin/</guid>
+      <description>Overview Kirin, a major drink manufacturer, wanted to increase awareness of a new product (Off White) through a custom landing page experience.
+Goals Since the product was new to the market, Kirin wanted to focus on two goals:
+ Educate the customer about the product Motivate the customer to buy the product  Concept We had great support from Kirin&amp;rsquo;s marketing team and leveraged their user research to create an immersive page around activities associated with relaxing at home after work with a beer.</description>
     </item>
     
     <item>
@@ -249,53 +126,8 @@
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/work/metaps/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/me_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;!-- &lt;img src=&#34;./images/me_top@2x.jpg&#34; class=&#34;hero&#34;/&gt; --&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;Metaps was preparing for its IPO and required a rebranding overhaul of its flagship site. The brief was to create a multilingual, responsive site which highlighted key product features and delivered one integrated brand experience.&lt;/p&gt;
-
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-
-&lt;p&gt;Our kickoff meeting looked at the metrics from the dashboard to surface popular pages and help plan out a site map. Mapping out the site on a whiteboard made it easy to visualize the basic structure and navigation required across the site. We also carried out a heuristic analysis of the current site to identify what needed to change and why. Our KPI was to springboard a new marketing campaign before the IPO and drive business leads through a contact page.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/me_ideation_wb.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
-
-&lt;p&gt;Doing a content audit we came up with a site map and good starting point for sketching.  There would be five pages: home, analytics, promotion, engagement, and revenue. I took a mobile-first approach to focus on content structure over element positioning.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/me_ideation_sketch.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wireframes were developed into clickable prototypes. I kept the visuals light and unobtrusive to match the dashboard&amp;rsquo;s style guide and other products which I&amp;rsquo;d previously designed. To bring a unique level of branding to the project I did a photo shoot focusing on displaying the product on laptops and mobile. High-level mocks were test driven with InVision and solicited for group feedback.&lt;/p&gt;
-
-&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;To scale and rapidly code the site, PHP partials were used for repeatable header, footer, and nav elements, then implement Zurb&amp;rsquo;s Foundation to do the heavy lifting. A sub nav was implemented that became fixed on scrolling to highlight your current position and provide a more intuitive user experience.&lt;/p&gt;
-
-&lt;div class=&#34;responsive-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/161452668?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;495&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;A/B test and try and identify if there&amp;rsquo;s a statistical significance between designs. A design sprint involving all the stakeholders may have created a more diverse and interesting outcome.&lt;/p&gt;
-
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://metaps.com&#34; title=&#34;Visit Metaps&#34; target=&#34;_blank&#34;&gt;www.metaps.com&lt;/a&gt;&lt;br&gt;
-&lt;i class=&#34;small&#34;&gt;Designs are subject to change since leaving Metaps.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;The final UI design:&lt;/p&gt;
-
-&lt;div class=&#34;framed&#34;&gt;
-&lt;img src=&#34;./images/me_ui@2x.png&#34;
-&lt;/div&gt;
-</description>
+      <description>-- Overview Metaps was preparing for its IPO and required a rebranding overhaul of its flagship site. The brief was to create a multilingual, responsive site which highlighted key product features and delivered one integrated brand experience.
+Ideation Our kickoff meeting looked at the metrics from the dashboard to surface popular pages and help plan out a site map. Mapping out the site on a whiteboard made it easy to visualize the basic structure and navigation required across the site.</description>
     </item>
     
     <item>
@@ -304,50 +136,8 @@
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/work/spikebox-app/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/sb_top_sm@2x.jpg&#34; alt=&#34;Spike box&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;Spike Box is a social networking app and similar in concept to Craigslist but with followers. The brief was to design a simple and easy-to-understand UI, where users can easily share stuff that they don&amp;rsquo;t want anymore. The app must stand out from other competitors and create value for the user by being easy-to-use, yet engaging.&lt;/p&gt;
-
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-
-&lt;p&gt;Developing a native app was a first for Metaps and we didn&amp;rsquo;t have any firsthand user data to work from. We held several meetings, with a projector to discuss planning and strategy. Once we started to define a direction another round of meetings and checkpoints were setup. I used personas to help understand demographics, behaviors, needs and motivations of the user.&lt;/p&gt;
-
-&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
-
-&lt;p&gt;Researching the competition helped benchmark industry standards and identify opportunities to innovate upon. I used Balsamiq to quickly create designs for soliciting feedback with the team. I made paper prototypes to quickly test out user flows and then iterate improvements.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/sb_wf.jpg&#34; alt=&#34;Initial paper prototypes&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The biggest challenge was information architecture and simplifying the UI just enough to provide clarity and direction. I decided to utilize icons for globally recognized signifiers such as Comment, Like, and Menu. For less afforded global signifiers (Sale, Trade, Rent, Giveaway) use simple text and colour to distinguish functionality. Group similar functions together and hierarchically order elements according to use-value importance.&lt;/p&gt;
-
-&lt;div class=&#34;responsive-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/161461099?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;300&#34; height=&#34;533&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;Design assets were exported and handed off to the engineer until both iOS and Android apps were ready for review. We used an agile scrum process to cycle through each stage of development.&lt;/p&gt;
-
-&lt;div class=&#34;framed&#34;&gt;
-&lt;img src=&#34;./images/sb_ui@2x.png&#34;&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;Swipe and fade in/out interactions were deployed throughout the app, however, animating the individual elements (Like, Comment and Menu) would delight and provide a more intuitive UX.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/sb_laptop@2x.jpg&#34; alt=&#34;Spike Box on iPhone&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;www.box.spike.cc&#34; target=&#34;_blank&#34;&gt;www.box.spike.cc&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.spike.spikebox&#34; target=&#34;_blank&#34;&gt;Google Play&lt;/a&gt;  &lt;br&gt;
-&lt;a href=&#34;https://itunes.apple.com/app/spike-box-you-dato-chichi/id892702113?mt=8&#34; target=&#34;_blank&#34;&gt;App Store&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Overview Spike Box is a social networking app and similar in concept to Craigslist but with followers. The brief was to design a simple and easy-to-understand UI, where users can easily share stuff that they don&amp;rsquo;t want anymore. The app must stand out from other competitors and create value for the user by being easy-to-use, yet engaging.
+Ideation Developing a native app was a first for Metaps and we didn&amp;rsquo;t have any firsthand user data to work from.</description>
     </item>
     
     <item>
@@ -356,56 +146,9 @@
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/work/analytics/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/an_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance. This was an on-going project over about 16 months which was split into two parts&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Design and implement modular components for the preexisting dashboard&lt;/li&gt;
-&lt;li&gt;Redesign the landing page&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In this case study I will only discuss the dashboard funnel and segment analytics tools.&lt;/p&gt;
-
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-
-&lt;p&gt;Kickoff meetings were held with a product manager to figure out the goals, scope, and constraints of each project.  These meetings were conducted around a whiteboard, followed up with a round of discussion and, more importantly, a comprehension check of each other&amp;rsquo;s ideas.
-After that, I used mind mapping to uncover and explore possible solutions.  For research, benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.  In the example,  I created user flows for a funnel to track dropoff and conversion rates.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/an_ideation_userflow.jpg&#34; alt=&#34;Ideation user flow&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
-
-&lt;p&gt;To achieve quick results, I used Keynote and then, later on, InVision to prototype wireframes into a clickable user experience.  Allowing the team to play through the experience and leave comments proved invaluable to quickly iterate on designs.  In the example, I use rapid wireframing to test a user flow for saving out a segment.&lt;/p&gt;
-
-&lt;div class=&#34;responsive-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/161468167?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;607&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Once the user flows and UI had been signed off, I used Sketch to create high fidelity mocks and surface any concerns about integration with the existing UI style guide. This process was repeated for other modular dashboard components.&lt;/p&gt;
-
-&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;The initial stage leveraged the Foundation framework and Rails asset pipeline to build out static views. Once the layout and sizing were pixel perfect, the focus turned to integrating the motion and how each action would link to the next task. Although the user flows were tested in the  prototype, implementing animations and responders in the UI with jQuery were important for user experience.&lt;/p&gt;
-
-&lt;div class=&#34;responsive-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/161471190?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;499&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;Although this product was in its initial stages of development, having more user data prior to the ideation phase would have solved some early decision making.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/an_mobile.jpg&#34; alt=&#34;Landing page on mobile&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
-
-&lt;p&gt;The landing page was rebranded under www.metaps.com as of June 2015. The dashboard can only be accessed with a user account.&lt;/p&gt;
-</description>
+      <description>Overview Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance. This was an on-going project over about 16 months which was split into two parts
+ Design and implement modular components for the preexisting dashboard Redesign the landing page  In this case study I will only discuss the dashboard funnel and segment analytics tools.
+Ideation Kickoff meetings were held with a product manager to figure out the goals, scope, and constraints of each project.</description>
     </item>
     
     <item>
@@ -414,46 +157,8 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/work/robotics/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/ro_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;To design and code a new landing page for Metaps which introduces a business model to monetize robot development. The site must be able to communicate the company&amp;rsquo;s vision through an easy-to-understand narrative.&lt;/p&gt;
-
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-
-&lt;p&gt;Robot monetization was an off-tangent business for Metaps, and blue-sky thinking was required to move the project forward. A Stakeholder map and some basic storyboarding identified use-case scenarios and how the product could relate to different user groups.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/ro_ideation.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
-
-&lt;p&gt;The stakeholder map  revealed a connection between Metaps and the developer in much the same way the app monetization business model works.  Using the storyboard, I sketched out ideas which incorporated the same narrative and then iterated on these designs to solicit feedback. Luckily we had a cool robot in the office which became a pivotal character for telling our story.&lt;/p&gt;
-
-&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;The site utilized Zurb&amp;rsquo;s Foundation and to enrich the UX the hero image scaled on page scroll with a slight parallax effect. See the demo below.&lt;/p&gt;
-
-&lt;div class=&#34;responsive-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/161463740?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;498&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/ro_mobile@2x.jpg&#34; alt=&#34;mobile image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;Content is king. The site is slightly vague and would benefit from having a service workflow diagram.&lt;/p&gt;
-
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://robotics.metaps.com/&#34; title=&#34;Visit Robotics&#34; target=&#34;_blank&#34;&gt;www.robotics.metaps.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;framed&#34;&gt;
-&lt;img src=&#34;./images/ro_ui@2x.jpg&#34;&gt;
-&lt;/div&gt;
-</description>
+      <description>Overview To design and code a new landing page for Metaps which introduces a business model to monetize robot development. The site must be able to communicate the company&amp;rsquo;s vision through an easy-to-understand narrative.
+Ideation Robot monetization was an off-tangent business for Metaps, and blue-sky thinking was required to move the project forward. A Stakeholder map and some basic storyboarding identified use-case scenarios and how the product could relate to different user groups.</description>
     </item>
     
     <item>
@@ -462,46 +167,8 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/work/careers-landing-page/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/ca_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;A careers landing page to spearhead Metap&amp;rsquo;s continued growth and recruitment of tech industry professionals. The experience had to attract potential talent, focus on Metaps roadmap for success and highlight its industry credentials.&lt;/p&gt;
-
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-
-&lt;p&gt;Our kickoff meeting started with whiteboard sketches and discussed the CEO&amp;rsquo;s vision and strategy for setting the right message. We brainstormed various ideas and identified stakeholders with touchpoints of how each user group could engage with Metaps on a deeper level. We identified the experience should mix personal attachment and present clear opportunities for career development.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/ca_ideation_sketch.jpg&#34; alt=&#34;ideation sketch&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
-
-&lt;p&gt;We benchmarked other career sites, looking at what worked well and things to avoid. This process helped formulate our design strategy blueprint. We set our KPI to increase online application conversions by 50%, which lead to a decision to build a single page, which could immerse the user in a linear start-to-finish experience. Referencing user research from &lt;a href=&#34;https://signalvnoise.com/posts/2977-behind-the-scenes-highrise-marketing-site-ab-testing-part-1&#34; title=&#34;User testing from 37signals&#34; target=&#34;_blank&#34;&gt;37signals&lt;/a&gt; also told us that single-page sites have a conversion increase of 37.5%.&lt;/p&gt;
-
-&lt;p&gt;Viable sketches were turned into wireframes and some basic prototypes were test driven. These leading designs were iterated and solicited for feedback from the team, CEO, and other stakeholders. To personalize the experience, we interviewed employees and did a mini photoshoot, with each employee bringing in a characterising item.   Final design selection was tough going with conflicting opinions on what the hero image should represent.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/ca_laptop.jpg&#34; alt=&#34;employee interview slider&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;This single page site would harbour most of its data in hidden job specification partials, so I implemented AngularJS to leverage and modularize the applications and employee carousel.  I used Gulp to enhance the workflow and generate the production build.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/ca_mobile.jpg&#34; alt=&#34;site viewed on mobile&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;Decisions made outside my jurisdiction evolved the site away from the initial goal to mix personal attachment with career opportunity.  The top hero image veered on a minimal &amp;lsquo;cool&amp;rsquo;, and IMHO should have been more inviting. On the execution site, I wrote the site in AngularJS, which was overkill for a simple site. That said, using partials to pull in JSON proved extremely important for future projects.&lt;/p&gt;
-
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
-
-&lt;p&gt;The landing page was rebranded under www.metaps.com as of June 2015.&lt;/p&gt;
-
-&lt;div class=&#34;framed&#34;&gt;
-&lt;img src=&#34;./images/ca_ui@2x.jpg&#34;&gt;
-&lt;/div&gt;
-</description>
+      <description>Overview A careers landing page to spearhead Metap&amp;rsquo;s continued growth and recruitment of tech industry professionals. The experience had to attract potential talent, focus on Metaps roadmap for success and highlight its industry credentials.
+Ideation Our kickoff meeting started with whiteboard sketches and discussed the CEO&amp;rsquo;s vision and strategy for setting the right message. We brainstormed various ideas and identified stakeholders with touchpoints of how each user group could engage with Metaps on a deeper level.</description>
     </item>
     
     <item>
@@ -510,54 +177,9 @@ After that, I used mind mapping to uncover and explore possible solutions.  For 
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/work/creative-studio/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;./images/cs_top_sm@2x.jpg&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;To design and develop a single page experience with unique branding to attract app developers and other potential clients. The site must showcase a variety of illustrations and communicate key features and clear service flow.&lt;/p&gt;
-
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-
-&lt;p&gt;For this project, I started working with a new project leader (a crazy but very nice guy). We sat down and discussed the site&amp;rsquo;s value proposition and map out key aspects:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;what the site is&lt;/li&gt;
-&lt;li&gt;who is the user&lt;/li&gt;
-&lt;li&gt;how will the site be used&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;We narrowed down our blueprint and created a consensus — the visual impact and creativity of the site would be pivotal in engaging with our main user group – the game developer.  Our primary KPI was to drive inquiries and business leads.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/cs_ideation_wb.jpg&#34; alt=&#34;Design process&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;iteration&#34;&gt;Iteration&lt;/h2&gt;
-
-&lt;p&gt;Most of the site assets were already in our possession, so I decided to quickly mark up some mood boards and get an overall sense of direction. The project leader has some ideas and we bounced these around and came up with two distinct designs. We tested our wireframe prototypes and moved forward with two viable designs for a high fidelity mock.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/cs_iteration.jpg&#34; alt=&#34;Design iteration&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;I leveraged Gulp with Zurb&amp;rsquo;s Foundation framework and implemented the sticky nav component to achieve maximum exposure for the header on first view. I exported custom icons from Sketch and used Icomoon to read these in with CSS.&lt;/p&gt;
-
-&lt;div class=&#34;responsive-container&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/161472547?title=0&amp;byline=0&amp;portrait=0&#34; width=&#34;900&#34; height=&#34;634&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;Move out of your comfort zone and experiment. On this occasion, my initial minimal, clean design was not what the project lead and our target user could relate to.&lt;/p&gt;
-
-&lt;h2 id=&#34;visit&#34;&gt;Visit&lt;/h2&gt;
-
-&lt;p&gt;The site is no longer hosted.&lt;/p&gt;
-
-&lt;div class=&#34;framed&#34;&gt;
-&lt;img src=&#34;./images/cs_ui@2x.jpg&#34;&gt;
-&lt;/div&gt;
-</description>
+      <description>Overview To design and develop a single page experience with unique branding to attract app developers and other potential clients. The site must showcase a variety of illustrations and communicate key features and clear service flow.
+Ideation For this project, I started working with a new project leader (a crazy but very nice guy). We sat down and discussed the site&amp;rsquo;s value proposition and map out key aspects:
+ what the site is who is the user how will the site be used  We narrowed down our blueprint and created a consensus — the visual impact and creativity of the site would be pivotal in engaging with our main user group – the game developer.</description>
     </item>
     
     <item>

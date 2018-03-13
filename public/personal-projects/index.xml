@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 29 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.philipmadeley.com/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.philipmadeley.com/personal-projects/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Photo editing</title>
@@ -15,35 +17,8 @@
       <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/google-maps-photo-editing/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;../images/google-maps-photo-editing.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)&lt;/p&gt;
-
-&lt;p&gt;When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.  My prototype addresses the issue of photo editing right inside Google Maps, without having to leave the app.  As a starting point, I mapped out the experience in Google Photos and then incorporated this in Maps.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/gmaps_ugc_photo_process.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As usual, the Framer share is available below, however, the UI elements are screenshots so I was unable to implement Material Design touch ripple animations because these happen between the icon and their base layer. That said, there were many useful components used in making this project:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Layer animation functions&lt;/li&gt;
-&lt;li&gt;Button Classes&lt;/li&gt;
-&lt;li&gt;Image rotation&lt;/li&gt;
-&lt;li&gt;States&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you have any feedback or ways to improve this prototype, please get in touch through any of the social networks on my home page.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/5q3je16uy8z4/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2743862-Photo-editing-inside-Google-Maps&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge I&amp;rsquo;m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)
+When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.</description>
     </item>
     
     <item>
@@ -52,28 +27,7 @@
       <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/google-maps-ugc-review/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;../images/gmaps_ugc_rating.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;UGC (user-generated content) is enriching Google Maps from just a route planner before, now the app can be your guide to doing things. On the surface, looking at the rating and reading reviews can often be enough to make a yes-no decision about eating in a restaurant, drinking in a bar or entering a venue. I decided to focus on restaurants for this challenge and make the UGC more granular by quickly showing a succession of rating categories for food, service and value in addition to the overall rating. This would bring a few immediate benefits:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;allows busy people who don&amp;rsquo;t have the time to write a review for quick input&lt;/li&gt;
-&lt;li&gt;helps structure a review if they decide to write one (food, service, value)&lt;/li&gt;
-&lt;li&gt;helps other users understand a more in-depth rating per venue&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If you have any feedback or ways to improve this prototype, I&amp;rsquo;d be happy to chat through any of the social channels below.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/j5nmqffx5el8/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2670146-Google-Maps-restaurant-rating&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge UGC (user-generated content) is enriching Google Maps from just a route planner before, now the app can be your guide to doing things. On the surface, looking at the rating and reading reviews can often be enough to make a yes-no decision about eating in a restaurant, drinking in a bar or entering a venue. I decided to focus on restaurants for this challenge and make the UGC more granular by quickly showing a succession of rating categories for food, service and value in addition to the overall rating.</description>
     </item>
     
     <item>
@@ -82,33 +36,8 @@
       <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/angle-adjust/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;../images/dr_watch_gopro_app.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;I love snowboarding and wanted to capture the best footage from a day in the mountains. However, after challenging the limits of my ability, I eventually wipe out, knocking my Go Pro off angle. I decided to create a smartwatch app which enables the user to quickly check what they&amp;rsquo;re shooting and change the angle without having to pull out a phone or guess.&lt;/p&gt;
-
-&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Get firsthand experience of the problem&lt;/li&gt;
-&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
-&lt;li&gt;Move into Sketch&lt;/li&gt;
-&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
-&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
-&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
-&lt;li&gt;Test on device (if possible)&lt;/li&gt;
-&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://codepen.io/pjmtokyo/pen/xVReaR&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;See the code on Codepen&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2593094-Go-Pro-Angle-Adjust&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge I love snowboarding and wanted to capture the best footage from a day in the mountains. However, after challenging the limits of my ability, I eventually wipe out, knocking my Go Pro off angle. I decided to create a smartwatch app which enables the user to quickly check what they&amp;rsquo;re shooting and change the angle without having to pull out a phone or guess.
+Design Process  Get firsthand experience of the problem Sketch out ideas and iterate on the design Move into Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (if possible) Solicit feedback from community and friends  See the code on Codepen</description>
     </item>
     
     <item>
@@ -117,33 +46,8 @@
       <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/responsive-nav-scrolling/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;../images/dr_sandbox_quora.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;I sometimes find the &lt;a href=&#34;https://www.quora.com/&#34; target=&#34;_blank&#34;&gt;Quora&lt;/a&gt; app quite useful for looking up specific questions.  I noticed both the header/footer nav were always present and reduced screen real estate when quickly browsing long pages. My solution was to prototype a retractable header/footer nav when an on scroll event is detected. Once the user finds something of interest and stops the page scroll, the header/footer nav reappear.&lt;/p&gt;
-
-&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Pick an app you like and want to improve&lt;/li&gt;
-&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
-&lt;li&gt;Take screenshots and recreate what you need in Sketch&lt;/li&gt;
-&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
-&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
-&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
-&lt;li&gt;Test on device (you need to get firsthand experience of your design)&lt;/li&gt;
-&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/p4cvogxxlk1n/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2538962-Responsive-scrolling-nav&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge I sometimes find the Quora app quite useful for looking up specific questions. I noticed both the header/footer nav were always present and reduced screen real estate when quickly browsing long pages. My solution was to prototype a retractable header/footer nav when an on scroll event is detected. Once the user finds something of interest and stops the page scroll, the header/footer nav reappear.
+Design Process  Pick an app you like and want to improve Sketch out ideas and iterate on the design Take screenshots and recreate what you need in Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (you need to get firsthand experience of your design) Solicit feedback from community and friends  Play on Framer</description>
     </item>
     
     <item>
@@ -152,32 +56,8 @@
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/modular-carousel/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;../images/dr_modular_carousel.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;Framer has been my go-to tool for interactive prototypes, however, sometimes it takes a crazy amount of code to put together an experience consisting of just a few components.  My solution was to create a modular JS carousel component which could be easily reused across different projects and customized with a few variables.&lt;/p&gt;
-
-&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Think of a component you often use&lt;/li&gt;
-&lt;li&gt;Write out what the component should do (Pseudocode if you prefer)&lt;/li&gt;
-&lt;li&gt;Write your component straight into Framer (it&amp;rsquo;s much faster this way)&lt;/li&gt;
-&lt;li&gt;Once your code is working, move it to a .js file and place inside your  module folder&lt;/li&gt;
-&lt;li&gt;In the empty Framer file import the module and test&lt;/li&gt;
-&lt;li&gt;Test on device and tweak the code if necessary&lt;/li&gt;
-&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/g2ttla0meqct/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2528869-Module-carousel-in-Framer&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge Framer has been my go-to tool for interactive prototypes, however, sometimes it takes a crazy amount of code to put together an experience consisting of just a few components. My solution was to create a modular JS carousel component which could be easily reused across different projects and customized with a few variables.
+Design Process  Think of a component you often use Write out what the component should do (Pseudocode if you prefer) Write your component straight into Framer (it&amp;rsquo;s much faster this way) Once your code is working, move it to a .</description>
     </item>
     
     <item>
@@ -186,33 +66,8 @@
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/modal-slider/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;../images/dr_instagram_slideshow.gif&#34; alt=&#34;Hero image&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;design-challenge&#34;&gt;Design Challenge&lt;/h2&gt;
-
-&lt;p&gt;I enjoy using &lt;a href=&#34;https://www.instagram.com&#34; target=&#34;_blank&#34;&gt;Instagram&lt;/a&gt;, but one of my pet peeves is that you can&amp;rsquo;t (at the time of writing 2016/4/5) quickly swipe through full-screen photos. My solution was to quickly prototype a lightbox modal which chronological queues up photos so the user can swipe through each photo and return by swiping up.&lt;/p&gt;
-
-&lt;h2 id=&#34;design-process&#34;&gt;Design Process&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Pick an app you like and want to improve (one you know well helps)&lt;/li&gt;
-&lt;li&gt;Sketch out ideas and iterate on the design&lt;/li&gt;
-&lt;li&gt;Take screenshots and recreate what you need in Sketch&lt;/li&gt;
-&lt;li&gt;Write down the experience from start to finish&lt;/li&gt;
-&lt;li&gt;Work out if the step is an animation or user event&lt;/li&gt;
-&lt;li&gt;Move to Framer and follow your written plan&lt;/li&gt;
-&lt;li&gt;Test on device (you need to get firsthand experience of your design)&lt;/li&gt;
-&lt;li&gt;Solicit feedback from community and friends&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://share.framerjs.com/qd15h57pzzyk/&#34; target=&#34;_blank&#34;&gt;
-&lt;button&gt;Play on Framer&lt;/button&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This project is also on &lt;a class=&#34;link&#34; href=&#34;https://dribbble.com/shots/2484865-slideshow-prototype-for-Instagram&#34; target=&#34;_blank&#34;&gt;Dribbble&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Design Challenge I enjoy using Instagram, but one of my pet peeves is that you can&amp;rsquo;t (at the time of writing 2016/4/5) quickly swipe through full-screen photos. My solution was to quickly prototype a lightbox modal which chronological queues up photos so the user can swipe through each photo and return by swiping up.
+Design Process  Pick an app you like and want to improve (one you know well helps) Sketch out ideas and iterate on the design Take screenshots and recreate what you need in Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (you need to get firsthand experience of your design) Solicit feedback from community and friends  Play on Framer</description>
     </item>
     
   </channel>

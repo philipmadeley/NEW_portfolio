@@ -6,7 +6,7 @@
 @import 'modules/base';
 @import 'modules/layout';
 @import 'modules/font-face';
-@import 'modules/fontawesome';
+//@import 'modules/fontawesome';
 @import 'modules/open-iconic';
 @import 'modules/typography';
 @import 'modules/social-media';
@@ -57,6 +57,9 @@ $max-width: em(1000) !global;
     h2 {
       text-transform: none;
     }
+  }
+  &.am {
+  background: $am;
   }
   &.an {
   background: $an;
@@ -286,6 +289,16 @@ article.content {
 }
 
 .framed {
-  @include pad(10px);
+  @include padding(10px);
   background-color: $bg;
+  @include margin(20px auto 20px auto);
+}
+
+.animated-gif {
+  @include padding(40px 10px);
+  display: block;
+  & img {
+    display:block;
+    max-width: 400px;
+  }
 }
