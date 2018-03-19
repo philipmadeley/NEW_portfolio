@@ -27,9 +27,7 @@ Airlines managed to grow premium revenue as a share of total sales on key routes
 * Some carriers are eschewing first class altogether.
 * More international flights (20% 2016) are premium (US*)
 
-
 ![image](/images/flight-booking-chart.jpg)
-
 
 
 ## User motivation and sentiment

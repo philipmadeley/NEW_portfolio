@@ -31,7 +31,10 @@ Since this was a quick personal project, I harvested secondary research to under
 - Saving money is the main reason to cook at home (US)
 - 58% of full-time workers cook at home 3-6 times a week  (US)
 
-![image](/images/oven-insights.jpg)
+<div class="framed">
+  <img src="/images/oven-insights.jpg">
+</div>
+
 
 
 ## User stories
@@ -86,7 +89,9 @@ To save time. Cook scheduled meals away from home; always ready on time, and coo
 **Cook dinner for tonight**
 This scenario describes the process of putting your meal in the oven, then setting a time to eat and what you've prepared. The other use case when there's no oven interaction but you still want to preheat the oven is out of this project scope. Oven cleanliness reports and settings are a secondary use case that will also live outside the scope of this project.
 
-![Hero image](/images/oven-flow.jpg)
+<div class="fullwidth">
+  <img src="/images/oven-flow.jpg">
+</div>
 
 
 ## Design principles

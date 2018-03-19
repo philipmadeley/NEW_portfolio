@@ -6,10 +6,31 @@
     <description>Recent content in Personal-projects on Philip John Madeley | Interaction Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 29 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.philipmadeley.com/personal-projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chatbot concept</title>
+      <link>http://www.philipmadeley.com/personal-projects/flight-booking-chatbot/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/flight-booking-chatbot/</guid>
+      <description>Overview AI technologies are still in its infancy, but with advancements in the coming years, we could start to imagine a more tailored &amp;lsquo;service&amp;rsquo; around how we do things. I decided it would be interesting to put that theory to the test through a quick design challenge around booking premium class flight tickets.
+Identifying the target user Airlines managed to grow premium revenue as a share of total sales on key routes such as the transatlantic, which continues to be the biggest premium air market in the world, and also on flights between Europe and Asia.</description>
+    </item>
+    
+    <item>
+      <title>Smart oven</title>
+      <link>http://www.philipmadeley.com/personal-projects/smart-oven-app/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/smart-oven-app/</guid>
+      <description>Overview The connected home is becoming a reality for more and more people. This project explored a smart oven concept and some of the design implications of such an app.
+Identifying the target user Since this was a quick personal project, I harvested secondary research to understand who might benefit most from using a smart oven. Here&amp;rsquo;s a TL;DR of the salient points:
+ British women with children feel the most pressure to start chores, including cooking, after returning home from work Working British parents between the ages of 16-25 experience the most burnout after work The average Brit spends below 5.</description>
+    </item>
     
     <item>
       <title>Photo editing</title>
@@ -17,7 +38,7 @@
       <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.philipmadeley.com/personal-projects/google-maps-photo-editing/</guid>
-      <description>Design Challenge I&amp;rsquo;m a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)
+      <description>Design Challenge I&amp;rsquo;m a big foodie, and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it&amp;rsquo;s a great app :)
 When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.</description>
     </item>
     
