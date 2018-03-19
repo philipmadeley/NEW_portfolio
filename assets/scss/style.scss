@@ -103,6 +103,9 @@ $max-width: em(1000) !global;
   &.dr_gm2 {
     background: $dr_gm2;
   }
+  &.dr_so {
+    background: $dr_so;
+  }
 } // header
 
 main.main[class*="dr_"] .content p{
@@ -289,9 +292,15 @@ article.content {
 }
 
 .framed {
-  @include padding(10px);
+  @include padding(10px 10px 0 10px);
   background-color: $bg;
   @include margin(20px auto 20px auto);
+}
+
+.fullwidth {
+  @include margin(20px auto 20px auto);
+  display: block;
+  width: 100%;
 }
 
 .animated-gif {

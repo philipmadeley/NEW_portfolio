@@ -16,7 +16,7 @@ draft: false
 ![Hero image](/images/google-maps-photo-editing.gif)
 
 ## Design Challenge
-I'm a big foodie and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it's a great app :)  
+I'm a big foodie, and I often add restaurant reviews to Google Maps to keep track of places I visit and help other English speakers in Tokyo (I also think it's a great app :)  
 
 When uploading to Google Maps, the user can add a caption, however if your photos are upside down, under exposed or need cropping, then you have to open a different app to do any photo editing.  My prototype addresses the issue of photo editing right inside Google Maps, without having to leave the app.  As a starting point, I mapped out the experience in Google Photos and then incorporated this in Maps.
 
