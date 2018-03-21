@@ -27,6 +27,10 @@ Framer has been my go-to tool for interactive prototypes, however, sometimes it 
 7. Test on device and tweak the code if necessary
 8. Solicit feedback from community and friends
 
+## Feedback
+If you have any feedback or ways to improve this prototype, I'd be happy to chat through any of the social channels below.
+
+
 <a href="http://share.framerjs.com/g2ttla0meqct/" target="_blank">
 <button>Play on Framer</button>
 </a>

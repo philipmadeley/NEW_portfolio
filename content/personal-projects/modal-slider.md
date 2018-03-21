@@ -28,6 +28,10 @@ I enjoy using [Instagram](https://www.instagram.com), but one of my pet peeves i
 7. Test on device (you need to get firsthand experience of your design)
 8. Solicit feedback from community and friends
 
+## Feedback
+If you have any feedback or ways to improve this prototype, I'd be happy to chat through any of the social channels below.
+
+
 <a href="http://share.framerjs.com/qd15h57pzzyk/" target="_blank">
 <button>Play on Framer</button>
 </a>

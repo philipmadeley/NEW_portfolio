@@ -50,7 +50,6 @@ $max-width: em(1000) !global;
   &.work {
     @include pad(16px);
     height: 74px;
-
     h1, h2 {
       color: $white;
     }
@@ -105,6 +104,9 @@ $max-width: em(1000) !global;
   }
   &.dr_so {
     background: $dr_so;
+  }
+  &.dr_fd {
+    background: $dr_fd;
   }
 } // header
 

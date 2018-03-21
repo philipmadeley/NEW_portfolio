@@ -8,12 +8,12 @@ publishDate: 2018-01-15
 # tags: [tag 1, tag 2]
 comments: false
 generatePage: false
-img_thumbnail: "images/oven-v2.gif"
+img_thumbnail: "images/so_v2.gif"
 class: dr_so
 draft: false
 ---
 
-![Hero image](/images/oven-v2.gif)
+![Hero image](/images/so_v2.gif)
 
 ## Overview
 The connected home is becoming a reality for more and more people. This project explored a smart oven concept and some of the design implications of such an app.   
@@ -32,15 +32,12 @@ Since this was a quick personal project, I harvested secondary research to under
 - 58% of full-time workers cook at home 3-6 times a week  (US)
 
 <div class="framed">
-  <img src="/images/oven-insights.jpg">
+  <img src="/images/so_insights.jpg">
 </div>
 
-
-
 ## User stories
-There was an overwhelming amount of secondary research on working mums struggling to cope with work and family life.
-<i>I have such a hard time trying to scheduling in cooking...</i><br>
-<small>Source: https://www.whattoexpect.com/forums/working-moms/topic/how-do-you-do-dinner.html</small>
+There was an overwhelming amount of secondary research on working mums struggling to cope with work and family life. <i>I have such a hard time trying to scheduling in cooking...</i> was a common quote from the working mums forum
+<a class="link" href="https://www.whattoexpect.com/forums/working-moms/topic/how-do-you-do-dinner.html" target="blank">Source</a>
 
 ## Insights and assumptions
 To focus the design, I narrowed down on who might benefit most from a smart oven.
@@ -55,7 +52,7 @@ To focus the design, I narrowed down on who might benefit most from a smart oven
 ## User needs statement
 Sonia is a full-time office worker who recently returned to work after her second child. She needs a way to cook meals when she's not able to be in the kitchen.  She has a hard time scheduling time to cook and wants to spend more time with her family. Her goal is to provide healthy, home-cooked meals throughout the week.
 
-![Hero image](/images/oven-user-needs.jpg)
+![Hero image](/images/so_user-needs.jpg)
 
 ## Hypothesis
 From my research, I’ve listed 3 main product design goals. The main use case is to start and finish the cooking process when no-one is present.
@@ -69,7 +66,6 @@ Mums on the go don’t necessarily have time to check an app - especially ones w
 **Suggestions and tracking**
 Through planning and creating variance, the product must be universally understandable, to the point that mums can make good decisions around food preparation.  The design must offer intuitive guidance on where information lives and clarity around suggestions based on user behaviour.  
 
-
 ## User journey mapping
 Splitting out Sonia's journey with the product experience helped prioritize and focus the design. Post-it notes are a designer's best friend!
 
@@ -79,7 +75,7 @@ Splitting out Sonia's journey with the product experience helped prioritize and 
 - Interactions, touch-points
 - Obstacles, pain-points
 
-![Hero image](/images/oven-uj.jpg)
+![Hero image](/images/so_uj.jpg)
 
 **Value Proposition**
 To save time. Cook scheduled meals away from home; always ready on time, and cooked to perfection.
@@ -90,7 +86,7 @@ To save time. Cook scheduled meals away from home; always ready on time, and coo
 This scenario describes the process of putting your meal in the oven, then setting a time to eat and what you've prepared. The other use case when there's no oven interaction but you still want to preheat the oven is out of this project scope. Oven cleanliness reports and settings are a secondary use case that will also live outside the scope of this project.
 
 <div class="fullwidth">
-  <img src="/images/oven-flow.jpg">
+  <img src="/images/so_flow.jpg">
 </div>
 
 
@@ -109,13 +105,13 @@ The product should be more utility than content, meant for repeated daily use an
 ## Ideation
 Creating a matrix with feature states and use cases, I was able to focus in on the main problems to solve for.
 
-![Hero image](/images/oven-sketch.jpg)
+![Hero image](/images/so_sketch.jpg)
 
 ## Wireframes
 I iterated on wireframes (v1 to v2) to get task flow feeling natural and intuitive. Adding selected parameters to the flow and keeping things uncluttered were the hardest part of the design process.  
 
 <div class="framed">
-  <img src="/images/oven-wireframes.jpg">
+  <img src="/images/so_wireframes.jpg">
 </div>
 
 
@@ -128,7 +124,7 @@ First round of design explorations with 2 different colour swatches. Some of the
 4. Hierarchy of text, scale and line heights.
 
 <div class="fullwidth">
-  <img src="/images/oven-mocks1.jpg">
+  <img src="/images/so_mocks1.jpg">
 </div>
 
 Some initial tests with the first prototype, and further discussion with another designer led to the following discoveries:
@@ -138,9 +134,10 @@ Some initial tests with the first prototype, and further discussion with another
 3. If you make a mistake, how do you go back
 4. the relationship between the oven and what you're doing isn't clear
 
-<div class="animated-gif">
-  <img src="/images/oven-v1.gif">
-</div>
+I built this prototype to understand what was working, and what wasn't.
+
+![Hero image](/images/so_v1.gif)
+
 
 ## Mocks R2
 From the first design, I tried to address all four issues:
@@ -151,13 +148,25 @@ From the first design, I tried to address all four issues:
 4. the relationship between the oven and what you're doing isn't clear
 
 <div class="fullwidth">
-  <img src="/images/oven-mocks2.jpg">
+  <img src="/images/so_mocks2.jpg">
 </div>
 
+Using Framer, I quickly put this protoype together.
 
-<div class="animated-gif">
-  <img src="/images/oven-v2.gif">
-</div>
+![Hero image](/images/so_v2.gif)
+
+## Project post mortem
+
+**Didn't work**
+Time management was over the allocated 4-6 hours. Since this was a hypothetical project, less time on research and more time on the design seemed a reasonable trade-off. 
+
+**Did work**
+Product-market fit and target user needs seemed to hit the right notes for me. By understanding the problem, I was able to focus my design on what the user needed, rather than polluting my scope with other features.
+
+**Do differently**
+User testing and prototyping early-on. Given the project constraints, I jumped a few bases to get to a finished state. Handing this to a working mum would have been the cherry on the top!
+
+
 
 ## Feedback
 If you have any feedback or ways to improve this project, please get in touch through any of the social networks on my home page.

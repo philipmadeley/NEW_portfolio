@@ -29,10 +29,9 @@ As usual, the Framer share is available below, however, the UI elements are scre
 * Image rotation
 * States
 
+## Feedback
 If you have any feedback or ways to improve this prototype, please get in touch through any of the social networks on my home page.
 
-<a href="http://share.framerjs.com/5q3je16uy8z4/" target="_blank">
-<button>Play on Framer</button>
-</a>
+<a href="http://share.framerjs.com/5q3je16uy8z4/" class="" target="_blank"><button>Play on Framer</button></a>
 
 This project is also on <a class="link" href="https://dribbble.com/shots/2743862-Photo-editing-inside-Google-Maps" target="_blank">Dribbble</a>

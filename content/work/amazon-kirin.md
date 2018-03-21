@@ -16,12 +16,10 @@ draft: false
 ![Hero image](/images/am_ki_top@2x.jpg)
 
 ## Overview
-Kirin, a major drink manufacturer, wanted to increase awareness of a new product (Off White) through a custom landing
-page experience.
+Kirin, a major drink manufacturer, wanted to increase awareness of a new product (Off White) through a custom landing page experience.
 
 ## Goals
 Since the product was new to the market, Kirin wanted to focus on two goals:
-
 1. Educate the customer about the product
 2. Motivate the customer to buy the product
 

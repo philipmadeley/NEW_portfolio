@@ -29,7 +29,17 @@ Identifying the target user Airlines managed to grow premium revenue as a share 
       <guid>http://www.philipmadeley.com/personal-projects/smart-oven-app/</guid>
       <description>Overview The connected home is becoming a reality for more and more people. This project explored a smart oven concept and some of the design implications of such an app.
 Identifying the target user Since this was a quick personal project, I harvested secondary research to understand who might benefit most from using a smart oven. Here&amp;rsquo;s a TL;DR of the salient points:
- British women with children feel the most pressure to start chores, including cooking, after returning home from work Working British parents between the ages of 16-25 experience the most burnout after work The average Brit spends below 5.</description>
+ British women with children feel the most pressure to start chores, including cooking, after returning home from work</description>
+    </item>
+    
+    <item>
+      <title>Food delivery</title>
+      <link>http://www.philipmadeley.com/personal-projects/food-delivery-loyalty/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.philipmadeley.com/personal-projects/food-delivery-loyalty/</guid>
+      <description>Overview Food delivery is heating up, globally. Deliveroo, Uber Eats, Swiggy, Amazon, and a whole lot more are fighting it out for customer loyalty. I decided to take a stab at trying to understand rewarding loyalty in this space through a design challenge.
+Framing the problem For this hypothetical design challenge, I&amp;rsquo;ve conjured up a UK-based food delivery company, Chive. At some point in the future, Chive wants to treat the loyalty of their growing user base.</description>
     </item>
     
     <item>
@@ -58,7 +68,7 @@ When uploading to Google Maps, the user can add a caption, however if your photo
       
       <guid>http://www.philipmadeley.com/personal-projects/angle-adjust/</guid>
       <description>Design Challenge I love snowboarding and wanted to capture the best footage from a day in the mountains. However, after challenging the limits of my ability, I eventually wipe out, knocking my Go Pro off angle. I decided to create a smartwatch app which enables the user to quickly check what they&amp;rsquo;re shooting and change the angle without having to pull out a phone or guess.
-Design Process  Get firsthand experience of the problem Sketch out ideas and iterate on the design Move into Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (if possible) Solicit feedback from community and friends  See the code on Codepen</description>
+Design Process  Get firsthand experience of the problem</description>
     </item>
     
     <item>
@@ -68,7 +78,7 @@ Design Process  Get firsthand experience of the problem Sketch out ideas and ite
       
       <guid>http://www.philipmadeley.com/personal-projects/responsive-nav-scrolling/</guid>
       <description>Design Challenge I sometimes find the Quora app quite useful for looking up specific questions. I noticed both the header/footer nav were always present and reduced screen real estate when quickly browsing long pages. My solution was to prototype a retractable header/footer nav when an on scroll event is detected. Once the user finds something of interest and stops the page scroll, the header/footer nav reappear.
-Design Process  Pick an app you like and want to improve Sketch out ideas and iterate on the design Take screenshots and recreate what you need in Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (you need to get firsthand experience of your design) Solicit feedback from community and friends  Play on Framer</description>
+Design Process  Pick an app you like but has something you want to improve</description>
     </item>
     
     <item>
@@ -78,7 +88,8 @@ Design Process  Pick an app you like and want to improve Sketch out ideas and it
       
       <guid>http://www.philipmadeley.com/personal-projects/modular-carousel/</guid>
       <description>Design Challenge Framer has been my go-to tool for interactive prototypes, however, sometimes it takes a crazy amount of code to put together an experience consisting of just a few components. My solution was to create a modular JS carousel component which could be easily reused across different projects and customized with a few variables.
-Design Process  Think of a component you often use Write out what the component should do (Pseudocode if you prefer) Write your component straight into Framer (it&amp;rsquo;s much faster this way) Once your code is working, move it to a .</description>
+Design Process  Think of a component you often use
+ Write out what the component should do (Pseudocode if you prefer)</description>
     </item>
     
     <item>
@@ -88,7 +99,7 @@ Design Process  Think of a component you often use Write out what the component 
       
       <guid>http://www.philipmadeley.com/personal-projects/modal-slider/</guid>
       <description>Design Challenge I enjoy using Instagram, but one of my pet peeves is that you can&amp;rsquo;t (at the time of writing 2016/4/5) quickly swipe through full-screen photos. My solution was to quickly prototype a lightbox modal which chronological queues up photos so the user can swipe through each photo and return by swiping up.
-Design Process  Pick an app you like and want to improve (one you know well helps) Sketch out ideas and iterate on the design Take screenshots and recreate what you need in Sketch Write down the experience from start to finish Work out if the step is an animation or user event Move to Framer and follow your written plan Test on device (you need to get firsthand experience of your design) Solicit feedback from community and friends  Play on Framer</description>
+Design Process  Pick an app you like and want to improve (one you know well helps)</description>
     </item>
     
   </channel>

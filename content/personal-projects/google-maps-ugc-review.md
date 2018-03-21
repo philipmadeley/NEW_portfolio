@@ -9,7 +9,7 @@ publishDate: 2016-04-10
 comments: false
 generatePage: false
 img_thumbnail: "images/gmaps_ugc_rating.gif"
-class: dr_gm
+class: dr_gm2
 draft: false
 ---
 
@@ -22,6 +22,7 @@ UGC (user-generated content) is enriching Google Maps from just a route planner 
 2. helps structure a review if they decide to write one (food, service, value)
 3. helps other users understand a more in-depth rating per venue
 
+## Feedback 
 If you have any feedback or ways to improve this prototype, I'd be happy to chat through any of the social channels below.
 
 <a href="http://share.framerjs.com/j5nmqffx5el8/" target="_blank">

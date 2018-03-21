@@ -16,15 +16,16 @@ draft: false
 ![Hero image](/images/an_top_sm@2x.jpg)
 
 ## Overview
-Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance. This was an on-going project over about 16 months which was split into two parts
+Metaps is an app monetization platform focused on how to maximize revenue and optimize campaign performance. This was an on-going project over about 16 months which was split into two parts:
 
 1. Design and implement modular components for the preexisting dashboard
 2. Redesign the landing page
 
-In this case study I will only discuss the dashboard funnel and segment analytics tools.
+In this case study, I will only discuss the dashboard funnel and segment analytics tools.
 
 ## Ideation
 Kickoff meetings were held with a product manager to figure out the goals, scope, and constraints of each project.  These meetings were conducted around a whiteboard, followed up with a round of discussion and, more importantly, a comprehension check of each other's ideas.
+
 After that, I used mind mapping to uncover and explore possible solutions.  For research, benchmarking the competition and testing out current solutions in the market helped solve some key decisions regarding the user journey.  In the example,  I created user flows for a funnel to track dropoff and conversion rates.  
 
 ![Ideation user flow](/images/an_ideation_userflow.jpg)

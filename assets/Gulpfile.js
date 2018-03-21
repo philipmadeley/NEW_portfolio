@@ -55,9 +55,9 @@ gulp.task('js', function() {
 
 //the default "compile" task for sass and js
 
-// gulp.task('compile', ['sass', 'scripts'], function() {
-//   gulp.watch(['scss/*.scss', 'scss/modules/*scss'], ['sass']);
-//   gulp.watch("scss/partials/*.scss", ['sass']);
+// gulp.task('compile', ['scss', 'js'], function() {
+//   gulp.watch(['scss/*.scss', 'scss/modules/*scss'], ['scss']);
+//   gulp.watch("scss/partials/*.scss", ['scss']);
 //   gulp.watch("js/modules/*.js", ['scripts']);
 //   // gulp.watch("../content/**/*.md", ['markdown']);
 // });
@@ -70,7 +70,8 @@ gulp.task('js', function() {
 gulp.task("watch", [
   "scss", "js"
 ], function() {
-  gulp.watch("scss/**/*", ["scss"])
+  gulp.watch(['scss/*.scss', 'scss/modules/*scss'], ['scss']);
+  //gulp.watch("scss/**/*", ["scss"])
   gulp.watch("images/**/*", ["images"])
   gulp.watch("js/**/*", ["js"])
 })

@@ -20,13 +20,16 @@ I love snowboarding and wanted to capture the best footage from a day in the mou
 
 ## Design Process
 1. Get firsthand experience of the problem
-2. Sketch out ideas and iterate on the design
-3. Move into Sketch
-4. Write down the experience from start to finish
-5. Work out if the step is an animation or user event
-6. Move to Framer and follow your written plan
-7. Test on device (if possible)
-8. Solicit feedback from community and friends
+- Sketch out ideas and iterate on the design
+- Write down the experience from start to finish
+- Work out if the step is an animation or user event
+- Move to Sketch
+- Move to Framer and follow your written plan
+- Test on device (if possible)
+- Solicit feedback from community and friends
+
+## Feedback
+If you have any feedback or ways to improve this prototype, I'd be happy to chat through any of the social channels below.
 
 <a href="http://codepen.io/pjmtokyo/pen/xVReaR" target="_blank">
 <button>See the code on Codepen</button>
