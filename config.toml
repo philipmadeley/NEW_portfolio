@@ -1,7 +1,7 @@
 # Only one archetype (posts) is included in Hugo Starter
 DefaultContentLanguage = "en"
 archetypedir = "archetypes"
-baseurl = "http://www.philipmadeley.com/"
+baseurl = "http://www.philipmadeley.com"
 buildDrafts = true
 buildFuture = false
 canonifyurls = true
@@ -69,7 +69,6 @@ watch = true
   angledQuotes = false
   latexDashes = true
   extensions = ["hardLineBreak"]
-
 
 [taxonomies]
   tag = "tags"
